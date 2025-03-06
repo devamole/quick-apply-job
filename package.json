@@ -1,0 +1,22 @@
+{
+  "name": "linkedin-quick-apply-bot",
+  "version": "1.0.0",
+  "description": "a quick apply jobs bot",
+  "main": "src/main.js",
+  "repository": "https://github.com/devamole/quick-apply-job.git",
+  "author": "Devamole",
+  "license": "MIT",
+  "scripts": {
+    "start": "node src/main.js",
+    "dev": "nodemon src/main.js"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  },
+  "dependencies": {
+    "axios": "^1.8.1",
+    "dotenv": "^16.4.7",
+    "playwright": "^1.50.1",
+    "winston": "^3.17.0"
+  }
+}

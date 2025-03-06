@@ -1,0 +1,1461 @@
+2025-02-26 17:47:22 [32minfo[39m: Iniciando bot con URL: https://www.linkedin.com/jobs/search/?currentJobId=4167642273&distance=50&f_T=9%2C25170%2C25201%2C23347%2C24%2C9633%2C25194%2C191%2C10738&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true
+2025-02-26 17:47:22 [32minfo[39m: Cookies cargadas desde archivo.
+2025-02-26 17:47:23 [32minfo[39m: Aplicando retraso aleatorio de 688 ms.
+2025-02-26 17:47:53 [31merror[39m: Error al verificar autenticación: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/feed/", waiting until "networkidle"[22m
+
+2025-02-26 17:47:53 [31merror[39m: Error en main.js: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/feed/", waiting until "networkidle"[22m
+
+2025-02-26 17:47:59 [32minfo[39m: Iniciando bot con URL: https://www.linkedin.com/jobs/search/?currentJobId=4167642273&distance=50&f_T=9%2C25170%2C25201%2C23347%2C24%2C9633%2C25194%2C191%2C10738&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true
+2025-02-26 17:47:59 [32minfo[39m: Cookies cargadas desde archivo.
+2025-02-26 17:48:00 [32minfo[39m: Aplicando retraso aleatorio de 588 ms.
+2025-02-26 17:48:29 [31merror[39m: Error al verificar autenticación: page.goto: Target page, context or browser has been closed
+Call log:
+[2m  - navigating to "https://www.linkedin.com/feed/", waiting until "networkidle"[22m
+
+2025-02-26 17:48:29 [31merror[39m: Error en main.js: page.goto: Target page, context or browser has been closed
+Call log:
+[2m  - navigating to "https://www.linkedin.com/feed/", waiting until "networkidle"[22m
+
+2025-02-26 17:48:35 [32minfo[39m: Iniciando bot con URL: https://www.linkedin.com/jobs/search/?currentJobId=4167642273&distance=50&f_T=9%2C25170%2C25201%2C23347%2C24%2C9633%2C25194%2C191%2C10738&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true
+2025-02-26 17:48:35 [32minfo[39m: Cookies cargadas desde archivo.
+2025-02-26 17:48:36 [32minfo[39m: Aplicando retraso aleatorio de 771 ms.
+2025-02-26 17:49:06 [31merror[39m: Error al verificar autenticación: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/feed/", waiting until "networkidle"[22m
+
+2025-02-26 17:49:06 [31merror[39m: Error en main.js: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/feed/", waiting until "networkidle"[22m
+
+2025-02-26 17:49:18 [32minfo[39m: Iniciando bot con URL: https://www.linkedin.com/jobs/search/?currentJobId=4167642273&distance=50&f_T=9%2C25170%2C25201%2C23347%2C24%2C9633%2C25194%2C191%2C10738&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true
+2025-02-26 17:49:18 [32minfo[39m: Cookies cargadas desde archivo.
+2025-02-26 17:49:18 [32minfo[39m: Aplicando retraso aleatorio de 852 ms.
+2025-02-26 17:49:49 [31merror[39m: Error al verificar autenticación: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/feed/", waiting until "networkidle"[22m
+
+2025-02-26 17:49:49 [31merror[39m: Error en main.js: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/feed/", waiting until "networkidle"[22m
+
+2025-02-27 02:12:54 [32minfo[39m: Iniciando bot con URL: https://www.linkedin.com/jobs/search/?currentJobId=4167642273&distance=50&f_T=9%2C25170%2C25201%2C23347%2C24%2C9633%2C25194%2C191%2C10738&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true
+2025-02-27 02:12:57 [32minfo[39m: Cookies cargadas desde archivo.
+2025-02-27 02:12:58 [32minfo[39m: Aplicando retraso aleatorio de 1096 ms.
+2025-02-27 02:13:03 [32minfo[39m: Usuario ya autenticado.
+2025-02-27 02:13:03 [32minfo[39m: Cookies guardadas en archivo.
+2025-02-27 02:13:03 [32minfo[39m: Iniciando flujo con la URL: https://www.linkedin.com/jobs/search/?currentJobId=4167642273&distance=50&f_T=9%2C25170%2C25201%2C23347%2C24%2C9633%2C25194%2C191%2C10738&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true
+2025-02-27 02:13:08 [32minfo[39m: Listado de vacantes cargado correctamente.
+2025-02-27 02:13:08 [32minfo[39m: Se extrajeron 7 vacantes.
+2025-02-27 02:13:08 [32minfo[39m: Se encontraron 7 vacantes.
+2025-02-27 02:13:08 [32minfo[39m: Procesando la vacante "Programador full stack
+Programador full stack" (ID: 4165479170)
+2025-02-27 02:13:11 [31merror[39m: Error al abrir el modal de Quick Apply: elementHandle.click: Element is not attached to the DOM
+Call log:
+[2m  - attempting click action[22m
+[2m    - waiting for element to be visible, enabled and stable[22m
+
+2025-02-27 02:13:11 [32minfo[39m: Iniciando el llenado del formulario del modal...
+2025-02-27 02:13:26 [31merror[39m: Error al llenar el formulario del modal: page.waitForSelector: Timeout 15000ms exceeded.
+Call log:
+[2m  - waiting for locator('form') to be visible[22m
+[2m    33 × locator resolved to 6 elements. Proceeding with the first one: <form>…</form>[22m
+
+2025-02-27 02:13:30 [32minfo[39m: Botón "Solicitud sencilla" clickeado, esperando apertura del modal...
+2025-02-27 02:13:30 [32minfo[39m: Modal de "Solicitud sencilla" abierto.
+2025-02-27 02:13:30 [32minfo[39m: Iniciando el llenado del formulario del modal...
+2025-02-27 02:13:30 [32minfo[39m: Se encontraron 0 campos para llenar.
+2025-02-27 02:13:30 [32minfo[39m: Step completado; se hizo clic en el botón de avance.
+2025-02-27 02:13:32 [32minfo[39m: Se omite la vacante "Full Stack Developer
+Full Stack Developer" porque no es Quick Apply.
+2025-02-27 02:13:32 [32minfo[39m: Se omite la vacante "Node Developer - Trabajo Remoto
+Node Developer - Trabajo Remoto with verification" porque no es Quick Apply.
+2025-02-27 02:13:32 [32minfo[39m: Se omite la vacante "Senior Full Stack Developer
+Senior Full Stack Developer" porque no es Quick Apply.
+2025-02-27 02:13:32 [32minfo[39m: Procesando la vacante "Senior FullStack Engineer (Next.js+Node)
+Senior FullStack Engineer (Next.js+Node) with verification" (ID: 4168391550)
+2025-02-27 02:42:34 [32minfo[39m: Iniciando bot con URL: https://www.linkedin.com/jobs/search/?currentJobId=4167642273&distance=50&f_T=9%2C25170%2C25201%2C23347%2C24%2C9633%2C25194%2C191%2C10738&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true
+2025-02-27 02:42:36 [32minfo[39m: Cookies cargadas desde archivo.
+2025-02-27 02:42:37 [32minfo[39m: Aplicando retraso aleatorio de 809 ms.
+2025-02-27 02:42:41 [32minfo[39m: Usuario ya autenticado.
+2025-02-27 02:42:41 [32minfo[39m: Cookies guardadas en archivo.
+2025-02-27 02:42:41 [32minfo[39m: Iniciando flujo con la URL: https://www.linkedin.com/jobs/search/?currentJobId=4167642273&distance=50&f_T=9%2C25170%2C25201%2C23347%2C24%2C9633%2C25194%2C191%2C10738&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true
+2025-02-27 02:42:46 [32minfo[39m: Listado de vacantes cargado correctamente.
+2025-02-27 02:42:46 [32minfo[39m: Se extrajeron 7 vacantes.
+2025-02-27 02:42:46 [32minfo[39m: Se encontraron 7 vacantes.
+2025-02-27 02:42:46 [32minfo[39m: Se omite la vacante "Full Stack Developer
+Full Stack Developer" porque no es Quick Apply.
+2025-02-27 02:42:46 [32minfo[39m: Se omite la vacante "Node Developer - Trabajo Remoto
+Node Developer - Trabajo Remoto with verification" porque no es Quick Apply.
+2025-02-27 02:42:46 [32minfo[39m: Se omite la vacante "Senior Full Stack Developer
+Senior Full Stack Developer" porque no es Quick Apply.
+2025-02-27 02:42:46 [32minfo[39m: Procesando la vacante "Senior FullStack Engineer (Next.js+Node)
+Senior FullStack Engineer (Next.js+Node) with verification" (ID: 4168391550)
+2025-02-27 02:42:49 [32minfo[39m: Botón "Solicitud sencilla" clickeado, esperando apertura del modal...
+2025-02-27 02:42:50 [32minfo[39m: Modal de "Solicitud sencilla" abierto.
+2025-02-27 02:42:50 [32minfo[39m: Iniciando llenado multi-step...
+2025-02-27 02:42:50 [32minfo[39m: Detectado step: FAVORITE
+2025-02-27 02:42:50 [32minfo[39m: Paso "Marcar esta vacante como favorita" detectado; se omite y se hace clic en "Siguiente".
+2025-02-27 02:43:00 [31merror[39m: Error al hacer clic en "Siguiente": page.waitForSelector: Timeout 10000ms exceeded.
+Call log:
+[2m  - waiting for locator('button[data-easy-apply-next-button]') to be visible[22m
+
+2025-02-27 02:46:20 [32minfo[39m: Iniciando bot con URL: https://www.linkedin.com/jobs/search/?currentJobId=4167642273&distance=50&f_T=9%2C25170%2C25201%2C23347%2C24%2C9633%2C25194%2C191%2C10738&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true
+2025-02-27 02:46:23 [32minfo[39m: Cookies cargadas desde archivo.
+2025-02-27 02:46:23 [32minfo[39m: Aplicando retraso aleatorio de 585 ms.
+2025-02-27 02:46:27 [32minfo[39m: Usuario ya autenticado.
+2025-02-27 02:46:27 [32minfo[39m: Cookies guardadas en archivo.
+2025-02-27 02:46:27 [32minfo[39m: Iniciando flujo con la URL: https://www.linkedin.com/jobs/search/?currentJobId=4167642273&distance=50&f_T=9%2C25170%2C25201%2C23347%2C24%2C9633%2C25194%2C191%2C10738&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true
+2025-02-27 02:46:32 [32minfo[39m: Listado de vacantes cargado correctamente.
+2025-02-27 02:46:32 [32minfo[39m: Se extrajeron 7 vacantes.
+2025-02-27 02:46:32 [32minfo[39m: Se encontraron 7 vacantes.
+2025-02-27 02:46:32 [32minfo[39m: Se omite la vacante "Full Stack Developer
+Full Stack Developer" porque no es Quick Apply.
+2025-02-27 02:46:32 [32minfo[39m: Se omite la vacante "Node Developer - Trabajo Remoto
+Node Developer - Trabajo Remoto with verification" porque no es Quick Apply.
+2025-02-27 02:46:32 [32minfo[39m: Se omite la vacante "Senior Full Stack Developer
+Senior Full Stack Developer" porque no es Quick Apply.
+2025-02-27 02:46:32 [32minfo[39m: Se omite la vacante "Full Stack Developer
+Full Stack Developer with verification" porque no es Quick Apply.
+2025-02-27 02:46:32 [32minfo[39m: Procesando la vacante "Senior Full Stack Engineer (Node.js/TypeScript)
+Senior Full Stack Engineer (Node.js/TypeScript) with verification" (ID: 4081813818)
+2025-02-27 02:46:34 [32minfo[39m: Botón "Solicitud sencilla" clickeado, esperando apertura del modal...
+2025-02-27 02:46:35 [32minfo[39m: Modal de "Solicitud sencilla" abierto.
+2025-02-27 02:46:35 [32minfo[39m: Iniciando llenado multi-step...
+2025-02-27 02:46:36 [32minfo[39m: Detectado step: DONE
+2025-02-27 02:46:36 [32minfo[39m: No hay más pasos que llenar. Terminando multi-step.
+2025-02-27 02:46:36 [32minfo[39m: Finalizó el proceso multi-step para esta vacante.
+2025-02-27 02:46:38 [32minfo[39m: Procesando la vacante "Senior FullStack Engineer (Next.js+Node)
+Senior FullStack Engineer (Next.js+Node) with verification" (ID: 4168391550)
+2025-02-27 02:47:42 [31merror[39m: Error al abrir el modal de Quick Apply: elementHandle.click: Target page, context or browser has been closed
+Call log:
+[2m  - attempting click action[22m
+[2m    - waiting for element to be visible, enabled and stable[22m
+
+2025-02-27 02:47:42 [32minfo[39m: No se pudo abrir el modal para la vacante "Senior FullStack Engineer (Next.js+Node)
+Senior FullStack Engineer (Next.js+Node) with verification". Se procede con la siguiente vacante.
+2025-02-27 02:47:44 [32minfo[39m: Procesando la vacante "Programador full stack
+Programador full stack" (ID: 4165447402)
+2025-02-27 02:47:50 [32minfo[39m: Iniciando bot con URL: https://www.linkedin.com/jobs/search/?currentJobId=4167642273&distance=50&f_T=9%2C25170%2C25201%2C23347%2C24%2C9633%2C25194%2C191%2C10738&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true
+2025-02-27 02:47:50 [32minfo[39m: Cookies cargadas desde archivo.
+2025-02-27 02:47:51 [32minfo[39m: Aplicando retraso aleatorio de 821 ms.
+2025-02-27 02:48:22 [31merror[39m: Error al verificar autenticación: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/feed/", waiting until "networkidle"[22m
+
+2025-02-27 02:48:22 [31merror[39m: Error en main.js: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/feed/", waiting until "networkidle"[22m
+
+2025-02-27 02:48:27 [32minfo[39m: Iniciando bot con URL: https://www.linkedin.com/jobs/search/?currentJobId=4167642273&distance=50&f_T=9%2C25170%2C25201%2C23347%2C24%2C9633%2C25194%2C191%2C10738&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true
+2025-02-27 02:48:28 [32minfo[39m: Cookies cargadas desde archivo.
+2025-02-27 02:48:28 [32minfo[39m: Aplicando retraso aleatorio de 709 ms.
+2025-02-27 02:48:44 [31merror[39m: Error al verificar autenticación: page.goto: Target page, context or browser has been closed
+Call log:
+[2m  - navigating to "https://www.linkedin.com/feed/", waiting until "networkidle"[22m
+
+2025-02-27 02:48:44 [31merror[39m: Error en main.js: page.goto: Target page, context or browser has been closed
+Call log:
+[2m  - navigating to "https://www.linkedin.com/feed/", waiting until "networkidle"[22m
+
+2025-02-27 02:51:59 [32minfo[39m: Iniciando bot con URL: https://www.linkedin.com/jobs/search/?currentJobId=4167642273&distance=50&f_T=9%2C25170%2C25201%2C23347%2C24%2C9633%2C25194%2C191%2C10738&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true
+2025-02-27 02:51:59 [32minfo[39m: Cookies cargadas desde archivo.
+2025-02-27 02:51:59 [32minfo[39m: Aplicando retraso aleatorio de 714 ms.
+2025-02-27 02:52:17 [31merror[39m: Error al verificar autenticación: page.goto: Target page, context or browser has been closed
+Call log:
+[2m  - navigating to "https://www.linkedin.com/feed/", waiting until "networkidle"[22m
+
+2025-02-27 02:52:17 [31merror[39m: Error en main.js: page.goto: Target page, context or browser has been closed
+Call log:
+[2m  - navigating to "https://www.linkedin.com/feed/", waiting until "networkidle"[22m
+
+2025-02-27 02:57:03 [32minfo[39m: Iniciando bot con URL: https://www.linkedin.com/jobs/search/?currentJobId=4167642273&distance=50&f_T=9%2C25170%2C25201%2C23347%2C24%2C9633%2C25194%2C191%2C10738&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true
+2025-02-27 02:57:04 [32minfo[39m: Cookies cargadas desde archivo.
+2025-02-27 02:57:04 [32minfo[39m: Aplicando retraso aleatorio de 1213 ms.
+2025-02-27 02:57:36 [31merror[39m: Error al verificar autenticación: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/feed/", waiting until "networkidle"[22m
+
+2025-02-27 02:57:36 [31merror[39m: Error en main.js: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/feed/", waiting until "networkidle"[22m
+
+2025-02-27 02:57:49 [32minfo[39m: Iniciando bot con URL: https://www.linkedin.com/jobs/search/?currentJobId=4167642273&distance=50&f_T=9%2C25170%2C25201%2C23347%2C24%2C9633%2C25194%2C191%2C10738&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true
+2025-02-27 02:57:49 [32minfo[39m: Cookies cargadas desde archivo.
+2025-02-27 02:57:49 [32minfo[39m: Aplicando retraso aleatorio de 1395 ms.
+2025-02-27 02:58:21 [31merror[39m: Error al verificar autenticación: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/feed/", waiting until "networkidle"[22m
+
+2025-02-27 02:58:21 [31merror[39m: Error en main.js: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/feed/", waiting until "networkidle"[22m
+
+2025-02-27 03:01:22 [32minfo[39m: Iniciando bot con URL: https://www.linkedin.com/jobs/search/?currentJobId=4167642273&distance=50&f_T=9%2C25170%2C25201%2C23347%2C24%2C9633%2C25194%2C191%2C10738&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true
+2025-02-27 03:01:23 [32minfo[39m: Cookies cargadas desde archivo.
+2025-02-27 03:01:23 [32minfo[39m: Aplicando retraso aleatorio de 1300 ms.
+2025-02-27 03:01:28 [32minfo[39m: Usuario ya autenticado.
+2025-02-27 03:01:28 [32minfo[39m: Cookies guardadas en archivo.
+2025-02-27 03:01:29 [32minfo[39m: Iniciando flujo con la URL: https://www.linkedin.com/jobs/search/?currentJobId=4167642273&distance=50&f_T=9%2C25170%2C25201%2C23347%2C24%2C9633%2C25194%2C191%2C10738&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true
+2025-02-27 03:01:33 [32minfo[39m: Listado de vacantes cargado correctamente.
+2025-02-27 03:01:33 [32minfo[39m: Se extrajeron 7 vacantes.
+2025-02-27 03:01:33 [32minfo[39m: Se encontraron 7 vacantes.
+2025-02-27 03:01:33 [32minfo[39m: Se omite la vacante "Node Developer - Trabajo Remoto
+Node Developer - Trabajo Remoto with verification" porque no es Quick Apply.
+2025-02-27 03:01:33 [32minfo[39m: Se omite la vacante "Full Stack Developer
+Full Stack Developer" porque no es Quick Apply.
+2025-02-27 03:01:33 [32minfo[39m: Se omite la vacante "Senior Full Stack Developer
+Senior Full Stack Developer" porque no es Quick Apply.
+2025-02-27 03:01:33 [32minfo[39m: Se omite la vacante "Full Stack Developer
+Full Stack Developer with verification" porque no es Quick Apply.
+2025-02-27 03:01:33 [32minfo[39m: Procesando la vacante "Programador full stack
+Programador full stack" (ID: 4165447402)
+2025-02-27 03:01:34 [31merror[39m: Error al abrir el modal de Quick Apply: elementHandle.click: Element is not attached to the DOM
+Call log:
+[2m  - attempting click action[22m
+[2m    - waiting for element to be visible, enabled and stable[22m
+
+2025-02-27 03:01:34 [32minfo[39m: No se pudo abrir el modal para la vacante "Programador full stack
+Programador full stack". Se procede con la siguiente vacante.
+2025-02-27 03:01:36 [32minfo[39m: Se omite la vacante "Desarrollador Fullstack - Hibrido En Bogotá
+Desarrollador Fullstack - Hibrido En Bogotá" porque no es Quick Apply.
+2025-02-27 03:01:36 [32minfo[39m: Se omite la vacante "Desarrollador Frontend React.js y React Native
+Desarrollador Frontend React.js y React Native" porque no es Quick Apply.
+2025-02-27 03:01:36 [32minfo[39m: Proceso de postulación finalizado.
+2025-02-27 03:02:53 [32minfo[39m: Iniciando bot con URL: https://www.linkedin.com/jobs/search/?currentJobId=4167642273&distance=50&f_T=9%2C25170%2C25201%2C23347%2C24%2C9633%2C25194%2C191%2C10738&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true
+2025-02-27 03:02:55 [32minfo[39m: Cookies cargadas desde archivo.
+2025-02-27 03:02:55 [32minfo[39m: Aplicando retraso aleatorio de 1363 ms.
+2025-02-27 03:03:01 [32minfo[39m: Usuario ya autenticado.
+2025-02-27 03:03:01 [32minfo[39m: Cookies guardadas en archivo.
+2025-02-27 03:03:01 [32minfo[39m: Iniciando flujo con la URL: https://www.linkedin.com/jobs/search/?currentJobId=4167642273&distance=50&f_T=9%2C25170%2C25201%2C23347%2C24%2C9633%2C25194%2C191%2C10738&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true
+2025-02-27 03:03:06 [32minfo[39m: Listado de vacantes cargado correctamente.
+2025-02-27 03:03:06 [32minfo[39m: Se extrajeron 7 vacantes.
+2025-02-27 03:03:06 [32minfo[39m: Se encontraron 7 vacantes.
+2025-02-27 03:03:06 [32minfo[39m: Se omite la vacante "Full Stack Developer
+Full Stack Developer" porque no es Quick Apply.
+2025-02-27 03:03:06 [32minfo[39m: Se omite la vacante "Node Developer - Trabajo Remoto
+Node Developer - Trabajo Remoto with verification" porque no es Quick Apply.
+2025-02-27 03:03:06 [32minfo[39m: Se omite la vacante "Senior Full Stack Developer
+Senior Full Stack Developer" porque no es Quick Apply.
+2025-02-27 03:03:06 [32minfo[39m: Se omite la vacante "Full Stack Developer
+Full Stack Developer with verification" porque no es Quick Apply.
+2025-02-27 03:03:06 [32minfo[39m: Procesando la vacante "Programador full stack
+Programador full stack" (ID: 4165447402)
+2025-02-27 03:03:07 [31merror[39m: Error al abrir el modal de Quick Apply: elementHandle.click: Element is not attached to the DOM
+Call log:
+[2m  - attempting click action[22m
+[2m    - waiting for element to be visible, enabled and stable[22m
+
+2025-02-27 03:03:07 [32minfo[39m: No se pudo abrir el modal para la vacante "Programador full stack
+Programador full stack". Se procede con la siguiente vacante.
+2025-02-27 03:03:09 [32minfo[39m: Se omite la vacante "Desarrollador Fullstack - Hibrido En Bogotá
+Desarrollador Fullstack - Hibrido En Bogotá" porque no es Quick Apply.
+2025-02-27 03:03:09 [32minfo[39m: Se omite la vacante "Desarrollador Frontend React.js y React Native
+Desarrollador Frontend React.js y React Native" porque no es Quick Apply.
+2025-02-27 03:03:09 [32minfo[39m: Proceso de postulación finalizado.
+2025-02-27 03:03:38 [32minfo[39m: Iniciando bot con URL: https://www.linkedin.com/jobs/search/?currentJobId=4167642273&distance=50&f_T=9%2C25170%2C25201%2C23347%2C24%2C9633%2C25194%2C191%2C10738&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true
+2025-02-27 03:03:39 [32minfo[39m: Cookies cargadas desde archivo.
+2025-02-27 03:03:39 [32minfo[39m: Aplicando retraso aleatorio de 679 ms.
+2025-02-27 03:03:43 [32minfo[39m: Usuario ya autenticado.
+2025-02-27 03:03:43 [32minfo[39m: Cookies guardadas en archivo.
+2025-02-27 03:03:43 [32minfo[39m: Iniciando flujo con la URL: https://www.linkedin.com/jobs/search/?currentJobId=4167642273&distance=50&f_T=9%2C25170%2C25201%2C23347%2C24%2C9633%2C25194%2C191%2C10738&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true
+2025-02-27 03:03:47 [32minfo[39m: Listado de vacantes cargado correctamente.
+2025-02-27 03:03:48 [32minfo[39m: Se extrajeron 7 vacantes.
+2025-02-27 03:03:48 [32minfo[39m: Se encontraron 7 vacantes.
+2025-02-27 03:03:48 [32minfo[39m: Se omite la vacante "Full Stack Developer
+Full Stack Developer" porque no es Quick Apply.
+2025-02-27 03:03:48 [32minfo[39m: Se omite la vacante "Node Developer - Trabajo Remoto
+Node Developer - Trabajo Remoto with verification" porque no es Quick Apply.
+2025-02-27 03:03:48 [32minfo[39m: Se omite la vacante "Senior Full Stack Developer
+Senior Full Stack Developer" porque no es Quick Apply.
+2025-02-27 03:03:48 [32minfo[39m: Se omite la vacante "Full Stack Developer
+Full Stack Developer with verification" porque no es Quick Apply.
+2025-02-27 03:03:48 [32minfo[39m: Procesando la vacante "Programador full stack
+Programador full stack" (ID: 4165447402)
+2025-02-27 03:03:49 [31merror[39m: Error al abrir el modal de Quick Apply: elementHandle.click: Element is not attached to the DOM
+Call log:
+[2m  - attempting click action[22m
+[2m    - waiting for element to be visible, enabled and stable[22m
+
+2025-02-27 03:03:49 [32minfo[39m: No se pudo abrir el modal para la vacante "Programador full stack
+Programador full stack". Se procede con la siguiente vacante.
+2025-02-27 03:03:51 [32minfo[39m: Se omite la vacante "Desarrollador Fullstack - Hibrido En Bogotá
+Desarrollador Fullstack - Hibrido En Bogotá" porque no es Quick Apply.
+2025-02-27 03:03:51 [32minfo[39m: Se omite la vacante "Desarrollador Frontend React.js y React Native
+Desarrollador Frontend React.js y React Native" porque no es Quick Apply.
+2025-02-27 03:03:51 [32minfo[39m: Proceso de postulación finalizado.
+2025-02-27 03:05:15 [32minfo[39m: Iniciando bot con URL: https://www.linkedin.com/jobs/search/?currentJobId=4167642273&distance=50&f_T=9%2C25170%2C25201%2C23347%2C24%2C9633%2C25194%2C191%2C10738&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true
+2025-02-27 03:05:16 [32minfo[39m: Cookies cargadas desde archivo.
+2025-02-27 03:05:16 [32minfo[39m: Aplicando retraso aleatorio de 1149 ms.
+2025-02-27 03:05:21 [32minfo[39m: Usuario ya autenticado.
+2025-02-27 03:05:21 [32minfo[39m: Cookies guardadas en archivo.
+2025-02-27 03:05:21 [32minfo[39m: Iniciando flujo con la URL: https://www.linkedin.com/jobs/search/?currentJobId=4167642273&distance=50&f_T=9%2C25170%2C25201%2C23347%2C24%2C9633%2C25194%2C191%2C10738&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true
+2025-02-27 03:05:51 [31merror[39m: Error al cargar el listado de vacantes: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/jobs/search/?currentJobId=4167642273&distance=50&f_T=9%2C25170%2C25201%2C23347%2C24%2C9633%2C25194%2C191%2C10738&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true", waiting until "networkidle"[22m
+
+2025-02-27 03:05:51 [31merror[39m: Error en FlowController: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/jobs/search/?currentJobId=4167642273&distance=50&f_T=9%2C25170%2C25201%2C23347%2C24%2C9633%2C25194%2C191%2C10738&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true", waiting until "networkidle"[22m
+
+2025-02-27 03:05:52 [31merror[39m: Error en main.js: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/jobs/search/?currentJobId=4167642273&distance=50&f_T=9%2C25170%2C25201%2C23347%2C24%2C9633%2C25194%2C191%2C10738&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true", waiting until "networkidle"[22m
+
+2025-02-27 03:05:59 [32minfo[39m: Iniciando bot con URL: https://www.linkedin.com/jobs/search/?currentJobId=4167642273&distance=50&f_T=9%2C25170%2C25201%2C23347%2C24%2C9633%2C25194%2C191%2C10738&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true
+2025-02-27 03:06:00 [32minfo[39m: Cookies cargadas desde archivo.
+2025-02-27 03:06:00 [32minfo[39m: Aplicando retraso aleatorio de 876 ms.
+2025-02-27 03:06:04 [32minfo[39m: Usuario ya autenticado.
+2025-02-27 03:06:04 [32minfo[39m: Cookies guardadas en archivo.
+2025-02-27 03:06:05 [32minfo[39m: Iniciando flujo con la URL: https://www.linkedin.com/jobs/search/?currentJobId=4167642273&distance=50&f_T=9%2C25170%2C25201%2C23347%2C24%2C9633%2C25194%2C191%2C10738&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true
+2025-02-27 03:06:35 [31merror[39m: Error al cargar el listado de vacantes: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/jobs/search/?currentJobId=4167642273&distance=50&f_T=9%2C25170%2C25201%2C23347%2C24%2C9633%2C25194%2C191%2C10738&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true", waiting until "networkidle"[22m
+
+2025-02-27 03:06:35 [31merror[39m: Error en FlowController: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/jobs/search/?currentJobId=4167642273&distance=50&f_T=9%2C25170%2C25201%2C23347%2C24%2C9633%2C25194%2C191%2C10738&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true", waiting until "networkidle"[22m
+
+2025-02-27 03:06:35 [31merror[39m: Error en main.js: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/jobs/search/?currentJobId=4167642273&distance=50&f_T=9%2C25170%2C25201%2C23347%2C24%2C9633%2C25194%2C191%2C10738&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true", waiting until "networkidle"[22m
+
+2025-02-27 03:08:03 [32minfo[39m: Iniciando bot con URL: https://www.linkedin.com/jobs/search/?currentJobId=4168393182&distance=50.0&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER
+2025-02-27 03:08:04 [32minfo[39m: Cookies cargadas desde archivo.
+2025-02-27 03:08:04 [32minfo[39m: Aplicando retraso aleatorio de 1111 ms.
+2025-02-27 03:08:09 [32minfo[39m: Usuario ya autenticado.
+2025-02-27 03:08:09 [32minfo[39m: Cookies guardadas en archivo.
+2025-02-27 03:08:09 [32minfo[39m: Iniciando flujo con la URL: https://www.linkedin.com/jobs/search/?currentJobId=4168393182&distance=50.0&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER
+2025-02-27 03:08:14 [32minfo[39m: Listado de vacantes cargado correctamente.
+2025-02-27 03:08:14 [32minfo[39m: Se extrajeron 7 vacantes.
+2025-02-27 03:08:14 [32minfo[39m: Se encontraron 7 vacantes.
+2025-02-27 03:08:14 [32minfo[39m: Procesando la vacante "Senior Front-end Engineer
+Senior Front-end Engineer with verification" (ID: 4168393182)
+2025-02-27 03:08:16 [32minfo[39m: Botón "Solicitud sencilla" clickeado, esperando apertura del modal...
+2025-02-27 03:08:17 [32minfo[39m: Modal de "Solicitud sencilla" abierto.
+2025-02-27 03:08:17 [32minfo[39m: Iniciando llenado multi-step...
+2025-02-27 03:08:17 [32minfo[39m: Detectado step: FINAL
+2025-02-27 03:08:17 [32minfo[39m: Paso final "Revisar tu solicitud" detectado; se procede a enviar la postulación.
+2025-02-27 03:08:17 [32minfo[39m: Solicitud enviada. Terminando multi-step.
+2025-02-27 03:08:17 [32minfo[39m: Finalizó el proceso multi-step para esta vacante.
+2025-02-27 03:08:19 [32minfo[39m: Se omite la vacante "Full Stack Developer
+Full Stack Developer" porque no es Quick Apply.
+2025-02-27 03:08:19 [32minfo[39m: Se omite la vacante "Node Developer - Trabajo Remoto
+Node Developer - Trabajo Remoto with verification" porque no es Quick Apply.
+2025-02-27 03:08:19 [32minfo[39m: Se omite la vacante "Senior Full Stack Developer
+Senior Full Stack Developer" porque no es Quick Apply.
+2025-02-27 03:08:19 [32minfo[39m: Procesando la vacante "Programador full stack
+Programador full stack" (ID: 4165447402)
+2025-02-27 03:11:54 [32minfo[39m: Iniciando bot con URL: https://www.linkedin.com/jobs/search/?currentJobId=4168393182&distance=50.0&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER
+2025-02-27 03:11:55 [32minfo[39m: Cookies cargadas desde archivo.
+2025-02-27 03:11:55 [32minfo[39m: Aplicando retraso aleatorio de 905 ms.
+2025-02-27 03:12:00 [32minfo[39m: Usuario ya autenticado.
+2025-02-27 03:12:00 [32minfo[39m: Cookies guardadas en archivo.
+2025-02-27 03:12:00 [32minfo[39m: Iniciando flujo con la URL: https://www.linkedin.com/jobs/search/?currentJobId=4168393182&distance=50.0&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER
+2025-02-27 03:12:04 [32minfo[39m: Listado de vacantes cargado correctamente.
+2025-02-27 03:12:05 [32minfo[39m: Se extrajeron 7 vacantes.
+2025-02-27 03:12:05 [32minfo[39m: Se encontraron 7 vacantes.
+2025-02-27 03:12:05 [32minfo[39m: Se omite la vacante "Full Stack Developer
+Full Stack Developer" porque no es Quick Apply.
+2025-02-27 03:12:05 [32minfo[39m: Se omite la vacante "Node Developer - Trabajo Remoto
+Node Developer - Trabajo Remoto with verification" porque no es Quick Apply.
+2025-02-27 03:12:05 [32minfo[39m: Se omite la vacante "Senior Full Stack Developer
+Senior Full Stack Developer" porque no es Quick Apply.
+2025-02-27 03:12:05 [32minfo[39m: Se omite la vacante "Senior Front-end Engineer
+Senior Front-end Engineer with verification" porque no es Quick Apply.
+2025-02-27 03:12:05 [32minfo[39m: Se omite la vacante "Full Stack Developer
+Full Stack Developer with verification" porque no es Quick Apply.
+2025-02-27 03:12:05 [32minfo[39m: Procesando la vacante "Programador full stack
+Programador full stack" (ID: 4165447402)
+2025-02-27 03:12:06 [31merror[39m: Error al abrir el modal de Quick Apply: elementHandle.click: Element is not attached to the DOM
+Call log:
+[2m  - attempting click action[22m
+[2m    - waiting for element to be visible, enabled and stable[22m
+[2m    - element is not visible[22m
+[2m  - retrying click action[22m
+[2m    - waiting for element to be visible, enabled and stable[22m
+
+2025-02-27 03:12:06 [32minfo[39m: No se pudo abrir el modal para la vacante "Programador full stack
+Programador full stack". Se procede con la siguiente vacante.
+2025-02-27 03:12:08 [32minfo[39m: Se omite la vacante "Senior Front-End Engineer
+Senior Front-End Engineer" porque no es Quick Apply.
+2025-02-27 03:12:08 [32minfo[39m: Proceso de postulación finalizado.
+2025-02-27 03:15:36 [32minfo[39m: Iniciando bot con URL: https://www.linkedin.com/jobs/search/?currentJobId=4168393182&distance=50.0&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER
+2025-02-27 03:15:36 [32minfo[39m: Cookies cargadas desde archivo.
+2025-02-27 03:15:37 [32minfo[39m: Aplicando retraso aleatorio de 1045 ms.
+2025-02-27 03:15:41 [32minfo[39m: Usuario ya autenticado.
+2025-02-27 03:15:41 [32minfo[39m: Cookies guardadas en archivo.
+2025-02-27 03:15:42 [32minfo[39m: Iniciando flujo con la URL: https://www.linkedin.com/jobs/search/?currentJobId=4168393182&distance=50.0&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER
+2025-02-27 03:15:46 [32minfo[39m: Listado de vacantes cargado correctamente.
+2025-02-27 03:15:47 [32minfo[39m: Se extrajeron 7 vacantes.
+2025-02-27 03:15:47 [32minfo[39m: Se encontraron 7 vacantes.
+2025-02-27 03:15:47 [32minfo[39m: Se omite la vacante "Full Stack Developer
+Full Stack Developer" porque no es Quick Apply.
+2025-02-27 03:15:47 [32minfo[39m: Se omite la vacante "Senior Front-end Engineer
+Senior Front-end Engineer with verification" porque no es Quick Apply.
+2025-02-27 03:15:47 [32minfo[39m: Se omite la vacante "Senior Full Stack Developer
+Senior Full Stack Developer" porque no es Quick Apply.
+2025-02-27 03:15:47 [32minfo[39m: Se omite la vacante "Node Developer - Trabajo Remoto
+Node Developer - Trabajo Remoto with verification" porque no es Quick Apply.
+2025-02-27 03:15:47 [32minfo[39m: Se omite la vacante "Full Stack Developer
+Full Stack Developer with verification" porque no es Quick Apply.
+2025-02-27 03:15:47 [32minfo[39m: Procesando la vacante "Programador full stack
+Programador full stack" (ID: 4165447402)
+2025-02-27 03:15:48 [32minfo[39m: Botón "Solicitud sencilla" clickeado, esperando apertura del modal...
+2025-02-27 03:15:48 [32minfo[39m: Modal de "Solicitud sencilla" abierto.
+2025-02-27 03:15:48 [32minfo[39m: Iniciando llenado multi-step...
+2025-02-27 03:15:49 [32minfo[39m: Detectado step: DONE
+2025-02-27 03:15:49 [32minfo[39m: No hay más pasos que llenar. Terminando multi-step.
+2025-02-27 03:15:49 [32minfo[39m: Finalizó el proceso multi-step para esta vacante.
+2025-02-27 03:15:51 [32minfo[39m: Se omite la vacante "Desarrollador Fullstack - Hibrido En Bogotá
+Desarrollador Fullstack - Hibrido En Bogotá" porque no es Quick Apply.
+2025-02-27 03:15:51 [32minfo[39m: Proceso de postulación finalizado.
+2025-02-27 03:20:31 [32minfo[39m: Iniciando bot con URL: https://www.linkedin.com/jobs/search/?currentJobId=4168393182&distance=50.0&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER
+2025-02-27 03:20:31 [32minfo[39m: Cookies cargadas desde archivo.
+2025-02-27 03:20:32 [32minfo[39m: Aplicando retraso aleatorio de 1499 ms.
+2025-02-27 03:20:39 [32minfo[39m: Usuario ya autenticado.
+2025-02-27 03:20:39 [32minfo[39m: Cookies guardadas en archivo.
+2025-02-27 03:20:40 [32minfo[39m: Iniciando flujo con la URL: https://www.linkedin.com/jobs/search/?currentJobId=4168393182&distance=50.0&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER
+2025-02-27 03:20:47 [32minfo[39m: Listado de vacantes cargado correctamente.
+2025-02-27 03:20:48 [32minfo[39m: Se extrajeron 12 vacantes.
+2025-02-27 03:20:48 [32minfo[39m: Se encontraron 12 vacantes.
+2025-02-27 03:20:48 [32minfo[39m: Se omite la vacante "Full Stack Developer
+Full Stack Developer" porque no es Quick Apply.
+2025-02-27 03:20:48 [32minfo[39m: Se omite la vacante "Node Developer - Trabajo Remoto
+Node Developer - Trabajo Remoto with verification" porque no es Quick Apply.
+2025-02-27 03:20:48 [32minfo[39m: Se omite la vacante "Senior Full Stack Developer
+Senior Full Stack Developer" porque no es Quick Apply.
+2025-02-27 03:20:48 [32minfo[39m: Se omite la vacante "Full Stack Developer
+Full Stack Developer with verification" porque no es Quick Apply.
+2025-02-27 03:20:48 [32minfo[39m: Se omite la vacante "Senior Front-End Engineer
+Senior Front-End Engineer" porque no es Quick Apply.
+2025-02-27 03:20:48 [32minfo[39m: Se omite la vacante "Desarrollador Frontend React.js y React Native
+Desarrollador Frontend React.js y React Native" porque no es Quick Apply.
+2025-02-27 03:20:48 [32minfo[39m: Se omite la vacante "Desarrollador Fullstack - Hibrido En Bogotá
+Desarrollador Fullstack - Hibrido En Bogotá" porque no es Quick Apply.
+2025-02-27 03:20:48 [32minfo[39m: Se omite la vacante "Desarrollador Fullstack
+Desarrollador Fullstack" porque no es Quick Apply.
+2025-02-27 03:20:48 [32minfo[39m: Procesando la vacante "Desarrollador Frontend Angular Bilingüe
+Desarrollador Frontend Angular Bilingüe" (ID: 4168660526)
+2025-02-27 03:20:49 [32minfo[39m: Botón "Solicitud sencilla" clickeado, esperando apertura del modal...
+2025-02-27 03:21:04 [31merror[39m: Error al abrir el modal de Quick Apply: page.waitForSelector: Timeout 15000ms exceeded.
+Call log:
+[2m  - waiting for locator('.jobs-easy-apply-modal') to be visible[22m
+
+2025-02-27 03:21:04 [32minfo[39m: No se pudo abrir el modal para la vacante "Desarrollador Frontend Angular Bilingüe
+Desarrollador Frontend Angular Bilingüe". Se procede con la siguiente vacante.
+2025-02-27 03:21:06 [32minfo[39m: Se omite la vacante "Senior Front-end Engineer
+Senior Front-end Engineer with verification" porque no es Quick Apply.
+2025-02-27 03:21:06 [32minfo[39m: Procesando la vacante "Programador full stack
+Programador full stack" (ID: 4165479170)
+2025-02-27 03:21:25 [32minfo[39m: Iniciando bot con URL: https://www.linkedin.com/jobs/search/?currentJobId=4168393182&distance=50.0&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER
+2025-02-27 03:21:26 [32minfo[39m: Cookies cargadas desde archivo.
+2025-02-27 03:21:26 [32minfo[39m: Aplicando retraso aleatorio de 1095 ms.
+2025-02-27 03:21:31 [32minfo[39m: Usuario ya autenticado.
+2025-02-27 03:21:32 [32minfo[39m: Cookies guardadas en archivo.
+2025-02-27 03:21:32 [32minfo[39m: Iniciando flujo con la URL: https://www.linkedin.com/jobs/search/?currentJobId=4168393182&distance=50.0&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER
+2025-02-27 03:21:36 [32minfo[39m: Listado de vacantes cargado correctamente.
+2025-02-27 03:21:37 [32minfo[39m: Se extrajeron 12 vacantes.
+2025-02-27 03:21:37 [32minfo[39m: Se encontraron 12 vacantes.
+2025-02-27 03:21:37 [32minfo[39m: Se omite la vacante "Full Stack Developer
+Full Stack Developer" porque no es Quick Apply.
+2025-02-27 03:21:37 [32minfo[39m: Se omite la vacante "Node Developer - Trabajo Remoto
+Node Developer - Trabajo Remoto with verification" porque no es Quick Apply.
+2025-02-27 03:21:37 [32minfo[39m: Se omite la vacante "Senior Full Stack Developer
+Senior Full Stack Developer" porque no es Quick Apply.
+2025-02-27 03:21:37 [32minfo[39m: Procesando la vacante "Java Software Engineer
+Java Software Engineer" (ID: 4168474535)
+2025-02-27 03:21:38 [32minfo[39m: Botón "Solicitud sencilla" clickeado, esperando apertura del modal...
+2025-02-27 03:21:39 [32minfo[39m: Modal de "Solicitud sencilla" abierto.
+2025-02-27 03:21:39 [32minfo[39m: Iniciando llenado multi-step...
+2025-02-27 03:21:39 [32minfo[39m: Detectado step: DONE
+2025-02-27 03:21:39 [32minfo[39m: No hay más pasos que llenar. Terminando multi-step.
+2025-02-27 03:21:39 [32minfo[39m: Finalizó el proceso multi-step para esta vacante.
+2025-02-27 03:21:41 [32minfo[39m: Se omite la vacante "Full Stack Developer
+Full Stack Developer with verification" porque no es Quick Apply.
+2025-02-27 03:21:41 [32minfo[39m: Se omite la vacante "Senior Front-End Engineer
+Senior Front-End Engineer" porque no es Quick Apply.
+2025-02-27 03:21:41 [32minfo[39m: Se omite la vacante "Desarrollador Fullstack - Hibrido En Bogotá
+Desarrollador Fullstack - Hibrido En Bogotá" porque no es Quick Apply.
+2025-02-27 03:21:41 [32minfo[39m: Se omite la vacante "Shopify Developer
+Shopify Developer" porque no es Quick Apply.
+2025-02-27 03:21:41 [32minfo[39m: Se omite la vacante "Desarrollador Fullstack Ecommerce
+Desarrollador Fullstack Ecommerce" porque no es Quick Apply.
+2025-02-27 03:21:41 [32minfo[39m: Se omite la vacante "Senior Front-end Engineer
+Senior Front-end Engineer with verification" porque no es Quick Apply.
+2025-02-27 03:21:41 [32minfo[39m: Procesando la vacante "Programador full stack
+Programador full stack" (ID: 4165479170)
+2025-02-27 03:24:27 [32minfo[39m: Iniciando bot con URL: https://www.linkedin.com/jobs/search/?currentJobId=4168393182&distance=50.0&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER
+2025-02-27 03:24:28 [32minfo[39m: Cookies cargadas desde archivo.
+2025-02-27 03:24:28 [32minfo[39m: Aplicando retraso aleatorio de 807 ms.
+2025-02-27 03:24:33 [32minfo[39m: Usuario ya autenticado.
+2025-02-27 03:24:33 [32minfo[39m: Cookies guardadas en archivo.
+2025-02-27 03:24:33 [32minfo[39m: Iniciando flujo con la URL: https://www.linkedin.com/jobs/search/?currentJobId=4168393182&distance=50.0&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER
+2025-02-27 03:24:38 [32minfo[39m: Listado de vacantes cargado correctamente.
+2025-02-27 03:24:38 [32minfo[39m: Se extrajeron 7 vacantes.
+2025-02-27 03:24:38 [32minfo[39m: Se encontraron 7 vacantes.
+2025-02-27 03:24:38 [32minfo[39m: Se omite la vacante "Full Stack Developer
+Full Stack Developer" porque no es Quick Apply.
+2025-02-27 03:24:38 [32minfo[39m: Se omite la vacante "Senior Full Stack Developer
+Senior Full Stack Developer" porque no es Quick Apply.
+2025-02-27 03:24:38 [32minfo[39m: Se omite la vacante "Node Developer - Trabajo Remoto
+Node Developer - Trabajo Remoto with verification" porque no es Quick Apply.
+2025-02-27 03:24:38 [32minfo[39m: Se omite la vacante "Senior Front-End Engineer
+Senior Front-End Engineer" porque no es Quick Apply.
+2025-02-27 03:24:38 [32minfo[39m: Se omite la vacante "Shopify Developer
+Shopify Developer" porque no es Quick Apply.
+2025-02-27 03:24:38 [32minfo[39m: Procesando la vacante "Frontend Developer
+Frontend Developer with verification" (ID: 4166399712)
+2025-02-27 03:24:40 [32minfo[39m: Botón "Solicitud sencilla" clickeado, esperando apertura del modal...
+2025-02-27 03:24:40 [32minfo[39m: Modal de "Solicitud sencilla" abierto.
+2025-02-27 03:24:40 [32minfo[39m: Iniciando llenado multi-step...
+2025-02-27 03:24:41 [32minfo[39m: Detectado step: DONE
+2025-02-27 03:24:41 [32minfo[39m: No hay más pasos que llenar. Terminando multi-step.
+2025-02-27 03:24:41 [32minfo[39m: Finalizó el proceso multi-step para esta vacante.
+2025-02-27 03:24:43 [32minfo[39m: Se omite la vacante "Desarrollador Fullstack - Hibrido En Bogotá
+Desarrollador Fullstack - Hibrido En Bogotá" porque no es Quick Apply.
+2025-02-27 03:24:43 [32minfo[39m: Proceso de postulación finalizado.
+2025-02-27 03:27:02 [32minfo[39m: Iniciando bot con URL: https://www.linkedin.com/jobs/search/?currentJobId=4167247183&distance=50&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_KEYWORD_HISTORY&refresh=true
+2025-02-27 03:27:03 [32minfo[39m: Cookies cargadas desde archivo.
+2025-02-27 03:27:03 [32minfo[39m: Aplicando retraso aleatorio de 521 ms.
+2025-02-27 03:27:08 [32minfo[39m: Usuario ya autenticado.
+2025-02-27 03:27:08 [32minfo[39m: Cookies guardadas en archivo.
+2025-02-27 03:27:08 [32minfo[39m: Iniciando flujo con la URL: https://www.linkedin.com/jobs/search/?currentJobId=4167247183&distance=50&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_KEYWORD_HISTORY&refresh=true
+2025-02-27 03:27:12 [32minfo[39m: Listado de vacantes cargado correctamente.
+2025-02-27 03:27:13 [32minfo[39m: Se extrajeron 7 vacantes.
+2025-02-27 03:27:13 [32minfo[39m: Se encontraron 7 vacantes.
+2025-02-27 03:27:13 [32minfo[39m: Procesando la vacante "Desarrollador Full Stack
+Desarrollador Full Stack with verification" (ID: 4167247183)
+2025-02-27 03:27:15 [32minfo[39m: Botón "Solicitud sencilla" clickeado, esperando apertura del modal...
+2025-02-27 03:27:15 [32minfo[39m: Modal de "Solicitud sencilla" abierto.
+2025-02-27 03:27:15 [32minfo[39m: Iniciando llenado multi-step...
+2025-02-27 03:27:15 [32minfo[39m: Detectado step: FINAL
+2025-02-27 03:27:15 [32minfo[39m: Paso final "Revisar tu solicitud" detectado; se procede a enviar la postulación.
+2025-02-27 03:27:16 [33mwarn[39m: No se pudo cerrar el modal de confirmación: elementHandle.waitForSelector: Error: Element is not attached to the DOM
+Call log:
+[2m  - waiting for locator('button:has-text("Ahora no")') to be visible[22m
+
+2025-02-27 03:27:16 [32minfo[39m: Solicitud enviada y modal de confirmación cerrado. Terminando multi-step.
+2025-02-27 03:27:16 [32minfo[39m: Finalizó el proceso multi-step para esta vacante.
+2025-02-27 03:27:18 [32minfo[39m: Procesando la vacante "React Developer - Remote
+React Developer - Remote" (ID: 4168045371)
+2025-02-27 03:29:39 [32minfo[39m: Iniciando bot con URL: https://www.linkedin.com/jobs/search/?currentJobId=4167247183&distance=50&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_KEYWORD_HISTORY&refresh=true
+2025-02-27 03:29:40 [32minfo[39m: Cookies cargadas desde archivo.
+2025-02-27 03:29:40 [32minfo[39m: Aplicando retraso aleatorio de 1492 ms.
+2025-02-27 03:29:45 [32minfo[39m: Usuario ya autenticado.
+2025-02-27 03:29:45 [32minfo[39m: Cookies guardadas en archivo.
+2025-02-27 03:29:46 [32minfo[39m: Iniciando flujo con la URL: https://www.linkedin.com/jobs/search/?currentJobId=4167247183&distance=50&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_KEYWORD_HISTORY&refresh=true
+2025-02-27 03:30:16 [31merror[39m: Error al cargar el listado de vacantes: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/jobs/search/?currentJobId=4167247183&distance=50&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_KEYWORD_HISTORY&refresh=true", waiting until "networkidle"[22m
+
+2025-02-27 03:30:16 [31merror[39m: Error en FlowController: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/jobs/search/?currentJobId=4167247183&distance=50&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_KEYWORD_HISTORY&refresh=true", waiting until "networkidle"[22m
+
+2025-02-27 03:30:16 [31merror[39m: Error en main.js: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/jobs/search/?currentJobId=4167247183&distance=50&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_KEYWORD_HISTORY&refresh=true", waiting until "networkidle"[22m
+
+2025-02-27 03:31:07 [32minfo[39m: Iniciando bot con URL: https://www.linkedin.com/jobs/search/?currentJobId=4168045371&distance=50&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_KEYWORD_HISTORY&refresh=true
+2025-02-27 03:31:08 [32minfo[39m: Cookies cargadas desde archivo.
+2025-02-27 03:31:08 [32minfo[39m: Aplicando retraso aleatorio de 1068 ms.
+2025-02-27 03:31:12 [32minfo[39m: Usuario ya autenticado.
+2025-02-27 03:31:12 [32minfo[39m: Cookies guardadas en archivo.
+2025-02-27 03:31:13 [32minfo[39m: Iniciando flujo con la URL: https://www.linkedin.com/jobs/search/?currentJobId=4168045371&distance=50&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_KEYWORD_HISTORY&refresh=true
+2025-02-27 03:31:17 [32minfo[39m: Listado de vacantes cargado correctamente.
+2025-02-27 03:31:18 [32minfo[39m: Se extrajeron 7 vacantes.
+2025-02-27 03:31:18 [32minfo[39m: Se encontraron 7 vacantes.
+2025-02-27 03:31:18 [32minfo[39m: Procesando la vacante "React Developer - Remote
+React Developer - Remote" (ID: 4168045371)
+2025-02-27 03:31:19 [32minfo[39m: Botón "Solicitud sencilla" clickeado, esperando apertura del modal...
+2025-02-27 03:31:20 [32minfo[39m: Modal de "Solicitud sencilla" abierto.
+2025-02-27 03:31:20 [32minfo[39m: Iniciando llenado multi-step...
+2025-02-27 03:31:21 [32minfo[39m: Detectado step: FINAL
+2025-02-27 03:31:21 [32minfo[39m: Paso final "Revisar tu solicitud" detectado; se procede a enviar la postulación.
+2025-02-27 03:31:23 [32minfo[39m: Modal de confirmación cerrado.
+2025-02-27 03:31:23 [32minfo[39m: Solicitud enviada y modal de confirmación cerrado. Terminando multi-step.
+2025-02-27 03:31:23 [32minfo[39m: Finalizó el proceso multi-step para esta vacante.
+2025-02-27 03:31:25 [32minfo[39m: Procesando la vacante "Sr. Full Stack Developer (Node.js/React/TypeScript)
+Sr. Full Stack Developer (Node.js/React/TypeScript)" (ID: 4157567200)
+2025-02-27 03:31:26 [32minfo[39m: Botón "Solicitud sencilla" clickeado, esperando apertura del modal...
+2025-02-27 03:31:26 [32minfo[39m: Modal de "Solicitud sencilla" abierto.
+2025-02-27 03:31:26 [32minfo[39m: Iniciando llenado multi-step...
+2025-02-27 03:31:26 [32minfo[39m: Detectado step: DONE
+2025-02-27 03:31:26 [32minfo[39m: No hay más pasos que llenar. Terminando multi-step.
+2025-02-27 03:31:26 [32minfo[39m: Finalizó el proceso multi-step para esta vacante.
+2025-02-27 03:31:28 [32minfo[39m: Procesando la vacante "Programador full stack
+Programador full stack with verification" (ID: 4149290568)
+2025-02-27 03:33:17 [31merror[39m: Error en FlowController: page.click: Target page, context or browser has been closed
+Call log:
+[2m  - waiting for locator('li[data-occludable-job-id="4149290568"]')[22m
+[2m    - locator resolved to <li id="ember204" data-occludable-job-id="4149290568" class="ember-view   DQCEuPIsncXPNPguCiUFIyFiUqgRPCatDmY occludable-update p0 relative scaffold-layout__list-item">…</li>[22m
+[2m  - attempting click action[22m
+[2m    - waiting for element to be visible, enabled and stable[22m
+[2m    - element is visible, enabled and stable[22m
+[2m    - scrolling into view if needed[22m
+[2m    - done scrolling[22m
+[2m    - <span aria-hidden="true">…</span> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m  - retrying click action[22m
+[2m    - waiting for element to be visible, enabled and stable[22m
+[2m    - element is visible, enabled and stable[22m
+[2m    - scrolling into view if needed[22m
+[2m    - done scrolling[22m
+[2m    - <div id="ember547" aria-hidden="false" data-test-modal-container="" data-test-modal-id="easy-apply-modal" class="artdeco-modal-overlay artdeco-modal-overlay--layer-default artdeco-modal-overlay--is-top-layer  ember-view">…</div> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m  - retrying click action[22m
+[2m    - waiting 20ms[22m
+[2m    - waiting for element to be visible, enabled and stable[22m
+[2m    - element is visible, enabled and stable[22m
+[2m    - scrolling into view if needed[22m
+[2m    - done scrolling[22m
+[2m    - <div class="display-flex justify-flex-end ph5 pv4">…</div> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m  2 × retrying click action[22m
+[2m      - waiting 100ms[22m
+[2m      - waiting for element to be visible, enabled and stable[22m
+[2m      - element is visible, enabled and stable[22m
+[2m      - scrolling into view if needed[22m
+[2m      - done scrolling[22m
+[2m      - <span aria-hidden="true">…</span> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m  3 × retrying click action[22m
+[2m      - waiting 500ms[22m
+[2m      - waiting for element to be visible, enabled and stable[22m
+[2m      - element is visible, enabled and stable[22m
+[2m      - scrolling into view if needed[22m
+[2m      - done scrolling[22m
+[2m      - <div id="ember547" aria-hidden="false" data-test-modal-container="" data-test-modal-id="easy-apply-modal" class="artdeco-modal-overlay artdeco-modal-overlay--layer-default artdeco-modal-overlay--is-top-layer  ember-view">…</div> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m    - retrying click action[22m
+[2m      - waiting 500ms[22m
+[2m      - waiting for element to be visible, enabled and stable[22m
+[2m      - element is visible, enabled and stable[22m
+[2m      - scrolling into view if needed[22m
+[2m      - done scrolling[22m
+[2m      - <div class="display-flex justify-flex-end ph5 pv4">…</div> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m    - retrying click action[22m
+[2m      - waiting 500ms[22m
+[2m      - waiting for element to be visible, enabled and stable[22m
+[2m      - element is visible, enabled and stable[22m
+[2m      - scrolling into view if needed[22m
+[2m      - done scrolling[22m
+[2m      - <span aria-hidden="true">…</span> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m    - retrying click action[22m
+[2m      - waiting 500ms[22m
+[2m      - waiting for element to be visible, enabled and stable[22m
+[2m      - element is visible, enabled and stable[22m
+[2m      - scrolling into view if needed[22m
+[2m      - done scrolling[22m
+[2m      - <span aria-hidden="true">…</span> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m  - retrying click action[22m
+[2m    - waiting 500ms[22m
+[2m    - waiting for element to be visible, enabled and stable[22m
+[2m    - element is visible, enabled and stable[22m
+[2m    - scrolling into view if needed[22m
+[2m    - done scrolling[22m
+[2m    - <div id="ember547" aria-hidden="false" data-test-modal-container="" data-test-modal-id="easy-apply-modal" class="artdeco-modal-overlay artdeco-modal-overlay--layer-default artdeco-modal-overlay--is-top-layer  ember-view">…</div> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m  - retrying click action[22m
+[2m    - waiting 500ms[22m
+[2m    - waiting for element to be visible, enabled and stable[22m
+[2m    - element is visible, enabled and stable[22m
+[2m    - scrolling into view if needed[22m
+[2m    - done scrolling[22m
+[2m    - <div class="display-flex justify-flex-end ph5 pv4">…</div> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m  - retrying click action[22m
+[2m    - waiting 500ms[22m
+[2m    - waiting for element to be visible, enabled and stable[22m
+[2m    - element is visible, enabled and stable[22m
+[2m    - scrolling into view if needed[22m
+[2m    - done scrolling[22m
+[2m    - <span aria-hidden="true">…</span> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m  - retrying click action[22m
+[2m    - waiting 500ms[22m
+
+2025-02-27 03:33:17 [31merror[39m: Error en main.js: page.click: Target page, context or browser has been closed
+Call log:
+[2m  - waiting for locator('li[data-occludable-job-id="4149290568"]')[22m
+[2m    - locator resolved to <li id="ember204" data-occludable-job-id="4149290568" class="ember-view   DQCEuPIsncXPNPguCiUFIyFiUqgRPCatDmY occludable-update p0 relative scaffold-layout__list-item">…</li>[22m
+[2m  - attempting click action[22m
+[2m    - waiting for element to be visible, enabled and stable[22m
+[2m    - element is visible, enabled and stable[22m
+[2m    - scrolling into view if needed[22m
+[2m    - done scrolling[22m
+[2m    - <span aria-hidden="true">…</span> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m  - retrying click action[22m
+[2m    - waiting for element to be visible, enabled and stable[22m
+[2m    - element is visible, enabled and stable[22m
+[2m    - scrolling into view if needed[22m
+[2m    - done scrolling[22m
+[2m    - <div id="ember547" aria-hidden="false" data-test-modal-container="" data-test-modal-id="easy-apply-modal" class="artdeco-modal-overlay artdeco-modal-overlay--layer-default artdeco-modal-overlay--is-top-layer  ember-view">…</div> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m  - retrying click action[22m
+[2m    - waiting 20ms[22m
+[2m    - waiting for element to be visible, enabled and stable[22m
+[2m    - element is visible, enabled and stable[22m
+[2m    - scrolling into view if needed[22m
+[2m    - done scrolling[22m
+[2m    - <div class="display-flex justify-flex-end ph5 pv4">…</div> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m  2 × retrying click action[22m
+[2m      - waiting 100ms[22m
+[2m      - waiting for element to be visible, enabled and stable[22m
+[2m      - element is visible, enabled and stable[22m
+[2m      - scrolling into view if needed[22m
+[2m      - done scrolling[22m
+[2m      - <span aria-hidden="true">…</span> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m  3 × retrying click action[22m
+[2m      - waiting 500ms[22m
+[2m      - waiting for element to be visible, enabled and stable[22m
+[2m      - element is visible, enabled and stable[22m
+[2m      - scrolling into view if needed[22m
+[2m      - done scrolling[22m
+[2m      - <div id="ember547" aria-hidden="false" data-test-modal-container="" data-test-modal-id="easy-apply-modal" class="artdeco-modal-overlay artdeco-modal-overlay--layer-default artdeco-modal-overlay--is-top-layer  ember-view">…</div> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m    - retrying click action[22m
+[2m      - waiting 500ms[22m
+[2m      - waiting for element to be visible, enabled and stable[22m
+[2m      - element is visible, enabled and stable[22m
+[2m      - scrolling into view if needed[22m
+[2m      - done scrolling[22m
+[2m      - <div class="display-flex justify-flex-end ph5 pv4">…</div> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m    - retrying click action[22m
+[2m      - waiting 500ms[22m
+[2m      - waiting for element to be visible, enabled and stable[22m
+[2m      - element is visible, enabled and stable[22m
+[2m      - scrolling into view if needed[22m
+[2m      - done scrolling[22m
+[2m      - <span aria-hidden="true">…</span> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m    - retrying click action[22m
+[2m      - waiting 500ms[22m
+[2m      - waiting for element to be visible, enabled and stable[22m
+[2m      - element is visible, enabled and stable[22m
+[2m      - scrolling into view if needed[22m
+[2m      - done scrolling[22m
+[2m      - <span aria-hidden="true">…</span> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m  - retrying click action[22m
+[2m    - waiting 500ms[22m
+[2m    - waiting for element to be visible, enabled and stable[22m
+[2m    - element is visible, enabled and stable[22m
+[2m    - scrolling into view if needed[22m
+[2m    - done scrolling[22m
+[2m    - <div id="ember547" aria-hidden="false" data-test-modal-container="" data-test-modal-id="easy-apply-modal" class="artdeco-modal-overlay artdeco-modal-overlay--layer-default artdeco-modal-overlay--is-top-layer  ember-view">…</div> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m  - retrying click action[22m
+[2m    - waiting 500ms[22m
+[2m    - waiting for element to be visible, enabled and stable[22m
+[2m    - element is visible, enabled and stable[22m
+[2m    - scrolling into view if needed[22m
+[2m    - done scrolling[22m
+[2m    - <div class="display-flex justify-flex-end ph5 pv4">…</div> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m  - retrying click action[22m
+[2m    - waiting 500ms[22m
+[2m    - waiting for element to be visible, enabled and stable[22m
+[2m    - element is visible, enabled and stable[22m
+[2m    - scrolling into view if needed[22m
+[2m    - done scrolling[22m
+[2m    - <span aria-hidden="true">…</span> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m  - retrying click action[22m
+[2m    - waiting 500ms[22m
+
+2025-02-27 03:38:55 [32minfo[39m: Iniciando bot con URL: https://www.linkedin.com/jobs/search/?currentJobId=4168045371&distance=50&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_KEYWORD_HISTORY&refresh=true
+2025-02-27 03:38:56 [32minfo[39m: Cookies cargadas desde archivo.
+2025-02-27 03:38:57 [32minfo[39m: Aplicando retraso aleatorio de 629 ms.
+2025-02-27 03:39:02 [32minfo[39m: Usuario ya autenticado.
+2025-02-27 03:39:02 [32minfo[39m: Cookies guardadas en archivo.
+2025-02-27 03:39:02 [32minfo[39m: Iniciando flujo con la URL: https://www.linkedin.com/jobs/search/?currentJobId=4168045371&distance=50&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_KEYWORD_HISTORY&refresh=true
+2025-02-27 03:39:07 [32minfo[39m: Listado de vacantes cargado correctamente.
+2025-02-27 03:39:08 [32minfo[39m: Se extrajeron 11 vacantes.
+2025-02-27 03:39:08 [32minfo[39m: Se encontraron 11 vacantes.
+2025-02-27 03:39:08 [32minfo[39m: Procesando la vacante "Programador full stack
+Programador full stack with verification" (ID: 4149290568)
+2025-02-27 03:39:10 [32minfo[39m: Botón "Solicitud sencilla" clickeado, esperando apertura del modal...
+2025-02-27 03:39:11 [32minfo[39m: Modal de "Solicitud sencilla" abierto.
+2025-02-27 03:39:11 [32minfo[39m: Iniciando llenado multi-step...
+2025-02-27 03:39:11 [32minfo[39m: Detectado step: DONE
+2025-02-27 03:39:11 [32minfo[39m: No hay más pasos que llenar. Terminando multi-step.
+2025-02-27 03:39:11 [32minfo[39m: Finalizó el proceso multi-step para esta vacante.
+2025-02-27 03:39:13 [32minfo[39m: Se omite la vacante "Desarrollador React Frontend - Trabajo Remoto
+Desarrollador React Frontend - Trabajo Remoto with verification" porque no es Quick Apply.
+2025-02-27 03:39:13 [32minfo[39m: Se omite la vacante "Desarrollador Full Stack
+Desarrollador Full Stack with verification" porque no es Quick Apply.
+2025-02-27 03:39:13 [32minfo[39m: Se omite la vacante "Desarrollador Fullstack 🤟🚀
+Desarrollador Fullstack 🤟🚀" porque no es Quick Apply.
+2025-02-27 03:39:13 [32minfo[39m: Procesando la vacante "Desarrollador Full Stack /JAVA 17/ ANGULAR 18
+Desarrollador Full Stack /JAVA 17/ ANGULAR 18 with verification" (ID: 4157568046)
+2025-02-27 03:41:22 [31merror[39m: Error en FlowController: page.click: Timeout 30000ms exceeded.
+Call log:
+[2m  - waiting for locator('li[data-occludable-job-id="4157568046"]')[22m
+[2m    - locator resolved to <li id="ember239" data-occludable-job-id="4157568046" class="ember-view   DQCEuPIsncXPNPguCiUFIyFiUqgRPCatDmY occludable-update p0 relative scaffold-layout__list-item">…</li>[22m
+[2m  - attempting click action[22m
+[2m    - waiting for element to be visible, enabled and stable[22m
+[2m    - element is visible, enabled and stable[22m
+[2m    - scrolling into view if needed[22m
+[2m    - done scrolling[22m
+[2m    - <span aria-hidden="true">…</span> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m  - retrying click action[22m
+[2m    - waiting for element to be visible, enabled and stable[22m
+[2m    - element is visible, enabled and stable[22m
+[2m    - scrolling into view if needed[22m
+[2m    - done scrolling[22m
+[2m    - <div id="ember419" aria-hidden="false" data-test-modal-container="" data-test-modal-id="easy-apply-modal" class="artdeco-modal-overlay artdeco-modal-overlay--layer-default artdeco-modal-overlay--is-top-layer  ember-view">…</div> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m  - retrying click action[22m
+[2m    - waiting 20ms[22m
+[2m    - waiting for element to be visible, enabled and stable[22m
+[2m    - element is visible, enabled and stable[22m
+[2m    - scrolling into view if needed[22m
+[2m    - done scrolling[22m
+[2m    - <div class="display-flex justify-flex-end ph5 pv4">…</div> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m  2 × retrying click action[22m
+[2m      - waiting 100ms[22m
+[2m      - waiting for element to be visible, enabled and stable[22m
+[2m      - element is visible, enabled and stable[22m
+[2m      - scrolling into view if needed[22m
+[2m      - done scrolling[22m
+[2m      - <span aria-hidden="true">…</span> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m  13 × retrying click action[22m
+[2m       - waiting 500ms[22m
+[2m       - waiting for element to be visible, enabled and stable[22m
+[2m       - element is visible, enabled and stable[22m
+[2m       - scrolling into view if needed[22m
+[2m       - done scrolling[22m
+[2m       - <div id="ember419" aria-hidden="false" data-test-modal-container="" data-test-modal-id="easy-apply-modal" class="artdeco-modal-overlay artdeco-modal-overlay--layer-default artdeco-modal-overlay--is-top-layer  ember-view">…</div> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m     - retrying click action[22m
+[2m       - waiting 500ms[22m
+[2m       - waiting for element to be visible, enabled and stable[22m
+[2m       - element is visible, enabled and stable[22m
+[2m       - scrolling into view if needed[22m
+[2m       - done scrolling[22m
+[2m       - <div class="display-flex justify-flex-end ph5 pv4">…</div> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m     - retrying click action[22m
+[2m       - waiting 500ms[22m
+[2m       - waiting for element to be visible, enabled and stable[22m
+[2m       - element is visible, enabled and stable[22m
+[2m       - scrolling into view if needed[22m
+[2m       - done scrolling[22m
+[2m       - <span aria-hidden="true">…</span> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m     - retrying click action[22m
+[2m       - waiting 500ms[22m
+[2m       - waiting for element to be visible, enabled and stable[22m
+[2m       - element is visible, enabled and stable[22m
+[2m       - scrolling into view if needed[22m
+[2m       - done scrolling[22m
+[2m       - <span aria-hidden="true">…</span> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m  - retrying click action[22m
+[2m    - waiting 500ms[22m
+[2m    - waiting for element to be visible, enabled and stable[22m
+[2m    - element is visible, enabled and stable[22m
+[2m    - scrolling into view if needed[22m
+[2m    - done scrolling[22m
+[2m    - <div id="ember419" aria-hidden="false" data-test-modal-container="" data-test-modal-id="easy-apply-modal" class="artdeco-modal-overlay artdeco-modal-overlay--layer-default artdeco-modal-overlay--is-top-layer  ember-view">…</div> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m  - retrying click action[22m
+[2m    - waiting 500ms[22m
+[2m    - waiting for element to be visible, enabled and stable[22m
+[2m    - element is visible, enabled and stable[22m
+[2m    - scrolling into view if needed[22m
+[2m    - done scrolling[22m
+[2m    - <div class="display-flex justify-flex-end ph5 pv4">…</div> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m  - retrying click action[22m
+[2m    - waiting 500ms[22m
+[2m    - waiting for element to be visible, enabled and stable[22m
+[2m    - element is visible, enabled and stable[22m
+[2m    - scrolling into view if needed[22m
+[2m    - done scrolling[22m
+[2m    - <span aria-hidden="true">…</span> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m  - retrying click action[22m
+[2m    - waiting 500ms[22m
+
+2025-02-27 03:41:22 [31merror[39m: Error en main.js: page.click: Timeout 30000ms exceeded.
+Call log:
+[2m  - waiting for locator('li[data-occludable-job-id="4157568046"]')[22m
+[2m    - locator resolved to <li id="ember239" data-occludable-job-id="4157568046" class="ember-view   DQCEuPIsncXPNPguCiUFIyFiUqgRPCatDmY occludable-update p0 relative scaffold-layout__list-item">…</li>[22m
+[2m  - attempting click action[22m
+[2m    - waiting for element to be visible, enabled and stable[22m
+[2m    - element is visible, enabled and stable[22m
+[2m    - scrolling into view if needed[22m
+[2m    - done scrolling[22m
+[2m    - <span aria-hidden="true">…</span> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m  - retrying click action[22m
+[2m    - waiting for element to be visible, enabled and stable[22m
+[2m    - element is visible, enabled and stable[22m
+[2m    - scrolling into view if needed[22m
+[2m    - done scrolling[22m
+[2m    - <div id="ember419" aria-hidden="false" data-test-modal-container="" data-test-modal-id="easy-apply-modal" class="artdeco-modal-overlay artdeco-modal-overlay--layer-default artdeco-modal-overlay--is-top-layer  ember-view">…</div> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m  - retrying click action[22m
+[2m    - waiting 20ms[22m
+[2m    - waiting for element to be visible, enabled and stable[22m
+[2m    - element is visible, enabled and stable[22m
+[2m    - scrolling into view if needed[22m
+[2m    - done scrolling[22m
+[2m    - <div class="display-flex justify-flex-end ph5 pv4">…</div> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m  2 × retrying click action[22m
+[2m      - waiting 100ms[22m
+[2m      - waiting for element to be visible, enabled and stable[22m
+[2m      - element is visible, enabled and stable[22m
+[2m      - scrolling into view if needed[22m
+[2m      - done scrolling[22m
+[2m      - <span aria-hidden="true">…</span> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m  13 × retrying click action[22m
+[2m       - waiting 500ms[22m
+[2m       - waiting for element to be visible, enabled and stable[22m
+[2m       - element is visible, enabled and stable[22m
+[2m       - scrolling into view if needed[22m
+[2m       - done scrolling[22m
+[2m       - <div id="ember419" aria-hidden="false" data-test-modal-container="" data-test-modal-id="easy-apply-modal" class="artdeco-modal-overlay artdeco-modal-overlay--layer-default artdeco-modal-overlay--is-top-layer  ember-view">…</div> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m     - retrying click action[22m
+[2m       - waiting 500ms[22m
+[2m       - waiting for element to be visible, enabled and stable[22m
+[2m       - element is visible, enabled and stable[22m
+[2m       - scrolling into view if needed[22m
+[2m       - done scrolling[22m
+[2m       - <div class="display-flex justify-flex-end ph5 pv4">…</div> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m     - retrying click action[22m
+[2m       - waiting 500ms[22m
+[2m       - waiting for element to be visible, enabled and stable[22m
+[2m       - element is visible, enabled and stable[22m
+[2m       - scrolling into view if needed[22m
+[2m       - done scrolling[22m
+[2m       - <span aria-hidden="true">…</span> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m     - retrying click action[22m
+[2m       - waiting 500ms[22m
+[2m       - waiting for element to be visible, enabled and stable[22m
+[2m       - element is visible, enabled and stable[22m
+[2m       - scrolling into view if needed[22m
+[2m       - done scrolling[22m
+[2m       - <span aria-hidden="true">…</span> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m  - retrying click action[22m
+[2m    - waiting 500ms[22m
+[2m    - waiting for element to be visible, enabled and stable[22m
+[2m    - element is visible, enabled and stable[22m
+[2m    - scrolling into view if needed[22m
+[2m    - done scrolling[22m
+[2m    - <div id="ember419" aria-hidden="false" data-test-modal-container="" data-test-modal-id="easy-apply-modal" class="artdeco-modal-overlay artdeco-modal-overlay--layer-default artdeco-modal-overlay--is-top-layer  ember-view">…</div> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m  - retrying click action[22m
+[2m    - waiting 500ms[22m
+[2m    - waiting for element to be visible, enabled and stable[22m
+[2m    - element is visible, enabled and stable[22m
+[2m    - scrolling into view if needed[22m
+[2m    - done scrolling[22m
+[2m    - <div class="display-flex justify-flex-end ph5 pv4">…</div> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m  - retrying click action[22m
+[2m    - waiting 500ms[22m
+[2m    - waiting for element to be visible, enabled and stable[22m
+[2m    - element is visible, enabled and stable[22m
+[2m    - scrolling into view if needed[22m
+[2m    - done scrolling[22m
+[2m    - <span aria-hidden="true">…</span> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m  - retrying click action[22m
+[2m    - waiting 500ms[22m
+
+2025-02-27 03:47:10 [32minfo[39m: Iniciando bot con URL: https://www.linkedin.com/jobs/search/?currentJobId=4168045371&distance=50&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_KEYWORD_HISTORY&refresh=true
+2025-02-27 03:47:11 [32minfo[39m: Cookies cargadas desde archivo.
+2025-02-27 03:47:11 [32minfo[39m: Aplicando retraso aleatorio de 1207 ms.
+2025-02-27 03:47:16 [32minfo[39m: Usuario ya autenticado.
+2025-02-27 03:47:16 [32minfo[39m: Cookies guardadas en archivo.
+2025-02-27 03:47:16 [32minfo[39m: === INICIO DEL FLUJO DE BÚSQUEDA DE VACANTES ===
+2025-02-27 03:47:16 [32minfo[39m: Navegando a la URL de búsqueda: https://www.linkedin.com/jobs/search/?currentJobId=4168045371&distance=50&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_KEYWORD_HISTORY&refresh=true
+2025-02-27 03:47:21 [32minfo[39m: Listado de vacantes cargado correctamente.
+2025-02-27 03:47:21 [32minfo[39m: Buscando vacantes disponibles...
+2025-02-27 03:47:21 [32minfo[39m: Se extrajeron 7 vacantes.
+2025-02-27 03:47:21 [32minfo[39m: Total de vacantes encontradas: 7
+2025-02-27 03:47:21 [32minfo[39m: --------------------------------------------------
+2025-02-27 03:47:21 [32minfo[39m: Abriendo vacante: Mid Backend NodeJS
+Mid Backend NodeJS with verification (ID: 4153848716)
+2025-02-27 03:47:21 [32minfo[39m: Haciendo click en la vacante usando selector: li[data-occludable-job-id="4153848716"]
+2025-02-27 03:47:21 [32minfo[39m: Esperando a que se cargue el detalle de la vacante...
+2025-02-27 03:47:23 [32minfo[39m: Abriendo modal de Quick Apply...
+2025-02-27 03:47:24 [32minfo[39m: Botón "Solicitud sencilla" clickeado, esperando apertura del modal...
+2025-02-27 03:47:24 [32minfo[39m: Modal de "Solicitud sencilla" abierto.
+2025-02-27 03:47:24 [32minfo[39m: Modal abierto. Iniciando llenado del formulario multi-step...
+2025-02-27 03:47:24 [32minfo[39m: === INICIO DEL LLENADO MULTI-STEP DEL FORMULARIO ===
+2025-02-27 03:47:24 [32minfo[39m: [Step 1] Tipo detectado: DONE
+2025-02-27 03:47:24 [32minfo[39m: No se detecta un step definido (DONE). Finalizando llenado del formulario.
+2025-02-27 03:47:24 [32minfo[39m: === FINALIZÓ EL PROCESO MULTI-STEP PARA ESTA VACANTE ===
+2025-02-27 03:47:24 [32minfo[39m: Vacante procesada. Esperando 2 segundos antes de continuar con la siguiente vacante...
+2025-02-27 03:47:26 [32minfo[39m: --------------------------------------------------
+2025-02-27 03:47:26 [32minfo[39m: Abriendo vacante: Desarrollador Full Stack
+Desarrollador Full Stack with verification (ID: 4167247183)
+2025-02-27 03:47:26 [32minfo[39m: Vacante "Desarrollador Full Stack
+Desarrollador Full Stack with verification" no es de Quick Apply. Se omite.
+2025-02-27 03:47:26 [32minfo[39m: --------------------------------------------------
+2025-02-27 03:47:26 [32minfo[39m: Abriendo vacante: React Developer - Remote
+React Developer - Remote (ID: 4168045371)
+2025-02-27 03:47:26 [32minfo[39m: Vacante "React Developer - Remote
+React Developer - Remote" no es de Quick Apply. Se omite.
+2025-02-27 03:47:26 [32minfo[39m: --------------------------------------------------
+2025-02-27 03:47:26 [32minfo[39m: Abriendo vacante: Desarrollador Backend
+Desarrollador Backend with verification (ID: 4167193226)
+2025-02-27 03:47:26 [32minfo[39m: Haciendo click en la vacante usando selector: li[data-occludable-job-id="4167193226"]
+2025-02-27 03:47:59 [32minfo[39m: Haciendo click en la vacante usando selector: li[data-occludable-job-id="4167193226"]
+2025-02-27 03:48:32 [32minfo[39m: Haciendo click en la vacante usando selector: li[data-occludable-job-id="4167193226"]
+2025-02-27 03:49:05 [32minfo[39m: Haciendo click en la vacante usando selector: li[data-occludable-job-id="4167193226"]
+2025-02-27 03:49:35 [31merror[39m: Error en FlowController: page.click: Timeout 30000ms exceeded.
+Call log:
+[2m  - waiting for locator('li[data-occludable-job-id="4167193226"]')[22m
+[2m    - locator resolved to <li id="ember234" data-occludable-job-id="4167193226" class="ember-view   DQCEuPIsncXPNPguCiUFIyFiUqgRPCatDmY occludable-update p0 relative scaffold-layout__list-item">…</li>[22m
+[2m  - attempting click action[22m
+[2m    - waiting for element to be visible, enabled and stable[22m
+[2m    - element is visible, enabled and stable[22m
+[2m    - scrolling into view if needed[22m
+[2m    - done scrolling[22m
+[2m    - <span aria-hidden="true">…</span> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m  - retrying click action[22m
+[2m    - waiting for element to be visible, enabled and stable[22m
+[2m    - element is visible, enabled and stable[22m
+[2m    - scrolling into view if needed[22m
+[2m    - done scrolling[22m
+[2m    - <div id="ember514" aria-hidden="false" data-test-modal-container="" data-test-modal-id="easy-apply-modal" class="artdeco-modal-overlay artdeco-modal-overlay--layer-default artdeco-modal-overlay--is-top-layer  ember-view">…</div> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m  - retrying click action[22m
+[2m    - waiting 20ms[22m
+[2m    - waiting for element to be visible, enabled and stable[22m
+[2m    - element is visible, enabled and stable[22m
+[2m    - scrolling into view if needed[22m
+[2m    - done scrolling[22m
+[2m    - <div class="jobs-easy-apply-footer__info">…</div> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m  2 × retrying click action[22m
+[2m      - waiting 100ms[22m
+[2m      - waiting for element to be visible, enabled and stable[22m
+[2m      - element is visible, enabled and stable[22m
+[2m      - scrolling into view if needed[22m
+[2m      - done scrolling[22m
+[2m      - <span aria-hidden="true">…</span> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m  13 × retrying click action[22m
+[2m       - waiting 500ms[22m
+[2m       - waiting for element to be visible, enabled and stable[22m
+[2m       - element is visible, enabled and stable[22m
+[2m       - scrolling into view if needed[22m
+[2m       - done scrolling[22m
+[2m       - <div id="ember514" aria-hidden="false" data-test-modal-container="" data-test-modal-id="easy-apply-modal" class="artdeco-modal-overlay artdeco-modal-overlay--layer-default artdeco-modal-overlay--is-top-layer  ember-view">…</div> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m     - retrying click action[22m
+[2m       - waiting 500ms[22m
+[2m       - waiting for element to be visible, enabled and stable[22m
+[2m       - element is visible, enabled and stable[22m
+[2m       - scrolling into view if needed[22m
+[2m       - done scrolling[22m
+[2m       - <div class="jobs-easy-apply-footer__info">…</div> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m     - retrying click action[22m
+[2m       - waiting 500ms[22m
+[2m       - waiting for element to be visible, enabled and stable[22m
+[2m       - element is visible, enabled and stable[22m
+[2m       - scrolling into view if needed[22m
+[2m       - done scrolling[22m
+[2m       - <span aria-hidden="true">…</span> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m     - retrying click action[22m
+[2m       - waiting 500ms[22m
+[2m       - waiting for element to be visible, enabled and stable[22m
+[2m       - element is visible, enabled and stable[22m
+[2m       - scrolling into view if needed[22m
+[2m       - done scrolling[22m
+[2m       - <span aria-hidden="true">…</span> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m  - retrying click action[22m
+[2m    - waiting 500ms[22m
+[2m    - waiting for element to be visible, enabled and stable[22m
+[2m    - element is visible, enabled and stable[22m
+[2m    - scrolling into view if needed[22m
+[2m    - done scrolling[22m
+[2m    - <div id="ember514" aria-hidden="false" data-test-modal-container="" data-test-modal-id="easy-apply-modal" class="artdeco-modal-overlay artdeco-modal-overlay--layer-default artdeco-modal-overlay--is-top-layer  ember-view">…</div> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m  - retrying click action[22m
+[2m    - waiting 500ms[22m
+[2m    - waiting for element to be visible, enabled and stable[22m
+[2m    - element is visible, enabled and stable[22m
+[2m    - scrolling into view if needed[22m
+[2m    - done scrolling[22m
+[2m    - <div class="jobs-easy-apply-footer__info">…</div> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m  - retrying click action[22m
+[2m    - waiting 500ms[22m
+[2m    - waiting for element to be visible, enabled and stable[22m
+[2m    - element is visible, enabled and stable[22m
+[2m    - scrolling into view if needed[22m
+[2m    - done scrolling[22m
+[2m    - <span aria-hidden="true">…</span> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m  - retrying click action[22m
+[2m    - waiting 500ms[22m
+
+2025-02-27 03:49:35 [31merror[39m: Error en main.js: page.click: Timeout 30000ms exceeded.
+Call log:
+[2m  - waiting for locator('li[data-occludable-job-id="4167193226"]')[22m
+[2m    - locator resolved to <li id="ember234" data-occludable-job-id="4167193226" class="ember-view   DQCEuPIsncXPNPguCiUFIyFiUqgRPCatDmY occludable-update p0 relative scaffold-layout__list-item">…</li>[22m
+[2m  - attempting click action[22m
+[2m    - waiting for element to be visible, enabled and stable[22m
+[2m    - element is visible, enabled and stable[22m
+[2m    - scrolling into view if needed[22m
+[2m    - done scrolling[22m
+[2m    - <span aria-hidden="true">…</span> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m  - retrying click action[22m
+[2m    - waiting for element to be visible, enabled and stable[22m
+[2m    - element is visible, enabled and stable[22m
+[2m    - scrolling into view if needed[22m
+[2m    - done scrolling[22m
+[2m    - <div id="ember514" aria-hidden="false" data-test-modal-container="" data-test-modal-id="easy-apply-modal" class="artdeco-modal-overlay artdeco-modal-overlay--layer-default artdeco-modal-overlay--is-top-layer  ember-view">…</div> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m  - retrying click action[22m
+[2m    - waiting 20ms[22m
+[2m    - waiting for element to be visible, enabled and stable[22m
+[2m    - element is visible, enabled and stable[22m
+[2m    - scrolling into view if needed[22m
+[2m    - done scrolling[22m
+[2m    - <div class="jobs-easy-apply-footer__info">…</div> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m  2 × retrying click action[22m
+[2m      - waiting 100ms[22m
+[2m      - waiting for element to be visible, enabled and stable[22m
+[2m      - element is visible, enabled and stable[22m
+[2m      - scrolling into view if needed[22m
+[2m      - done scrolling[22m
+[2m      - <span aria-hidden="true">…</span> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m  13 × retrying click action[22m
+[2m       - waiting 500ms[22m
+[2m       - waiting for element to be visible, enabled and stable[22m
+[2m       - element is visible, enabled and stable[22m
+[2m       - scrolling into view if needed[22m
+[2m       - done scrolling[22m
+[2m       - <div id="ember514" aria-hidden="false" data-test-modal-container="" data-test-modal-id="easy-apply-modal" class="artdeco-modal-overlay artdeco-modal-overlay--layer-default artdeco-modal-overlay--is-top-layer  ember-view">…</div> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m     - retrying click action[22m
+[2m       - waiting 500ms[22m
+[2m       - waiting for element to be visible, enabled and stable[22m
+[2m       - element is visible, enabled and stable[22m
+[2m       - scrolling into view if needed[22m
+[2m       - done scrolling[22m
+[2m       - <div class="jobs-easy-apply-footer__info">…</div> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m     - retrying click action[22m
+[2m       - waiting 500ms[22m
+[2m       - waiting for element to be visible, enabled and stable[22m
+[2m       - element is visible, enabled and stable[22m
+[2m       - scrolling into view if needed[22m
+[2m       - done scrolling[22m
+[2m       - <span aria-hidden="true">…</span> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m     - retrying click action[22m
+[2m       - waiting 500ms[22m
+[2m       - waiting for element to be visible, enabled and stable[22m
+[2m       - element is visible, enabled and stable[22m
+[2m       - scrolling into view if needed[22m
+[2m       - done scrolling[22m
+[2m       - <span aria-hidden="true">…</span> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m  - retrying click action[22m
+[2m    - waiting 500ms[22m
+[2m    - waiting for element to be visible, enabled and stable[22m
+[2m    - element is visible, enabled and stable[22m
+[2m    - scrolling into view if needed[22m
+[2m    - done scrolling[22m
+[2m    - <div id="ember514" aria-hidden="false" data-test-modal-container="" data-test-modal-id="easy-apply-modal" class="artdeco-modal-overlay artdeco-modal-overlay--layer-default artdeco-modal-overlay--is-top-layer  ember-view">…</div> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m  - retrying click action[22m
+[2m    - waiting 500ms[22m
+[2m    - waiting for element to be visible, enabled and stable[22m
+[2m    - element is visible, enabled and stable[22m
+[2m    - scrolling into view if needed[22m
+[2m    - done scrolling[22m
+[2m    - <div class="jobs-easy-apply-footer__info">…</div> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m  - retrying click action[22m
+[2m    - waiting 500ms[22m
+[2m    - waiting for element to be visible, enabled and stable[22m
+[2m    - element is visible, enabled and stable[22m
+[2m    - scrolling into view if needed[22m
+[2m    - done scrolling[22m
+[2m    - <span aria-hidden="true">…</span> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m  - retrying click action[22m
+[2m    - waiting 500ms[22m
+
+2025-02-27 03:49:38 [32minfo[39m: Iniciando bot con URL: https://www.linkedin.com/jobs/search/?currentJobId=4168045371&distance=50&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_KEYWORD_HISTORY&refresh=true
+2025-02-27 03:49:39 [32minfo[39m: Cookies cargadas desde archivo.
+2025-02-27 03:49:39 [32minfo[39m: Aplicando retraso aleatorio de 1447 ms.
+2025-02-27 03:49:44 [32minfo[39m: Usuario ya autenticado.
+2025-02-27 03:49:44 [32minfo[39m: Cookies guardadas en archivo.
+2025-02-27 03:49:45 [32minfo[39m: === INICIO DEL FLUJO DE BÚSQUEDA DE VACANTES ===
+2025-02-27 03:49:45 [32minfo[39m: Navegando a la URL de búsqueda: https://www.linkedin.com/jobs/search/?currentJobId=4168045371&distance=50&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_KEYWORD_HISTORY&refresh=true
+2025-02-27 03:50:15 [31merror[39m: Error al cargar el listado de vacantes: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/jobs/search/?currentJobId=4168045371&distance=50&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_KEYWORD_HISTORY&refresh=true", waiting until "networkidle"[22m
+
+2025-02-27 03:50:15 [31merror[39m: Error en FlowController: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/jobs/search/?currentJobId=4168045371&distance=50&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_KEYWORD_HISTORY&refresh=true", waiting until "networkidle"[22m
+
+2025-02-27 03:50:15 [31merror[39m: Error en main.js: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/jobs/search/?currentJobId=4168045371&distance=50&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_KEYWORD_HISTORY&refresh=true", waiting until "networkidle"[22m
+
+2025-02-27 03:51:03 [32minfo[39m: Iniciando bot con URL: https://www.linkedin.com/jobs/search/?currentJobId=4165446185&distance=50&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true
+2025-02-27 03:51:03 [32minfo[39m: Cookies cargadas desde archivo.
+2025-02-27 03:51:04 [32minfo[39m: Aplicando retraso aleatorio de 1213 ms.
+2025-02-27 03:51:08 [32minfo[39m: Usuario ya autenticado.
+2025-02-27 03:51:08 [32minfo[39m: Cookies guardadas en archivo.
+2025-02-27 03:51:09 [32minfo[39m: === INICIO DEL FLUJO DE BÚSQUEDA DE VACANTES ===
+2025-02-27 03:51:09 [32minfo[39m: Navegando a la URL de búsqueda: https://www.linkedin.com/jobs/search/?currentJobId=4165446185&distance=50&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true
+2025-02-27 03:51:13 [32minfo[39m: Listado de vacantes cargado correctamente.
+2025-02-27 03:51:13 [32minfo[39m: Buscando vacantes disponibles...
+2025-02-27 03:51:13 [32minfo[39m: Se extrajeron 7 vacantes.
+2025-02-27 03:51:13 [32minfo[39m: Total de vacantes encontradas: 7
+2025-02-27 03:51:13 [32minfo[39m: --------------------------------------------------
+2025-02-27 03:51:13 [32minfo[39m: Abriendo vacante: Full Stack Developer
+Full Stack Developer (ID: 4165446185)
+2025-02-27 03:51:13 [32minfo[39m: Vacante "Full Stack Developer
+Full Stack Developer" no es de Quick Apply. Se omite.
+2025-02-27 03:51:13 [32minfo[39m: --------------------------------------------------
+2025-02-27 03:51:13 [32minfo[39m: Abriendo vacante: Node Developer - Trabajo Remoto
+Node Developer - Trabajo Remoto with verification (ID: 4166366721)
+2025-02-27 03:51:13 [32minfo[39m: Vacante "Node Developer - Trabajo Remoto
+Node Developer - Trabajo Remoto with verification" no es de Quick Apply. Se omite.
+2025-02-27 03:51:13 [32minfo[39m: --------------------------------------------------
+2025-02-27 03:51:13 [32minfo[39m: Abriendo vacante: Senior Full Stack Developer
+Senior Full Stack Developer (ID: 4169437112)
+2025-02-27 03:51:13 [32minfo[39m: Vacante "Senior Full Stack Developer
+Senior Full Stack Developer" no es de Quick Apply. Se omite.
+2025-02-27 03:51:13 [32minfo[39m: --------------------------------------------------
+2025-02-27 03:51:13 [32minfo[39m: Abriendo vacante: Full Stack Developer
+Full Stack Developer with verification (ID: 4168697377)
+2025-02-27 03:51:13 [32minfo[39m: Vacante "Full Stack Developer
+Full Stack Developer with verification" no es de Quick Apply. Se omite.
+2025-02-27 03:51:13 [32minfo[39m: --------------------------------------------------
+2025-02-27 03:51:13 [32minfo[39m: Abriendo vacante: Senior Front-End Engineer
+Senior Front-End Engineer (ID: 4165621721)
+2025-02-27 03:51:13 [32minfo[39m: Vacante "Senior Front-End Engineer
+Senior Front-End Engineer" no es de Quick Apply. Se omite.
+2025-02-27 03:51:13 [32minfo[39m: --------------------------------------------------
+2025-02-27 03:51:13 [32minfo[39m: Abriendo vacante: Java Software Engineer
+Java Software Engineer (ID: 4168474535)
+2025-02-27 03:51:13 [32minfo[39m: Haciendo click en la vacante usando selector: li[data-occludable-job-id="4168474535"]
+2025-02-27 03:51:13 [32minfo[39m: Esperando a que se cargue el detalle de la vacante...
+2025-02-27 03:51:14 [32minfo[39m: Abriendo modal de Quick Apply...
+2025-02-27 03:51:15 [32minfo[39m: Botón "Solicitud sencilla" clickeado, esperando apertura del modal...
+2025-02-27 03:51:30 [31merror[39m: Error al abrir el modal de Quick Apply: page.waitForSelector: Timeout 15000ms exceeded.
+Call log:
+[2m  - waiting for locator('.jobs-easy-apply-modal') to be visible[22m
+
+2025-02-27 03:51:30 [32minfo[39m: El modal no pudo abrirse. Pasando a la siguiente vacante.
+2025-02-27 03:51:30 [32minfo[39m: Vacante procesada. Esperando 2 segundos antes de continuar con la siguiente vacante...
+2025-02-27 03:51:32 [32minfo[39m: --------------------------------------------------
+2025-02-27 03:51:32 [32minfo[39m: Abriendo vacante: Developer Frontend Liferay
+Developer Frontend Liferay with verification (ID: 4166366291)
+2025-02-27 03:51:32 [32minfo[39m: Haciendo click en la vacante usando selector: li[data-occludable-job-id="4166366291"]
+2025-02-27 03:51:32 [32minfo[39m: Esperando a que se cargue el detalle de la vacante...
+2025-02-27 03:51:32 [32minfo[39m: Abriendo modal de Quick Apply...
+2025-02-27 03:51:32 [32minfo[39m: Botón "Solicitud sencilla" clickeado, esperando apertura del modal...
+2025-02-27 03:51:45 [31merror[39m: Error al abrir el modal de Quick Apply: page.waitForSelector: Target page, context or browser has been closed
+Call log:
+[2m  - waiting for locator('.jobs-easy-apply-modal') to be visible[22m
+
+2025-02-27 03:51:45 [32minfo[39m: El modal no pudo abrirse. Pasando a la siguiente vacante.
+2025-02-27 03:51:45 [32minfo[39m: Vacante procesada. Esperando 2 segundos antes de continuar con la siguiente vacante...
+2025-02-27 03:55:17 [32minfo[39m: Iniciando bot con URL: https://www.linkedin.com/jobs/search/?currentJobId=4165446185&distance=50&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true
+2025-02-27 03:55:18 [32minfo[39m: Cookies cargadas desde archivo.
+2025-02-27 03:55:18 [32minfo[39m: Aplicando retraso aleatorio de 1236 ms.
+2025-02-27 03:55:24 [32minfo[39m: Usuario ya autenticado.
+2025-02-27 03:55:24 [32minfo[39m: Cookies guardadas en archivo.
+2025-02-27 03:55:24 [32minfo[39m: === INICIO DEL FLUJO DE BÚSQUEDA DE VACANTES ===
+2025-02-27 03:55:24 [32minfo[39m: Navegando a la URL de búsqueda: https://www.linkedin.com/jobs/search/?currentJobId=4165446185&distance=50&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true
+2025-02-27 03:55:28 [32minfo[39m: Listado de vacantes cargado correctamente.
+2025-02-27 03:55:28 [32minfo[39m: Buscando vacantes disponibles...
+2025-02-27 03:55:29 [32minfo[39m: Se extrajeron 7 vacantes.
+2025-02-27 03:55:29 [32minfo[39m: Total de vacantes encontradas: 7
+2025-02-27 03:55:29 [32minfo[39m: --------------------------------------------------
+2025-02-27 03:55:29 [32minfo[39m: Abriendo vacante: Node Developer - Trabajo Remoto
+Node Developer - Trabajo Remoto with verification (ID: 4166366721)
+2025-02-27 03:55:29 [32minfo[39m: Vacante "Node Developer - Trabajo Remoto
+Node Developer - Trabajo Remoto with verification" no es de Quick Apply. Se omite.
+2025-02-27 03:55:29 [32minfo[39m: --------------------------------------------------
+2025-02-27 03:55:29 [32minfo[39m: Abriendo vacante: Senior Full Stack Developer
+Senior Full Stack Developer (ID: 4169437112)
+2025-02-27 03:55:29 [32minfo[39m: Vacante "Senior Full Stack Developer
+Senior Full Stack Developer" no es de Quick Apply. Se omite.
+2025-02-27 03:55:29 [32minfo[39m: --------------------------------------------------
+2025-02-27 03:55:29 [32minfo[39m: Abriendo vacante: Java Software Engineer
+Java Software Engineer (ID: 4168474535)
+2025-02-27 03:55:29 [32minfo[39m: Vacante "Java Software Engineer
+Java Software Engineer" no es de Quick Apply. Se omite.
+2025-02-27 03:55:29 [32minfo[39m: --------------------------------------------------
+2025-02-27 03:55:29 [32minfo[39m: Abriendo vacante: Full Stack Developer
+Full Stack Developer (ID: 4165446185)
+2025-02-27 03:55:29 [32minfo[39m: Vacante "Full Stack Developer
+Full Stack Developer" no es de Quick Apply. Se omite.
+2025-02-27 03:55:29 [32minfo[39m: --------------------------------------------------
+2025-02-27 03:55:29 [32minfo[39m: Abriendo vacante: Full Stack Developer
+Full Stack Developer with verification (ID: 4168697377)
+2025-02-27 03:55:29 [32minfo[39m: Vacante "Full Stack Developer
+Full Stack Developer with verification" no es de Quick Apply. Se omite.
+2025-02-27 03:55:29 [32minfo[39m: --------------------------------------------------
+2025-02-27 03:55:29 [32minfo[39m: Abriendo vacante: Senior Front-End Engineer
+Senior Front-End Engineer (ID: 4165621721)
+2025-02-27 03:55:29 [32minfo[39m: Vacante "Senior Front-End Engineer
+Senior Front-End Engineer" no es de Quick Apply. Se omite.
+2025-02-27 03:55:29 [32minfo[39m: --------------------------------------------------
+2025-02-27 03:55:29 [32minfo[39m: Abriendo vacante: Desarrollador Frontend React.js y React Native
+Desarrollador Frontend React.js y React Native (ID: 4166732001)
+2025-02-27 03:55:29 [32minfo[39m: Vacante "Desarrollador Frontend React.js y React Native
+Desarrollador Frontend React.js y React Native" no es de Quick Apply. Se omite.
+2025-02-27 03:55:29 [32minfo[39m: === FINALIZO EL PROCESO DE BÚSQUEDA DE VACANTES ===
+2025-02-27 03:55:29 [32minfo[39m: Proceso de postulación finalizado.
+2025-02-27 03:56:26 [32minfo[39m: Iniciando bot con URL: https://www.linkedin.com/jobs/search/?currentJobId=4165446185&distance=50&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true
+2025-02-27 03:56:27 [32minfo[39m: Cookies cargadas desde archivo.
+2025-02-27 03:56:28 [32minfo[39m: Aplicando retraso aleatorio de 1500 ms.
+2025-02-27 03:56:33 [32minfo[39m: Usuario ya autenticado.
+2025-02-27 03:56:33 [32minfo[39m: Cookies guardadas en archivo.
+2025-02-27 03:56:33 [32minfo[39m: === INICIO DEL FLUJO DE BÚSQUEDA DE VACANTES ===
+2025-02-27 03:56:33 [32minfo[39m: Navegando a la URL de búsqueda: https://www.linkedin.com/jobs/search/?currentJobId=4165446185&distance=50&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true
+2025-02-27 03:56:38 [32minfo[39m: Listado de vacantes cargado correctamente.
+2025-02-27 03:56:38 [32minfo[39m: Buscando vacantes disponibles...
+2025-02-27 03:56:38 [32minfo[39m: Se extrajeron 8 vacantes.
+2025-02-27 03:56:38 [32minfo[39m: Total de vacantes encontradas: 8
+2025-02-27 03:56:38 [32minfo[39m: --------------------------------------------------
+2025-02-27 03:56:38 [32minfo[39m: Abriendo vacante: Senior Front-end Engineer
+Senior Front-end Engineer with verification (ID: 4168393182)
+2025-02-27 03:56:38 [32minfo[39m: Vacante "Senior Front-end Engineer
+Senior Front-end Engineer with verification" no es de Quick Apply. Se omite.
+2025-02-27 03:56:38 [32minfo[39m: --------------------------------------------------
+2025-02-27 03:56:38 [32minfo[39m: Abriendo vacante: Senior Fullstack Developer
+Senior Fullstack Developer (ID: 4168642567)
+2025-02-27 03:56:38 [32minfo[39m: Vacante "Senior Fullstack Developer
+Senior Fullstack Developer" no es de Quick Apply. Se omite.
+2025-02-27 03:56:38 [32minfo[39m: --------------------------------------------------
+2025-02-27 03:56:38 [32minfo[39m: Abriendo vacante: Programador full stack
+Programador full stack (ID: 4165479170)
+2025-02-27 03:56:38 [32minfo[39m: Vacante "Programador full stack
+Programador full stack" no es de Quick Apply. Se omite.
+2025-02-27 03:56:38 [32minfo[39m: --------------------------------------------------
+2025-02-27 03:56:38 [32minfo[39m: Abriendo vacante: Node Developer - Trabajo Remoto
+Node Developer - Trabajo Remoto with verification (ID: 4166366721)
+2025-02-27 03:56:38 [32minfo[39m: Vacante "Node Developer - Trabajo Remoto
+Node Developer - Trabajo Remoto with verification" no es de Quick Apply. Se omite.
+2025-02-27 03:56:38 [32minfo[39m: --------------------------------------------------
+2025-02-27 03:56:38 [32minfo[39m: Abriendo vacante: Senior Full Stack Developer
+Senior Full Stack Developer (ID: 4169437112)
+2025-02-27 03:56:38 [32minfo[39m: Vacante "Senior Full Stack Developer
+Senior Full Stack Developer" no es de Quick Apply. Se omite.
+2025-02-27 03:56:38 [32minfo[39m: --------------------------------------------------
+2025-02-27 03:56:38 [32minfo[39m: Abriendo vacante: Full Stack Developer
+Full Stack Developer (ID: 4165446185)
+2025-02-27 03:56:38 [32minfo[39m: Vacante "Full Stack Developer
+Full Stack Developer" no es de Quick Apply. Se omite.
+2025-02-27 03:56:38 [32minfo[39m: --------------------------------------------------
+2025-02-27 03:56:38 [32minfo[39m: Abriendo vacante: Java Software Engineer
+Java Software Engineer (ID: 4168474535)
+2025-02-27 03:56:38 [32minfo[39m: Vacante "Java Software Engineer
+Java Software Engineer" no es de Quick Apply. Se omite.
+2025-02-27 03:56:38 [32minfo[39m: --------------------------------------------------
+2025-02-27 03:56:38 [32minfo[39m: Abriendo vacante: Desarrollador Fullstack - Hibrido En Bogotá
+Desarrollador Fullstack - Hibrido En Bogotá (ID: 4166527169)
+2025-02-27 03:56:38 [32minfo[39m: Vacante "Desarrollador Fullstack - Hibrido En Bogotá
+Desarrollador Fullstack - Hibrido En Bogotá" no es de Quick Apply. Se omite.
+2025-02-27 03:56:38 [32minfo[39m: === FINALIZO EL PROCESO DE BÚSQUEDA DE VACANTES ===
+2025-02-27 03:56:38 [32minfo[39m: Proceso de postulación finalizado.
+2025-02-27 03:59:16 [32minfo[39m: Iniciando bot con URL: https://www.linkedin.com/jobs/search/?currentJobId=4165446185&distance=50&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true
+2025-02-27 03:59:17 [32minfo[39m: Cookies cargadas desde archivo.
+2025-02-27 03:59:17 [32minfo[39m: Aplicando retraso aleatorio de 860 ms.
+2025-02-27 03:59:22 [32minfo[39m: Usuario ya autenticado.
+2025-02-27 03:59:22 [32minfo[39m: Cookies guardadas en archivo.
+2025-02-27 03:59:22 [32minfo[39m: === INICIO DEL FLUJO DE BÚSQUEDA DE VACANTES ===
+2025-02-27 03:59:22 [32minfo[39m: Navegando a la URL de búsqueda: https://www.linkedin.com/jobs/search/?currentJobId=4165446185&distance=50&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true
+2025-02-27 03:59:52 [31merror[39m: Error al cargar el listado de vacantes: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/jobs/search/?currentJobId=4165446185&distance=50&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true", waiting until "networkidle"[22m
+
+2025-02-27 03:59:52 [31merror[39m: Error en FlowController: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/jobs/search/?currentJobId=4165446185&distance=50&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true", waiting until "networkidle"[22m
+
+2025-02-27 03:59:52 [31merror[39m: Error en main.js: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/jobs/search/?currentJobId=4165446185&distance=50&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true", waiting until "networkidle"[22m
+
+2025-02-27 04:01:48 [32minfo[39m: Iniciando bot con URL: https://www.linkedin.com/jobs/search/?currentJobId=1234567&distance=50&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true
+2025-02-27 04:01:48 [32minfo[39m: Cookies cargadas desde archivo.
+2025-02-27 04:01:49 [32minfo[39m: Aplicando retraso aleatorio de 843 ms.
+2025-02-27 04:01:54 [32minfo[39m: Usuario ya autenticado.
+2025-02-27 04:01:54 [32minfo[39m: Cookies guardadas en archivo.
+2025-02-27 04:01:54 [32minfo[39m: === INICIO DEL FLUJO DE BÚSQUEDA DE VACANTES ===
+2025-02-27 04:01:54 [32minfo[39m: Navegando a la URL de búsqueda: https://www.linkedin.com/jobs/search/?currentJobId=1234567&distance=50&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true
+2025-02-27 04:01:58 [32minfo[39m: Listado de vacantes cargado correctamente.
+2025-02-27 04:01:58 [32minfo[39m: Buscando vacantes disponibles...
+2025-02-27 04:01:59 [32minfo[39m: Se extrajeron 7 vacantes.
+2025-02-27 04:01:59 [32minfo[39m: Total de vacantes encontradas: 7
+2025-02-27 04:01:59 [32minfo[39m: --------------------------------------------------
+2025-02-27 04:01:59 [32minfo[39m: Abriendo vacante: undefined (ID: undefined)
+2025-02-27 04:01:59 [32minfo[39m: Vacante "undefined" no es de Quick Apply. Se omite.
+2025-02-27 04:01:59 [32minfo[39m: --------------------------------------------------
+2025-02-27 04:01:59 [32minfo[39m: Abriendo vacante: undefined (ID: undefined)
+2025-02-27 04:01:59 [32minfo[39m: Vacante "undefined" no es de Quick Apply. Se omite.
+2025-02-27 04:01:59 [32minfo[39m: --------------------------------------------------
+2025-02-27 04:01:59 [32minfo[39m: Abriendo vacante: undefined (ID: undefined)
+2025-02-27 04:01:59 [32minfo[39m: Vacante "undefined" no es de Quick Apply. Se omite.
+2025-02-27 04:01:59 [32minfo[39m: --------------------------------------------------
+2025-02-27 04:01:59 [32minfo[39m: Abriendo vacante: undefined (ID: undefined)
+2025-02-27 04:01:59 [32minfo[39m: Vacante "undefined" no es de Quick Apply. Se omite.
+2025-02-27 04:01:59 [32minfo[39m: --------------------------------------------------
+2025-02-27 04:01:59 [32minfo[39m: Abriendo vacante: undefined (ID: undefined)
+2025-02-27 04:01:59 [32minfo[39m: Vacante "undefined" no es de Quick Apply. Se omite.
+2025-02-27 04:01:59 [32minfo[39m: --------------------------------------------------
+2025-02-27 04:01:59 [32minfo[39m: Abriendo vacante: undefined (ID: undefined)
+2025-02-27 04:01:59 [32minfo[39m: Vacante "undefined" no es de Quick Apply. Se omite.
+2025-02-27 04:01:59 [32minfo[39m: --------------------------------------------------
+2025-02-27 04:01:59 [32minfo[39m: Abriendo vacante: undefined (ID: undefined)
+2025-02-27 04:01:59 [32minfo[39m: Vacante "undefined" no es de Quick Apply. Se omite.
+2025-02-27 04:01:59 [32minfo[39m: === FINALIZO EL PROCESO DE BÚSQUEDA DE VACANTES ===
+2025-02-27 04:01:59 [32minfo[39m: Proceso de postulación finalizado.
+2025-02-27 04:03:53 [32minfo[39m: Iniciando bot con URL: https://www.linkedin.com/jobs/search/?currentJobId=1234567&distance=50&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true
+2025-02-27 04:03:53 [32minfo[39m: Cookies cargadas desde archivo.
+2025-02-27 04:03:54 [32minfo[39m: Aplicando retraso aleatorio de 783 ms.
+2025-02-27 04:03:58 [32minfo[39m: Usuario ya autenticado.
+2025-02-27 04:03:58 [32minfo[39m: Cookies guardadas en archivo.
+2025-02-27 04:03:58 [32minfo[39m: === INICIO DEL FLUJO DE BÚSQUEDA DE VACANTES ===
+2025-02-27 04:03:58 [32minfo[39m: Navegando a la URL de búsqueda: https://www.linkedin.com/jobs/search/?currentJobId=1234567&distance=50&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true
+2025-02-27 04:04:28 [31merror[39m: Error al cargar el listado de vacantes: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/jobs/search/?currentJobId=1234567&distance=50&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true", waiting until "networkidle"[22m
+
+2025-02-27 04:04:28 [31merror[39m: Error en FlowController: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/jobs/search/?currentJobId=1234567&distance=50&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true", waiting until "networkidle"[22m
+
+2025-02-27 04:04:28 [31merror[39m: Error en main.js: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/jobs/search/?currentJobId=1234567&distance=50&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true", waiting until "networkidle"[22m
+
+2025-02-27 04:04:42 [32minfo[39m: Iniciando bot con URL: https://www.linkedin.com/jobs/search/?currentJobId=1234567&distance=50&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true
+2025-02-27 04:04:42 [32minfo[39m: Cookies cargadas desde archivo.
+2025-02-27 04:04:43 [32minfo[39m: Aplicando retraso aleatorio de 1000 ms.
+2025-02-27 04:04:48 [32minfo[39m: Usuario ya autenticado.
+2025-02-27 04:04:48 [32minfo[39m: Cookies guardadas en archivo.
+2025-02-27 04:04:48 [32minfo[39m: === INICIO DEL FLUJO DE BÚSQUEDA DE VACANTES ===
+2025-02-27 04:04:48 [32minfo[39m: Navegando a la URL de búsqueda: https://www.linkedin.com/jobs/search/?currentJobId=1234567&distance=50&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true
+2025-02-27 04:05:18 [31merror[39m: Error al cargar el listado de vacantes: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/jobs/search/?currentJobId=1234567&distance=50&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true", waiting until "networkidle"[22m
+
+2025-02-27 04:05:18 [31merror[39m: Error en FlowController: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/jobs/search/?currentJobId=1234567&distance=50&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true", waiting until "networkidle"[22m
+
+2025-02-27 04:05:18 [31merror[39m: Error en main.js: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/jobs/search/?currentJobId=1234567&distance=50&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true", waiting until "networkidle"[22m
+
+2025-02-27 04:12:42 [32minfo[39m: Iniciando bot con URL: https://www.linkedin.com/jobs/search/?currentJobId=1234567&distance=50&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true
+2025-02-27 04:12:45 [32minfo[39m: Cookies cargadas desde archivo.
+2025-02-27 04:12:45 [32minfo[39m: Aplicando retraso aleatorio de 1383 ms.
+2025-02-27 04:12:50 [32minfo[39m: Usuario ya autenticado.
+2025-02-27 04:12:50 [32minfo[39m: Cookies guardadas en archivo.
+2025-02-27 04:12:51 [32minfo[39m: === INICIO DEL FLUJO DE BÚSQUEDA DE VACANTES ===
+2025-02-27 04:12:51 [32minfo[39m: Navegando a la URL de búsqueda: https://www.linkedin.com/jobs/search/?currentJobId=1234567&distance=50&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true
+2025-02-27 04:13:21 [31merror[39m: Error al cargar el listado de vacantes: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/jobs/search/?currentJobId=1234567&distance=50&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true", waiting until "networkidle"[22m
+
+2025-02-27 04:13:21 [31merror[39m: Error en FlowController: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/jobs/search/?currentJobId=1234567&distance=50&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true", waiting until "networkidle"[22m
+
+2025-02-27 04:13:21 [31merror[39m: Error en main.js: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/jobs/search/?currentJobId=1234567&distance=50&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true", waiting until "networkidle"[22m
+
+2025-02-27 04:14:06 [32minfo[39m: Iniciando bot con URL: https://www.linkedin.com/jobs/search/?currentJobId=1234567&distance=50&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true
+2025-02-27 04:14:07 [32minfo[39m: Cookies cargadas desde archivo.
+2025-02-27 04:14:07 [32minfo[39m: Aplicando retraso aleatorio de 1182 ms.
+2025-02-27 04:14:12 [32minfo[39m: Usuario ya autenticado.
+2025-02-27 04:14:12 [32minfo[39m: Cookies guardadas en archivo.
+2025-02-27 04:14:13 [32minfo[39m: === INICIO DEL FLUJO DE BÚSQUEDA DE VACANTES ===
+2025-02-27 04:14:13 [32minfo[39m: Navegando a la URL de búsqueda: https://www.linkedin.com/jobs/search/?currentJobId=1234567&distance=50&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true
+2025-02-27 04:14:43 [31merror[39m: Error al cargar el listado de vacantes: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/jobs/search/?currentJobId=1234567&distance=50&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true", waiting until "networkidle"[22m
+
+2025-02-27 04:14:43 [31merror[39m: Error en FlowController: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/jobs/search/?currentJobId=1234567&distance=50&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true", waiting until "networkidle"[22m
+
+2025-02-27 04:14:43 [31merror[39m: Error en main.js: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/jobs/search/?currentJobId=1234567&distance=50&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true", waiting until "networkidle"[22m
+

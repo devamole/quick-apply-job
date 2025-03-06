@@ -1,0 +1,726 @@
+2025-02-26 17:47:53 [31merror[39m: Error al verificar autenticación: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/feed/", waiting until "networkidle"[22m
+
+2025-02-26 17:47:53 [31merror[39m: Error en main.js: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/feed/", waiting until "networkidle"[22m
+
+2025-02-26 17:48:29 [31merror[39m: Error al verificar autenticación: page.goto: Target page, context or browser has been closed
+Call log:
+[2m  - navigating to "https://www.linkedin.com/feed/", waiting until "networkidle"[22m
+
+2025-02-26 17:48:29 [31merror[39m: Error en main.js: page.goto: Target page, context or browser has been closed
+Call log:
+[2m  - navigating to "https://www.linkedin.com/feed/", waiting until "networkidle"[22m
+
+2025-02-26 17:49:06 [31merror[39m: Error al verificar autenticación: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/feed/", waiting until "networkidle"[22m
+
+2025-02-26 17:49:06 [31merror[39m: Error en main.js: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/feed/", waiting until "networkidle"[22m
+
+2025-02-26 17:49:49 [31merror[39m: Error al verificar autenticación: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/feed/", waiting until "networkidle"[22m
+
+2025-02-26 17:49:49 [31merror[39m: Error en main.js: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/feed/", waiting until "networkidle"[22m
+
+2025-02-27 02:13:11 [31merror[39m: Error al abrir el modal de Quick Apply: elementHandle.click: Element is not attached to the DOM
+Call log:
+[2m  - attempting click action[22m
+[2m    - waiting for element to be visible, enabled and stable[22m
+
+2025-02-27 02:13:26 [31merror[39m: Error al llenar el formulario del modal: page.waitForSelector: Timeout 15000ms exceeded.
+Call log:
+[2m  - waiting for locator('form') to be visible[22m
+[2m    33 × locator resolved to 6 elements. Proceeding with the first one: <form>…</form>[22m
+
+2025-02-27 02:43:00 [31merror[39m: Error al hacer clic en "Siguiente": page.waitForSelector: Timeout 10000ms exceeded.
+Call log:
+[2m  - waiting for locator('button[data-easy-apply-next-button]') to be visible[22m
+
+2025-02-27 02:47:42 [31merror[39m: Error al abrir el modal de Quick Apply: elementHandle.click: Target page, context or browser has been closed
+Call log:
+[2m  - attempting click action[22m
+[2m    - waiting for element to be visible, enabled and stable[22m
+
+2025-02-27 02:48:22 [31merror[39m: Error al verificar autenticación: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/feed/", waiting until "networkidle"[22m
+
+2025-02-27 02:48:22 [31merror[39m: Error en main.js: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/feed/", waiting until "networkidle"[22m
+
+2025-02-27 02:48:44 [31merror[39m: Error al verificar autenticación: page.goto: Target page, context or browser has been closed
+Call log:
+[2m  - navigating to "https://www.linkedin.com/feed/", waiting until "networkidle"[22m
+
+2025-02-27 02:48:44 [31merror[39m: Error en main.js: page.goto: Target page, context or browser has been closed
+Call log:
+[2m  - navigating to "https://www.linkedin.com/feed/", waiting until "networkidle"[22m
+
+2025-02-27 02:52:17 [31merror[39m: Error al verificar autenticación: page.goto: Target page, context or browser has been closed
+Call log:
+[2m  - navigating to "https://www.linkedin.com/feed/", waiting until "networkidle"[22m
+
+2025-02-27 02:52:17 [31merror[39m: Error en main.js: page.goto: Target page, context or browser has been closed
+Call log:
+[2m  - navigating to "https://www.linkedin.com/feed/", waiting until "networkidle"[22m
+
+2025-02-27 02:57:36 [31merror[39m: Error al verificar autenticación: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/feed/", waiting until "networkidle"[22m
+
+2025-02-27 02:57:36 [31merror[39m: Error en main.js: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/feed/", waiting until "networkidle"[22m
+
+2025-02-27 02:58:21 [31merror[39m: Error al verificar autenticación: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/feed/", waiting until "networkidle"[22m
+
+2025-02-27 02:58:21 [31merror[39m: Error en main.js: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/feed/", waiting until "networkidle"[22m
+
+2025-02-27 03:01:34 [31merror[39m: Error al abrir el modal de Quick Apply: elementHandle.click: Element is not attached to the DOM
+Call log:
+[2m  - attempting click action[22m
+[2m    - waiting for element to be visible, enabled and stable[22m
+
+2025-02-27 03:03:07 [31merror[39m: Error al abrir el modal de Quick Apply: elementHandle.click: Element is not attached to the DOM
+Call log:
+[2m  - attempting click action[22m
+[2m    - waiting for element to be visible, enabled and stable[22m
+
+2025-02-27 03:03:49 [31merror[39m: Error al abrir el modal de Quick Apply: elementHandle.click: Element is not attached to the DOM
+Call log:
+[2m  - attempting click action[22m
+[2m    - waiting for element to be visible, enabled and stable[22m
+
+2025-02-27 03:05:51 [31merror[39m: Error al cargar el listado de vacantes: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/jobs/search/?currentJobId=4167642273&distance=50&f_T=9%2C25170%2C25201%2C23347%2C24%2C9633%2C25194%2C191%2C10738&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true", waiting until "networkidle"[22m
+
+2025-02-27 03:05:51 [31merror[39m: Error en FlowController: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/jobs/search/?currentJobId=4167642273&distance=50&f_T=9%2C25170%2C25201%2C23347%2C24%2C9633%2C25194%2C191%2C10738&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true", waiting until "networkidle"[22m
+
+2025-02-27 03:05:52 [31merror[39m: Error en main.js: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/jobs/search/?currentJobId=4167642273&distance=50&f_T=9%2C25170%2C25201%2C23347%2C24%2C9633%2C25194%2C191%2C10738&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true", waiting until "networkidle"[22m
+
+2025-02-27 03:06:35 [31merror[39m: Error al cargar el listado de vacantes: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/jobs/search/?currentJobId=4167642273&distance=50&f_T=9%2C25170%2C25201%2C23347%2C24%2C9633%2C25194%2C191%2C10738&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true", waiting until "networkidle"[22m
+
+2025-02-27 03:06:35 [31merror[39m: Error en FlowController: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/jobs/search/?currentJobId=4167642273&distance=50&f_T=9%2C25170%2C25201%2C23347%2C24%2C9633%2C25194%2C191%2C10738&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true", waiting until "networkidle"[22m
+
+2025-02-27 03:06:35 [31merror[39m: Error en main.js: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/jobs/search/?currentJobId=4167642273&distance=50&f_T=9%2C25170%2C25201%2C23347%2C24%2C9633%2C25194%2C191%2C10738&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true", waiting until "networkidle"[22m
+
+2025-02-27 03:12:06 [31merror[39m: Error al abrir el modal de Quick Apply: elementHandle.click: Element is not attached to the DOM
+Call log:
+[2m  - attempting click action[22m
+[2m    - waiting for element to be visible, enabled and stable[22m
+[2m    - element is not visible[22m
+[2m  - retrying click action[22m
+[2m    - waiting for element to be visible, enabled and stable[22m
+
+2025-02-27 03:21:04 [31merror[39m: Error al abrir el modal de Quick Apply: page.waitForSelector: Timeout 15000ms exceeded.
+Call log:
+[2m  - waiting for locator('.jobs-easy-apply-modal') to be visible[22m
+
+2025-02-27 03:30:16 [31merror[39m: Error al cargar el listado de vacantes: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/jobs/search/?currentJobId=4167247183&distance=50&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_KEYWORD_HISTORY&refresh=true", waiting until "networkidle"[22m
+
+2025-02-27 03:30:16 [31merror[39m: Error en FlowController: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/jobs/search/?currentJobId=4167247183&distance=50&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_KEYWORD_HISTORY&refresh=true", waiting until "networkidle"[22m
+
+2025-02-27 03:30:16 [31merror[39m: Error en main.js: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/jobs/search/?currentJobId=4167247183&distance=50&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_KEYWORD_HISTORY&refresh=true", waiting until "networkidle"[22m
+
+2025-02-27 03:33:17 [31merror[39m: Error en FlowController: page.click: Target page, context or browser has been closed
+Call log:
+[2m  - waiting for locator('li[data-occludable-job-id="4149290568"]')[22m
+[2m    - locator resolved to <li id="ember204" data-occludable-job-id="4149290568" class="ember-view   DQCEuPIsncXPNPguCiUFIyFiUqgRPCatDmY occludable-update p0 relative scaffold-layout__list-item">…</li>[22m
+[2m  - attempting click action[22m
+[2m    - waiting for element to be visible, enabled and stable[22m
+[2m    - element is visible, enabled and stable[22m
+[2m    - scrolling into view if needed[22m
+[2m    - done scrolling[22m
+[2m    - <span aria-hidden="true">…</span> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m  - retrying click action[22m
+[2m    - waiting for element to be visible, enabled and stable[22m
+[2m    - element is visible, enabled and stable[22m
+[2m    - scrolling into view if needed[22m
+[2m    - done scrolling[22m
+[2m    - <div id="ember547" aria-hidden="false" data-test-modal-container="" data-test-modal-id="easy-apply-modal" class="artdeco-modal-overlay artdeco-modal-overlay--layer-default artdeco-modal-overlay--is-top-layer  ember-view">…</div> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m  - retrying click action[22m
+[2m    - waiting 20ms[22m
+[2m    - waiting for element to be visible, enabled and stable[22m
+[2m    - element is visible, enabled and stable[22m
+[2m    - scrolling into view if needed[22m
+[2m    - done scrolling[22m
+[2m    - <div class="display-flex justify-flex-end ph5 pv4">…</div> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m  2 × retrying click action[22m
+[2m      - waiting 100ms[22m
+[2m      - waiting for element to be visible, enabled and stable[22m
+[2m      - element is visible, enabled and stable[22m
+[2m      - scrolling into view if needed[22m
+[2m      - done scrolling[22m
+[2m      - <span aria-hidden="true">…</span> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m  3 × retrying click action[22m
+[2m      - waiting 500ms[22m
+[2m      - waiting for element to be visible, enabled and stable[22m
+[2m      - element is visible, enabled and stable[22m
+[2m      - scrolling into view if needed[22m
+[2m      - done scrolling[22m
+[2m      - <div id="ember547" aria-hidden="false" data-test-modal-container="" data-test-modal-id="easy-apply-modal" class="artdeco-modal-overlay artdeco-modal-overlay--layer-default artdeco-modal-overlay--is-top-layer  ember-view">…</div> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m    - retrying click action[22m
+[2m      - waiting 500ms[22m
+[2m      - waiting for element to be visible, enabled and stable[22m
+[2m      - element is visible, enabled and stable[22m
+[2m      - scrolling into view if needed[22m
+[2m      - done scrolling[22m
+[2m      - <div class="display-flex justify-flex-end ph5 pv4">…</div> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m    - retrying click action[22m
+[2m      - waiting 500ms[22m
+[2m      - waiting for element to be visible, enabled and stable[22m
+[2m      - element is visible, enabled and stable[22m
+[2m      - scrolling into view if needed[22m
+[2m      - done scrolling[22m
+[2m      - <span aria-hidden="true">…</span> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m    - retrying click action[22m
+[2m      - waiting 500ms[22m
+[2m      - waiting for element to be visible, enabled and stable[22m
+[2m      - element is visible, enabled and stable[22m
+[2m      - scrolling into view if needed[22m
+[2m      - done scrolling[22m
+[2m      - <span aria-hidden="true">…</span> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m  - retrying click action[22m
+[2m    - waiting 500ms[22m
+[2m    - waiting for element to be visible, enabled and stable[22m
+[2m    - element is visible, enabled and stable[22m
+[2m    - scrolling into view if needed[22m
+[2m    - done scrolling[22m
+[2m    - <div id="ember547" aria-hidden="false" data-test-modal-container="" data-test-modal-id="easy-apply-modal" class="artdeco-modal-overlay artdeco-modal-overlay--layer-default artdeco-modal-overlay--is-top-layer  ember-view">…</div> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m  - retrying click action[22m
+[2m    - waiting 500ms[22m
+[2m    - waiting for element to be visible, enabled and stable[22m
+[2m    - element is visible, enabled and stable[22m
+[2m    - scrolling into view if needed[22m
+[2m    - done scrolling[22m
+[2m    - <div class="display-flex justify-flex-end ph5 pv4">…</div> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m  - retrying click action[22m
+[2m    - waiting 500ms[22m
+[2m    - waiting for element to be visible, enabled and stable[22m
+[2m    - element is visible, enabled and stable[22m
+[2m    - scrolling into view if needed[22m
+[2m    - done scrolling[22m
+[2m    - <span aria-hidden="true">…</span> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m  - retrying click action[22m
+[2m    - waiting 500ms[22m
+
+2025-02-27 03:33:17 [31merror[39m: Error en main.js: page.click: Target page, context or browser has been closed
+Call log:
+[2m  - waiting for locator('li[data-occludable-job-id="4149290568"]')[22m
+[2m    - locator resolved to <li id="ember204" data-occludable-job-id="4149290568" class="ember-view   DQCEuPIsncXPNPguCiUFIyFiUqgRPCatDmY occludable-update p0 relative scaffold-layout__list-item">…</li>[22m
+[2m  - attempting click action[22m
+[2m    - waiting for element to be visible, enabled and stable[22m
+[2m    - element is visible, enabled and stable[22m
+[2m    - scrolling into view if needed[22m
+[2m    - done scrolling[22m
+[2m    - <span aria-hidden="true">…</span> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m  - retrying click action[22m
+[2m    - waiting for element to be visible, enabled and stable[22m
+[2m    - element is visible, enabled and stable[22m
+[2m    - scrolling into view if needed[22m
+[2m    - done scrolling[22m
+[2m    - <div id="ember547" aria-hidden="false" data-test-modal-container="" data-test-modal-id="easy-apply-modal" class="artdeco-modal-overlay artdeco-modal-overlay--layer-default artdeco-modal-overlay--is-top-layer  ember-view">…</div> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m  - retrying click action[22m
+[2m    - waiting 20ms[22m
+[2m    - waiting for element to be visible, enabled and stable[22m
+[2m    - element is visible, enabled and stable[22m
+[2m    - scrolling into view if needed[22m
+[2m    - done scrolling[22m
+[2m    - <div class="display-flex justify-flex-end ph5 pv4">…</div> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m  2 × retrying click action[22m
+[2m      - waiting 100ms[22m
+[2m      - waiting for element to be visible, enabled and stable[22m
+[2m      - element is visible, enabled and stable[22m
+[2m      - scrolling into view if needed[22m
+[2m      - done scrolling[22m
+[2m      - <span aria-hidden="true">…</span> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m  3 × retrying click action[22m
+[2m      - waiting 500ms[22m
+[2m      - waiting for element to be visible, enabled and stable[22m
+[2m      - element is visible, enabled and stable[22m
+[2m      - scrolling into view if needed[22m
+[2m      - done scrolling[22m
+[2m      - <div id="ember547" aria-hidden="false" data-test-modal-container="" data-test-modal-id="easy-apply-modal" class="artdeco-modal-overlay artdeco-modal-overlay--layer-default artdeco-modal-overlay--is-top-layer  ember-view">…</div> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m    - retrying click action[22m
+[2m      - waiting 500ms[22m
+[2m      - waiting for element to be visible, enabled and stable[22m
+[2m      - element is visible, enabled and stable[22m
+[2m      - scrolling into view if needed[22m
+[2m      - done scrolling[22m
+[2m      - <div class="display-flex justify-flex-end ph5 pv4">…</div> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m    - retrying click action[22m
+[2m      - waiting 500ms[22m
+[2m      - waiting for element to be visible, enabled and stable[22m
+[2m      - element is visible, enabled and stable[22m
+[2m      - scrolling into view if needed[22m
+[2m      - done scrolling[22m
+[2m      - <span aria-hidden="true">…</span> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m    - retrying click action[22m
+[2m      - waiting 500ms[22m
+[2m      - waiting for element to be visible, enabled and stable[22m
+[2m      - element is visible, enabled and stable[22m
+[2m      - scrolling into view if needed[22m
+[2m      - done scrolling[22m
+[2m      - <span aria-hidden="true">…</span> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m  - retrying click action[22m
+[2m    - waiting 500ms[22m
+[2m    - waiting for element to be visible, enabled and stable[22m
+[2m    - element is visible, enabled and stable[22m
+[2m    - scrolling into view if needed[22m
+[2m    - done scrolling[22m
+[2m    - <div id="ember547" aria-hidden="false" data-test-modal-container="" data-test-modal-id="easy-apply-modal" class="artdeco-modal-overlay artdeco-modal-overlay--layer-default artdeco-modal-overlay--is-top-layer  ember-view">…</div> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m  - retrying click action[22m
+[2m    - waiting 500ms[22m
+[2m    - waiting for element to be visible, enabled and stable[22m
+[2m    - element is visible, enabled and stable[22m
+[2m    - scrolling into view if needed[22m
+[2m    - done scrolling[22m
+[2m    - <div class="display-flex justify-flex-end ph5 pv4">…</div> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m  - retrying click action[22m
+[2m    - waiting 500ms[22m
+[2m    - waiting for element to be visible, enabled and stable[22m
+[2m    - element is visible, enabled and stable[22m
+[2m    - scrolling into view if needed[22m
+[2m    - done scrolling[22m
+[2m    - <span aria-hidden="true">…</span> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m  - retrying click action[22m
+[2m    - waiting 500ms[22m
+
+2025-02-27 03:41:22 [31merror[39m: Error en FlowController: page.click: Timeout 30000ms exceeded.
+Call log:
+[2m  - waiting for locator('li[data-occludable-job-id="4157568046"]')[22m
+[2m    - locator resolved to <li id="ember239" data-occludable-job-id="4157568046" class="ember-view   DQCEuPIsncXPNPguCiUFIyFiUqgRPCatDmY occludable-update p0 relative scaffold-layout__list-item">…</li>[22m
+[2m  - attempting click action[22m
+[2m    - waiting for element to be visible, enabled and stable[22m
+[2m    - element is visible, enabled and stable[22m
+[2m    - scrolling into view if needed[22m
+[2m    - done scrolling[22m
+[2m    - <span aria-hidden="true">…</span> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m  - retrying click action[22m
+[2m    - waiting for element to be visible, enabled and stable[22m
+[2m    - element is visible, enabled and stable[22m
+[2m    - scrolling into view if needed[22m
+[2m    - done scrolling[22m
+[2m    - <div id="ember419" aria-hidden="false" data-test-modal-container="" data-test-modal-id="easy-apply-modal" class="artdeco-modal-overlay artdeco-modal-overlay--layer-default artdeco-modal-overlay--is-top-layer  ember-view">…</div> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m  - retrying click action[22m
+[2m    - waiting 20ms[22m
+[2m    - waiting for element to be visible, enabled and stable[22m
+[2m    - element is visible, enabled and stable[22m
+[2m    - scrolling into view if needed[22m
+[2m    - done scrolling[22m
+[2m    - <div class="display-flex justify-flex-end ph5 pv4">…</div> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m  2 × retrying click action[22m
+[2m      - waiting 100ms[22m
+[2m      - waiting for element to be visible, enabled and stable[22m
+[2m      - element is visible, enabled and stable[22m
+[2m      - scrolling into view if needed[22m
+[2m      - done scrolling[22m
+[2m      - <span aria-hidden="true">…</span> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m  13 × retrying click action[22m
+[2m       - waiting 500ms[22m
+[2m       - waiting for element to be visible, enabled and stable[22m
+[2m       - element is visible, enabled and stable[22m
+[2m       - scrolling into view if needed[22m
+[2m       - done scrolling[22m
+[2m       - <div id="ember419" aria-hidden="false" data-test-modal-container="" data-test-modal-id="easy-apply-modal" class="artdeco-modal-overlay artdeco-modal-overlay--layer-default artdeco-modal-overlay--is-top-layer  ember-view">…</div> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m     - retrying click action[22m
+[2m       - waiting 500ms[22m
+[2m       - waiting for element to be visible, enabled and stable[22m
+[2m       - element is visible, enabled and stable[22m
+[2m       - scrolling into view if needed[22m
+[2m       - done scrolling[22m
+[2m       - <div class="display-flex justify-flex-end ph5 pv4">…</div> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m     - retrying click action[22m
+[2m       - waiting 500ms[22m
+[2m       - waiting for element to be visible, enabled and stable[22m
+[2m       - element is visible, enabled and stable[22m
+[2m       - scrolling into view if needed[22m
+[2m       - done scrolling[22m
+[2m       - <span aria-hidden="true">…</span> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m     - retrying click action[22m
+[2m       - waiting 500ms[22m
+[2m       - waiting for element to be visible, enabled and stable[22m
+[2m       - element is visible, enabled and stable[22m
+[2m       - scrolling into view if needed[22m
+[2m       - done scrolling[22m
+[2m       - <span aria-hidden="true">…</span> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m  - retrying click action[22m
+[2m    - waiting 500ms[22m
+[2m    - waiting for element to be visible, enabled and stable[22m
+[2m    - element is visible, enabled and stable[22m
+[2m    - scrolling into view if needed[22m
+[2m    - done scrolling[22m
+[2m    - <div id="ember419" aria-hidden="false" data-test-modal-container="" data-test-modal-id="easy-apply-modal" class="artdeco-modal-overlay artdeco-modal-overlay--layer-default artdeco-modal-overlay--is-top-layer  ember-view">…</div> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m  - retrying click action[22m
+[2m    - waiting 500ms[22m
+[2m    - waiting for element to be visible, enabled and stable[22m
+[2m    - element is visible, enabled and stable[22m
+[2m    - scrolling into view if needed[22m
+[2m    - done scrolling[22m
+[2m    - <div class="display-flex justify-flex-end ph5 pv4">…</div> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m  - retrying click action[22m
+[2m    - waiting 500ms[22m
+[2m    - waiting for element to be visible, enabled and stable[22m
+[2m    - element is visible, enabled and stable[22m
+[2m    - scrolling into view if needed[22m
+[2m    - done scrolling[22m
+[2m    - <span aria-hidden="true">…</span> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m  - retrying click action[22m
+[2m    - waiting 500ms[22m
+
+2025-02-27 03:41:22 [31merror[39m: Error en main.js: page.click: Timeout 30000ms exceeded.
+Call log:
+[2m  - waiting for locator('li[data-occludable-job-id="4157568046"]')[22m
+[2m    - locator resolved to <li id="ember239" data-occludable-job-id="4157568046" class="ember-view   DQCEuPIsncXPNPguCiUFIyFiUqgRPCatDmY occludable-update p0 relative scaffold-layout__list-item">…</li>[22m
+[2m  - attempting click action[22m
+[2m    - waiting for element to be visible, enabled and stable[22m
+[2m    - element is visible, enabled and stable[22m
+[2m    - scrolling into view if needed[22m
+[2m    - done scrolling[22m
+[2m    - <span aria-hidden="true">…</span> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m  - retrying click action[22m
+[2m    - waiting for element to be visible, enabled and stable[22m
+[2m    - element is visible, enabled and stable[22m
+[2m    - scrolling into view if needed[22m
+[2m    - done scrolling[22m
+[2m    - <div id="ember419" aria-hidden="false" data-test-modal-container="" data-test-modal-id="easy-apply-modal" class="artdeco-modal-overlay artdeco-modal-overlay--layer-default artdeco-modal-overlay--is-top-layer  ember-view">…</div> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m  - retrying click action[22m
+[2m    - waiting 20ms[22m
+[2m    - waiting for element to be visible, enabled and stable[22m
+[2m    - element is visible, enabled and stable[22m
+[2m    - scrolling into view if needed[22m
+[2m    - done scrolling[22m
+[2m    - <div class="display-flex justify-flex-end ph5 pv4">…</div> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m  2 × retrying click action[22m
+[2m      - waiting 100ms[22m
+[2m      - waiting for element to be visible, enabled and stable[22m
+[2m      - element is visible, enabled and stable[22m
+[2m      - scrolling into view if needed[22m
+[2m      - done scrolling[22m
+[2m      - <span aria-hidden="true">…</span> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m  13 × retrying click action[22m
+[2m       - waiting 500ms[22m
+[2m       - waiting for element to be visible, enabled and stable[22m
+[2m       - element is visible, enabled and stable[22m
+[2m       - scrolling into view if needed[22m
+[2m       - done scrolling[22m
+[2m       - <div id="ember419" aria-hidden="false" data-test-modal-container="" data-test-modal-id="easy-apply-modal" class="artdeco-modal-overlay artdeco-modal-overlay--layer-default artdeco-modal-overlay--is-top-layer  ember-view">…</div> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m     - retrying click action[22m
+[2m       - waiting 500ms[22m
+[2m       - waiting for element to be visible, enabled and stable[22m
+[2m       - element is visible, enabled and stable[22m
+[2m       - scrolling into view if needed[22m
+[2m       - done scrolling[22m
+[2m       - <div class="display-flex justify-flex-end ph5 pv4">…</div> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m     - retrying click action[22m
+[2m       - waiting 500ms[22m
+[2m       - waiting for element to be visible, enabled and stable[22m
+[2m       - element is visible, enabled and stable[22m
+[2m       - scrolling into view if needed[22m
+[2m       - done scrolling[22m
+[2m       - <span aria-hidden="true">…</span> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m     - retrying click action[22m
+[2m       - waiting 500ms[22m
+[2m       - waiting for element to be visible, enabled and stable[22m
+[2m       - element is visible, enabled and stable[22m
+[2m       - scrolling into view if needed[22m
+[2m       - done scrolling[22m
+[2m       - <span aria-hidden="true">…</span> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m  - retrying click action[22m
+[2m    - waiting 500ms[22m
+[2m    - waiting for element to be visible, enabled and stable[22m
+[2m    - element is visible, enabled and stable[22m
+[2m    - scrolling into view if needed[22m
+[2m    - done scrolling[22m
+[2m    - <div id="ember419" aria-hidden="false" data-test-modal-container="" data-test-modal-id="easy-apply-modal" class="artdeco-modal-overlay artdeco-modal-overlay--layer-default artdeco-modal-overlay--is-top-layer  ember-view">…</div> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m  - retrying click action[22m
+[2m    - waiting 500ms[22m
+[2m    - waiting for element to be visible, enabled and stable[22m
+[2m    - element is visible, enabled and stable[22m
+[2m    - scrolling into view if needed[22m
+[2m    - done scrolling[22m
+[2m    - <div class="display-flex justify-flex-end ph5 pv4">…</div> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m  - retrying click action[22m
+[2m    - waiting 500ms[22m
+[2m    - waiting for element to be visible, enabled and stable[22m
+[2m    - element is visible, enabled and stable[22m
+[2m    - scrolling into view if needed[22m
+[2m    - done scrolling[22m
+[2m    - <span aria-hidden="true">…</span> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m  - retrying click action[22m
+[2m    - waiting 500ms[22m
+
+2025-02-27 03:49:35 [31merror[39m: Error en FlowController: page.click: Timeout 30000ms exceeded.
+Call log:
+[2m  - waiting for locator('li[data-occludable-job-id="4167193226"]')[22m
+[2m    - locator resolved to <li id="ember234" data-occludable-job-id="4167193226" class="ember-view   DQCEuPIsncXPNPguCiUFIyFiUqgRPCatDmY occludable-update p0 relative scaffold-layout__list-item">…</li>[22m
+[2m  - attempting click action[22m
+[2m    - waiting for element to be visible, enabled and stable[22m
+[2m    - element is visible, enabled and stable[22m
+[2m    - scrolling into view if needed[22m
+[2m    - done scrolling[22m
+[2m    - <span aria-hidden="true">…</span> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m  - retrying click action[22m
+[2m    - waiting for element to be visible, enabled and stable[22m
+[2m    - element is visible, enabled and stable[22m
+[2m    - scrolling into view if needed[22m
+[2m    - done scrolling[22m
+[2m    - <div id="ember514" aria-hidden="false" data-test-modal-container="" data-test-modal-id="easy-apply-modal" class="artdeco-modal-overlay artdeco-modal-overlay--layer-default artdeco-modal-overlay--is-top-layer  ember-view">…</div> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m  - retrying click action[22m
+[2m    - waiting 20ms[22m
+[2m    - waiting for element to be visible, enabled and stable[22m
+[2m    - element is visible, enabled and stable[22m
+[2m    - scrolling into view if needed[22m
+[2m    - done scrolling[22m
+[2m    - <div class="jobs-easy-apply-footer__info">…</div> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m  2 × retrying click action[22m
+[2m      - waiting 100ms[22m
+[2m      - waiting for element to be visible, enabled and stable[22m
+[2m      - element is visible, enabled and stable[22m
+[2m      - scrolling into view if needed[22m
+[2m      - done scrolling[22m
+[2m      - <span aria-hidden="true">…</span> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m  13 × retrying click action[22m
+[2m       - waiting 500ms[22m
+[2m       - waiting for element to be visible, enabled and stable[22m
+[2m       - element is visible, enabled and stable[22m
+[2m       - scrolling into view if needed[22m
+[2m       - done scrolling[22m
+[2m       - <div id="ember514" aria-hidden="false" data-test-modal-container="" data-test-modal-id="easy-apply-modal" class="artdeco-modal-overlay artdeco-modal-overlay--layer-default artdeco-modal-overlay--is-top-layer  ember-view">…</div> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m     - retrying click action[22m
+[2m       - waiting 500ms[22m
+[2m       - waiting for element to be visible, enabled and stable[22m
+[2m       - element is visible, enabled and stable[22m
+[2m       - scrolling into view if needed[22m
+[2m       - done scrolling[22m
+[2m       - <div class="jobs-easy-apply-footer__info">…</div> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m     - retrying click action[22m
+[2m       - waiting 500ms[22m
+[2m       - waiting for element to be visible, enabled and stable[22m
+[2m       - element is visible, enabled and stable[22m
+[2m       - scrolling into view if needed[22m
+[2m       - done scrolling[22m
+[2m       - <span aria-hidden="true">…</span> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m     - retrying click action[22m
+[2m       - waiting 500ms[22m
+[2m       - waiting for element to be visible, enabled and stable[22m
+[2m       - element is visible, enabled and stable[22m
+[2m       - scrolling into view if needed[22m
+[2m       - done scrolling[22m
+[2m       - <span aria-hidden="true">…</span> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m  - retrying click action[22m
+[2m    - waiting 500ms[22m
+[2m    - waiting for element to be visible, enabled and stable[22m
+[2m    - element is visible, enabled and stable[22m
+[2m    - scrolling into view if needed[22m
+[2m    - done scrolling[22m
+[2m    - <div id="ember514" aria-hidden="false" data-test-modal-container="" data-test-modal-id="easy-apply-modal" class="artdeco-modal-overlay artdeco-modal-overlay--layer-default artdeco-modal-overlay--is-top-layer  ember-view">…</div> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m  - retrying click action[22m
+[2m    - waiting 500ms[22m
+[2m    - waiting for element to be visible, enabled and stable[22m
+[2m    - element is visible, enabled and stable[22m
+[2m    - scrolling into view if needed[22m
+[2m    - done scrolling[22m
+[2m    - <div class="jobs-easy-apply-footer__info">…</div> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m  - retrying click action[22m
+[2m    - waiting 500ms[22m
+[2m    - waiting for element to be visible, enabled and stable[22m
+[2m    - element is visible, enabled and stable[22m
+[2m    - scrolling into view if needed[22m
+[2m    - done scrolling[22m
+[2m    - <span aria-hidden="true">…</span> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m  - retrying click action[22m
+[2m    - waiting 500ms[22m
+
+2025-02-27 03:49:35 [31merror[39m: Error en main.js: page.click: Timeout 30000ms exceeded.
+Call log:
+[2m  - waiting for locator('li[data-occludable-job-id="4167193226"]')[22m
+[2m    - locator resolved to <li id="ember234" data-occludable-job-id="4167193226" class="ember-view   DQCEuPIsncXPNPguCiUFIyFiUqgRPCatDmY occludable-update p0 relative scaffold-layout__list-item">…</li>[22m
+[2m  - attempting click action[22m
+[2m    - waiting for element to be visible, enabled and stable[22m
+[2m    - element is visible, enabled and stable[22m
+[2m    - scrolling into view if needed[22m
+[2m    - done scrolling[22m
+[2m    - <span aria-hidden="true">…</span> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m  - retrying click action[22m
+[2m    - waiting for element to be visible, enabled and stable[22m
+[2m    - element is visible, enabled and stable[22m
+[2m    - scrolling into view if needed[22m
+[2m    - done scrolling[22m
+[2m    - <div id="ember514" aria-hidden="false" data-test-modal-container="" data-test-modal-id="easy-apply-modal" class="artdeco-modal-overlay artdeco-modal-overlay--layer-default artdeco-modal-overlay--is-top-layer  ember-view">…</div> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m  - retrying click action[22m
+[2m    - waiting 20ms[22m
+[2m    - waiting for element to be visible, enabled and stable[22m
+[2m    - element is visible, enabled and stable[22m
+[2m    - scrolling into view if needed[22m
+[2m    - done scrolling[22m
+[2m    - <div class="jobs-easy-apply-footer__info">…</div> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m  2 × retrying click action[22m
+[2m      - waiting 100ms[22m
+[2m      - waiting for element to be visible, enabled and stable[22m
+[2m      - element is visible, enabled and stable[22m
+[2m      - scrolling into view if needed[22m
+[2m      - done scrolling[22m
+[2m      - <span aria-hidden="true">…</span> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m  13 × retrying click action[22m
+[2m       - waiting 500ms[22m
+[2m       - waiting for element to be visible, enabled and stable[22m
+[2m       - element is visible, enabled and stable[22m
+[2m       - scrolling into view if needed[22m
+[2m       - done scrolling[22m
+[2m       - <div id="ember514" aria-hidden="false" data-test-modal-container="" data-test-modal-id="easy-apply-modal" class="artdeco-modal-overlay artdeco-modal-overlay--layer-default artdeco-modal-overlay--is-top-layer  ember-view">…</div> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m     - retrying click action[22m
+[2m       - waiting 500ms[22m
+[2m       - waiting for element to be visible, enabled and stable[22m
+[2m       - element is visible, enabled and stable[22m
+[2m       - scrolling into view if needed[22m
+[2m       - done scrolling[22m
+[2m       - <div class="jobs-easy-apply-footer__info">…</div> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m     - retrying click action[22m
+[2m       - waiting 500ms[22m
+[2m       - waiting for element to be visible, enabled and stable[22m
+[2m       - element is visible, enabled and stable[22m
+[2m       - scrolling into view if needed[22m
+[2m       - done scrolling[22m
+[2m       - <span aria-hidden="true">…</span> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m     - retrying click action[22m
+[2m       - waiting 500ms[22m
+[2m       - waiting for element to be visible, enabled and stable[22m
+[2m       - element is visible, enabled and stable[22m
+[2m       - scrolling into view if needed[22m
+[2m       - done scrolling[22m
+[2m       - <span aria-hidden="true">…</span> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m  - retrying click action[22m
+[2m    - waiting 500ms[22m
+[2m    - waiting for element to be visible, enabled and stable[22m
+[2m    - element is visible, enabled and stable[22m
+[2m    - scrolling into view if needed[22m
+[2m    - done scrolling[22m
+[2m    - <div id="ember514" aria-hidden="false" data-test-modal-container="" data-test-modal-id="easy-apply-modal" class="artdeco-modal-overlay artdeco-modal-overlay--layer-default artdeco-modal-overlay--is-top-layer  ember-view">…</div> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m  - retrying click action[22m
+[2m    - waiting 500ms[22m
+[2m    - waiting for element to be visible, enabled and stable[22m
+[2m    - element is visible, enabled and stable[22m
+[2m    - scrolling into view if needed[22m
+[2m    - done scrolling[22m
+[2m    - <div class="jobs-easy-apply-footer__info">…</div> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m  - retrying click action[22m
+[2m    - waiting 500ms[22m
+[2m    - waiting for element to be visible, enabled and stable[22m
+[2m    - element is visible, enabled and stable[22m
+[2m    - scrolling into view if needed[22m
+[2m    - done scrolling[22m
+[2m    - <span aria-hidden="true">…</span> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m  - retrying click action[22m
+[2m    - waiting 500ms[22m
+
+2025-02-27 03:50:15 [31merror[39m: Error al cargar el listado de vacantes: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/jobs/search/?currentJobId=4168045371&distance=50&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_KEYWORD_HISTORY&refresh=true", waiting until "networkidle"[22m
+
+2025-02-27 03:50:15 [31merror[39m: Error en FlowController: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/jobs/search/?currentJobId=4168045371&distance=50&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_KEYWORD_HISTORY&refresh=true", waiting until "networkidle"[22m
+
+2025-02-27 03:50:15 [31merror[39m: Error en main.js: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/jobs/search/?currentJobId=4168045371&distance=50&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_KEYWORD_HISTORY&refresh=true", waiting until "networkidle"[22m
+
+2025-02-27 03:51:30 [31merror[39m: Error al abrir el modal de Quick Apply: page.waitForSelector: Timeout 15000ms exceeded.
+Call log:
+[2m  - waiting for locator('.jobs-easy-apply-modal') to be visible[22m
+
+2025-02-27 03:51:45 [31merror[39m: Error al abrir el modal de Quick Apply: page.waitForSelector: Target page, context or browser has been closed
+Call log:
+[2m  - waiting for locator('.jobs-easy-apply-modal') to be visible[22m
+
+2025-02-27 03:59:52 [31merror[39m: Error al cargar el listado de vacantes: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/jobs/search/?currentJobId=4165446185&distance=50&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true", waiting until "networkidle"[22m
+
+2025-02-27 03:59:52 [31merror[39m: Error en FlowController: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/jobs/search/?currentJobId=4165446185&distance=50&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true", waiting until "networkidle"[22m
+
+2025-02-27 03:59:52 [31merror[39m: Error en main.js: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/jobs/search/?currentJobId=4165446185&distance=50&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true", waiting until "networkidle"[22m
+
+2025-02-27 04:04:28 [31merror[39m: Error al cargar el listado de vacantes: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/jobs/search/?currentJobId=1234567&distance=50&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true", waiting until "networkidle"[22m
+
+2025-02-27 04:04:28 [31merror[39m: Error en FlowController: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/jobs/search/?currentJobId=1234567&distance=50&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true", waiting until "networkidle"[22m
+
+2025-02-27 04:04:28 [31merror[39m: Error en main.js: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/jobs/search/?currentJobId=1234567&distance=50&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true", waiting until "networkidle"[22m
+
+2025-02-27 04:05:18 [31merror[39m: Error al cargar el listado de vacantes: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/jobs/search/?currentJobId=1234567&distance=50&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true", waiting until "networkidle"[22m
+
+2025-02-27 04:05:18 [31merror[39m: Error en FlowController: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/jobs/search/?currentJobId=1234567&distance=50&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true", waiting until "networkidle"[22m
+
+2025-02-27 04:05:18 [31merror[39m: Error en main.js: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/jobs/search/?currentJobId=1234567&distance=50&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true", waiting until "networkidle"[22m
+
+2025-02-27 04:13:21 [31merror[39m: Error al cargar el listado de vacantes: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/jobs/search/?currentJobId=1234567&distance=50&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true", waiting until "networkidle"[22m
+
+2025-02-27 04:13:21 [31merror[39m: Error en FlowController: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/jobs/search/?currentJobId=1234567&distance=50&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true", waiting until "networkidle"[22m
+
+2025-02-27 04:13:21 [31merror[39m: Error en main.js: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/jobs/search/?currentJobId=1234567&distance=50&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true", waiting until "networkidle"[22m
+
+2025-02-27 04:14:43 [31merror[39m: Error al cargar el listado de vacantes: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/jobs/search/?currentJobId=1234567&distance=50&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true", waiting until "networkidle"[22m
+
+2025-02-27 04:14:43 [31merror[39m: Error en FlowController: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/jobs/search/?currentJobId=1234567&distance=50&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true", waiting until "networkidle"[22m
+
+2025-02-27 04:14:43 [31merror[39m: Error en main.js: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/jobs/search/?currentJobId=1234567&distance=50&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true", waiting until "networkidle"[22m
+
