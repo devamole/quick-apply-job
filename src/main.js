@@ -1,4 +1,3 @@
-
 require('dotenv').config();
 const { chromium } = require('playwright');
 const { browser: browserConfig } = require('./config/browserConfig'); 
