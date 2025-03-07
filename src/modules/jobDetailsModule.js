@@ -30,7 +30,7 @@ class JobDetailsModule {
    */
   async isQuickApplyAvailable() {
     try {
-      const quickApplyButton = await this.page.$('button.jobs-apply-button');
+      const quickApplyButton = await this.page.$(".jobs-apply-button");
       return quickApplyButton !== null;
     } catch (err) {
       logger.error('Error al comprobar disponibilidad de Quick Apply: ' + err.message);

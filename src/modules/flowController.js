@@ -27,20 +27,22 @@ class FlowController {
       for (const job of jobs) {
         logger.info("--------------------------------------------------");
         logger.info(`Abriendo vacante: ${job.display}`);
-        if (!job.quickApply) {
-          logger.info(`Vacante "${job.title}" no es de Quick Apply. Se omite.`);
-          continue;
-        }
+
+        // if (!job.quickApply) {
+        //   logger.info(`Vacante "${job.display}" no es de Quick Apply. Se omite.`);
+        //   continue;
+        // }
+
         await retry(async () => {
           const jobSelector = `li[data-occludable-job-id="${job.jobId}"]`;
           logger.info(`Haciendo click en la vacante usando selector: ${jobSelector}`);
           await this.page.click(jobSelector);
           logger.info("Esperando a que se cargue el detalle de la vacante...");
-          await this.page.waitForSelector('.jobs-search__job-details--wrapper', { timeout: 15000 });
+          await this.page.waitForSelector('.jobs-search__job-details--wrapper', { timeout: 16000 });
 
           const available = await this.jobDetailsModule.isQuickApplyAvailable();
           if (!available) {
-            logger.info(`Vacante "${job.title}" no dispone de Quick Apply. Se omite.`);
+            logger.info(`Vacante "${job.display}" no dispone de Quick Apply. Se omite.`);
             return;
           }
 
@@ -71,6 +73,15 @@ class FlowController {
     let previousStepType = null;
     let sameStepCount = 0;
 
+    // Esperar a que aparezca el modal
+    const modalSelector = '[data-test-modal-id="easy-apply-modal"]';
+    const isModalPresent = await this.page.$(modalSelector) !== null;
+    
+    if (!isModalPresent) {
+        logger.warn("No se detectó el formulario de Easy Apply. Saliendo del proceso.");
+        return;
+      }
+
     while (stepCount < maxSteps) {
       const stepType = await this.detectStep();
       logger.info(`[Step ${stepCount + 1}] Tipo detectado: ${stepType}`);
@@ -88,6 +99,12 @@ class FlowController {
         await this.closeConfirmationModal();
         break;
       }
+
+      const modalStillPresent = await this.page.$(modalSelector) !== null;
+        if (!modalStillPresent) {
+            logger.info("El modal se ha cerrado inesperadamente. Finalizando llenado del formulario.");
+            break;
+        }
 
       if (stepType === 'MODAL_CLOSED') {
         logger.info("El modal se ha cerrado inesperadamente. Finalizando llenado del formulario.");
@@ -109,11 +126,21 @@ class FlowController {
         await this.fillCurrentStepFields();
         logger.info("Campos completados. Intentando avanzar al siguiente step.");
         await this.clickNextAndWaitForChange();
-      } else {
-        logger.info("No se detecta un step definido (DONE). Finalizando llenado del formulario.");
-        break;
-      }
+      }  else {
+        logger.warn("No se detecta un step definido. Verificando si el modal sigue abierto...");
 
+        /// reintentar el llenado del formulario antes de que el bot se detenga.
+
+        const modalStillPresentAgain = await this.page.$(modalSelector) !== null;
+        if (!modalStillPresentAgain) {
+            logger.info("El modal se ha cerrado inesperadamente. Finalizando llenado del formulario.");
+            break;
+        }
+
+        logger.info("El modal sigue abierto, esperando y reintentando...");
+        await this.page.waitForTimeout(1500);
+        continue;
+    }
       await this.page.waitForTimeout(1000);
       stepCount++;
     }
@@ -127,6 +154,8 @@ class FlowController {
     try {
       await this.page.waitForSelector('form', { timeout: 5000 });
     } catch (_) {
+      const modalStillOpen = await this.page.$('.jobs-easy-apply-modal');
+      if (!modalStillOpen) return 'MODAL_CLOSED';
       return 'DONE';
     }
 
