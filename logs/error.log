@@ -944,3 +944,127 @@ Call log:
 Call log:
 [2m  - waiting for locator('.jobs-easy-apply-modal') to be visible[22m
 
+2025-03-14 10:37:47 [31merror[39m: Error al cargar el listado de vacantes: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/jobs/search/?currentJobId=1234567&distance=50&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true", waiting until "networkidle"[22m
+
+2025-03-14 10:37:47 [31merror[39m: Error en FlowController: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/jobs/search/?currentJobId=1234567&distance=50&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true", waiting until "networkidle"[22m
+
+2025-03-14 10:37:47 [31merror[39m: Error en main.js: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/jobs/search/?currentJobId=1234567&distance=50&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true", waiting until "networkidle"[22m
+
+2025-03-14 10:38:35 [31merror[39m: Error al abrir el modal de Quick Apply: page.waitForSelector: Timeout 15000ms exceeded.
+Call log:
+[2m  - waiting for locator('.jobs-easy-apply-modal') to be visible[22m
+
+2025-03-14 12:05:17 [31merror[39m: Error al cargar el listado de vacantes: page.goto: Target page, context or browser has been closed
+Call log:
+[2m  - navigating to "https://www.linkedin.com/jobs/search/?currentJobId=1234567&distance=50&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true", waiting until "networkidle"[22m
+
+2025-03-14 12:05:17 [31merror[39m: Error en FlowController: page.goto: Target page, context or browser has been closed
+Call log:
+[2m  - navigating to "https://www.linkedin.com/jobs/search/?currentJobId=1234567&distance=50&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true", waiting until "networkidle"[22m
+
+2025-03-14 12:05:17 [31merror[39m: Error en main.js: page.goto: Target page, context or browser has been closed
+Call log:
+[2m  - navigating to "https://www.linkedin.com/jobs/search/?currentJobId=1234567&distance=50&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true", waiting until "networkidle"[22m
+
+2025-03-14 12:32:37 [31merror[39m: Error al cargar el listado de vacantes: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/jobs/search/?currentJobId=1234567&distance=50&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true", waiting until "networkidle"[22m
+
+2025-03-14 12:32:37 [31merror[39m: Error en FlowController: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/jobs/search/?currentJobId=1234567&distance=50&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true", waiting until "networkidle"[22m
+
+2025-03-14 12:32:37 [31merror[39m: Error en main.js: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/jobs/search/?currentJobId=1234567&distance=50&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true", waiting until "networkidle"[22m
+
+2025-03-14 12:48:49 [31merror[39m: Error en FlowController: page.click: Timeout 30000ms exceeded.
+Call log:
+[2m  - waiting for locator('li[data-occludable-job-id="4184050137"]')[22m
+[2m    - locator resolved to <li id="ember174" data-occludable-job-id="4184050137" class="ember-view   SClQQQaEBNPyEnVqYUSvHavearETwCgMCSGarQ occludable-update p0 relative scaffold-layout__list-item">…</li>[22m
+[2m  - attempting click action[22m
+[2m    2 × waiting for element to be visible, enabled and stable[22m
+[2m      - element is visible, enabled and stable[22m
+[2m      - scrolling into view if needed[22m
+[2m      - done scrolling[22m
+[2m      - <div id="ember524" class="artdeco-entity-lockup__title ember-view">↵              Jonathan Urrego↵            ↵</div> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m    - retrying click action[22m
+[2m    - waiting 20ms[22m
+[2m    2 × waiting for element to be visible, enabled and stable[22m
+[2m      - element is visible, enabled and stable[22m
+[2m      - scrolling into view if needed[22m
+[2m      - done scrolling[22m
+[2m      - <div id="ember524" class="artdeco-entity-lockup__title ember-view">↵              Jonathan Urrego↵            ↵</div> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m    - retrying click action[22m
+[2m      - waiting 100ms[22m
+[2m    56 × waiting for element to be visible, enabled and stable[22m
+[2m       - element is visible, enabled and stable[22m
+[2m       - scrolling into view if needed[22m
+[2m       - done scrolling[22m
+[2m       - <div id="ember524" class="artdeco-entity-lockup__title ember-view">↵              Jonathan Urrego↵            ↵</div> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m     - retrying click action[22m
+[2m       - waiting 500ms[22m
+
+2025-03-14 12:48:49 [31merror[39m: Error en main.js: page.click: Timeout 30000ms exceeded.
+Call log:
+[2m  - waiting for locator('li[data-occludable-job-id="4184050137"]')[22m
+[2m    - locator resolved to <li id="ember174" data-occludable-job-id="4184050137" class="ember-view   SClQQQaEBNPyEnVqYUSvHavearETwCgMCSGarQ occludable-update p0 relative scaffold-layout__list-item">…</li>[22m
+[2m  - attempting click action[22m
+[2m    2 × waiting for element to be visible, enabled and stable[22m
+[2m      - element is visible, enabled and stable[22m
+[2m      - scrolling into view if needed[22m
+[2m      - done scrolling[22m
+[2m      - <div id="ember524" class="artdeco-entity-lockup__title ember-view">↵              Jonathan Urrego↵            ↵</div> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m    - retrying click action[22m
+[2m    - waiting 20ms[22m
+[2m    2 × waiting for element to be visible, enabled and stable[22m
+[2m      - element is visible, enabled and stable[22m
+[2m      - scrolling into view if needed[22m
+[2m      - done scrolling[22m
+[2m      - <div id="ember524" class="artdeco-entity-lockup__title ember-view">↵              Jonathan Urrego↵            ↵</div> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m    - retrying click action[22m
+[2m      - waiting 100ms[22m
+[2m    56 × waiting for element to be visible, enabled and stable[22m
+[2m       - element is visible, enabled and stable[22m
+[2m       - scrolling into view if needed[22m
+[2m       - done scrolling[22m
+[2m       - <div id="ember524" class="artdeco-entity-lockup__title ember-view">↵              Jonathan Urrego↵            ↵</div> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m     - retrying click action[22m
+[2m       - waiting 500ms[22m
+
+2025-03-14 13:06:50 [31merror[39m: Error al generar respuesta desde ChatGPT: Request failed with status code 404
+2025-03-14 13:10:28 [31merror[39m: Error al hacer clic en 'Revisar' o 'Siguiente': page.waitForSelector: Timeout 10000ms exceeded.
+Call log:
+[2m  - waiting for locator('button[data-live-test-easy-apply-review-button], button[data-easy-apply-next-button]') to be visible[22m
+
+2025-03-14 13:10:39 [31merror[39m: Error al hacer clic en 'Revisar' o 'Siguiente': page.waitForSelector: Timeout 10000ms exceeded.
+Call log:
+[2m  - waiting for locator('button[data-live-test-easy-apply-review-button], button[data-easy-apply-next-button]') to be visible[22m
+
+2025-03-14 13:10:50 [31merror[39m: Error al hacer clic en 'Revisar' o 'Siguiente': page.waitForSelector: Timeout 10000ms exceeded.
+Call log:
+[2m  - waiting for locator('button[data-live-test-easy-apply-review-button], button[data-easy-apply-next-button]') to be visible[22m
+
+2025-03-14 13:13:43 [31merror[39m: Error al abrir el modal de Quick Apply: page.waitForSelector: Timeout 15000ms exceeded.
+Call log:
+[2m  - waiting for locator('.jobs-easy-apply-modal') to be visible[22m
+
+2025-03-14 13:42:24 [31merror[39m: Error al generar respuesta desde ChatGPT: Request failed with status code 404
+2025-03-14 14:15:35 [31merror[39m: Error al generar respuesta desde ChatGPT: Request failed with status code 404
+2025-03-14 14:26:27 [31merror[39m: Error al generar respuesta desde ChatGPT: Request failed with status code 404
+2025-03-14 14:37:13 [31merror[39m: Error al generar respuesta desde ChatGPT: Request failed with status code 404
+2025-03-14 14:38:09 [31merror[39m: Error al generar respuesta desde ChatGPT: Request failed with status code 429
+2025-03-14 15:17:52 [31merror[39m: Error al verificar autenticación: page.goto: Target page, context or browser has been closed
+Call log:
+[2m  - navigating to "https://www.linkedin.com/feed/", waiting until "domcontentloaded"[22m
+
+2025-03-14 15:17:52 [31merror[39m: Error en main.js: page.goto: Target page, context or browser has been closed
+Call log:
+[2m  - navigating to "https://www.linkedin.com/feed/", waiting until "domcontentloaded"[22m
+

@@ -7,33 +7,19 @@ class ChatGptModule {
   constructor() {
     this.apiKey = api.apiKey;
     this.baseUrl = api.baseUrl;
-    // Contexto inicial para la sesión: se le da un tono profesional y se establece el contexto del CV
-    this.sessionContext = [
-      {
-        role: 'system',
-        content: 'Eres un profesional senior en desarrollo de software con amplia experiencia y respondes de forma profesional, carismática y con tono senior.'
-      },
-      {
-        role: 'system',
-        content: 'Tu hoja de vida incluye experiencia en JavaScript, Node.js, React, Angular, Java, Spring Boot, NestJs y ExpressJs. Tienes más de 5 años de experiencia y respondes de forma concisa y precisa.'
-      }
-    ];
+    this.sessionContext = [];
   }
 
-  /**
-   * Envía un prompt a la API de ChatGPT y retorna la respuesta generada.
-   * @param {string} prompt - Texto que se enviará a la API.
-   * @returns {Promise<string>} Respuesta generada por ChatGPT.
-   */
-  async generateResponse(prompt) {
+  async generateResponse(prompt, retries = 3) {
     try {
       // Agrega el mensaje del usuario al contexto
       const messages = [...this.sessionContext, { role: 'user', content: prompt }];
+
       const response = await axios.post(
-        `${this.baseUrl}/completions`,
+        `${this.baseUrl}/v1/chat/completions`,
         {
-          model: 'text-davinci-003',
-          prompt: messages.map(m => `${m.role}: ${m.content}`).join('\n'),
+          model: 'gpt-3.5-turbo',
+          messages: messages, // Se mantiene como array, no concatenado
           max_tokens: 150,
           temperature: 0.7
         },
@@ -45,14 +31,22 @@ class ChatGptModule {
         }
       );
 
-      if (response.data && response.data.choices && response.data.choices.length > 0) {
-        const answer = response.data.choices[0].text.trim();
+      if (response.data?.choices?.length > 0) {
+        const answer = response.data.choices[0].message.content.trim();
         logger.info('Respuesta generada por ChatGPT obtenida.');
         return answer;
       } else {
         throw new Error('Respuesta no válida de la API de ChatGPT.');
       }
+
     } catch (err) {
+      if (err.response?.status === 429 && retries > 0) {
+        const waitTime = (4 - retries) * 2000; // 2s -> 4s -> 6s de espera progresiva
+        logger.warn(`Demasiadas solicitudes. Esperando ${waitTime / 1000} segundos antes de reintentar...`);
+        await new Promise(res => setTimeout(res, waitTime));
+        return this.generateResponse(prompt, retries - 1);
+      }
+
       logger.error('Error al generar respuesta desde ChatGPT: ' + err.message);
       throw err;
     }

@@ -28,17 +28,12 @@ class FlowController {
         logger.info("--------------------------------------------------");
         logger.info(`Abriendo vacante: ${job.display}`);
 
-        // if (!job.quickApply) {
-        //   logger.info(`Vacante "${job.display}" no es de Quick Apply. Se omite.`);
-        //   continue;
-        // }
-
         await retry(async () => {
           const jobSelector = `li[data-occludable-job-id="${job.jobId}"]`;
           logger.info(`Haciendo click en la vacante usando selector: ${jobSelector}`);
           await this.page.click(jobSelector);
           logger.info("Esperando a que se cargue el detalle de la vacante...");
-          await this.page.waitForSelector('.jobs-search__job-details--wrapper', { timeout: 16000 });
+          await this.page.waitForSelector('.jobs-search__job-details--wrapper', { timeout: 9000 });
 
           const available = await this.jobDetailsModule.isQuickApplyAvailable();
           if (!available) {
@@ -82,6 +77,12 @@ class FlowController {
         return;
       }
 
+      if(modalSelector){
+        logger.info("El modal se detecto");
+      }else{
+        logger.info("error al detectar modal");
+      }
+
     while (stepCount < maxSteps) {
       const stepType = await this.detectStep();
       logger.info(`[Step ${stepCount + 1}] Tipo detectado: ${stepType}`);
@@ -109,7 +110,13 @@ class FlowController {
       if (stepType === 'MODAL_CLOSED') {
         logger.info("El modal se ha cerrado inesperadamente. Finalizando llenado del formulario.");
         break;
-      } else if (stepType === 'RESUME') {
+      } else if( stepType === 'CONTACT_INFO'){
+        logger.info("step 'CONTACT_INFO' detectado");
+        await this.clickNextAndWaitForChange();
+      } else if( stepType === 'CURRICULUM'){
+        logger.info("step 'CURRICULUM' detectado");
+        await this.clickNextAndWaitForChange();
+      }else if (stepType === 'RESUME') {
         logger.info("Step 'Resume' detectado; se omite y se hace clic en 'Siguiente'.");
         await this.clickNextAndWaitForChange();
       } else if (stepType === 'FAVORITE') {
@@ -147,6 +154,7 @@ class FlowController {
     logger.info("=== FINALIZÓ EL PROCESO MULTI-STEP PARA ESTA VACANTE ===");
   }
 
+  //----------------------------------------------------------------------------------------------------------------------
   async detectStep() {
     const modalStillOpen = await this.page.$('.jobs-easy-apply-modal');
     if (!modalStillOpen) return 'MODAL_CLOSED';
@@ -154,20 +162,17 @@ class FlowController {
     try {
       await this.page.waitForSelector('form', { timeout: 5000 });
     } catch (_) {
-      const modalStillOpen = await this.page.$('.jobs-easy-apply-modal');
       if (!modalStillOpen) return 'MODAL_CLOSED';
       return 'DONE';
     }
-
-    // Si aparece el botón de envío final, se asume el paso FINAL
-    const isSubmitButtonVisible = await this.page.$('button[data-live-test-easy-apply-submit-button]');
-    if (isSubmitButtonVisible) return 'FINAL';
 
     const isResumeStep = await this.page.evaluate(() => {
       const heading = document.querySelector('form h3');
       return heading && heading.innerText.trim().toLowerCase().includes('resume');
     });
+
     if (isResumeStep) return 'RESUME';
+
 
     const isFavoriteStep = await this.page.evaluate(() => {
       const heading = document.querySelector('form h4');
@@ -182,8 +187,33 @@ class FlowController {
         return labelElement && inputElement && inputElement.value.trim() === '';
       });
     });
+
     if (hasEmptyFields) return 'REGULAR';
 
+    const contactInfoStep = await this.page.evaluate(() => {
+      const heading = document.querySelector('form h3');
+      return heading && heading.innerText.trim().toLowerCase().includes('información de contacto');
+    });
+
+    if(contactInfoStep) return 'CONTACT_INFO';
+
+    const curriculumStep = await this.page.evaluate(() => {
+      const headings = [...document.querySelectorAll('form h3')];
+      return headings.some(h3 => h3.innerText.trim().toLowerCase().includes('currículum'));
+    });
+
+    if(curriculumStep) return 'CURRICULUM';
+
+    const isSubmitButtonVisible = await this.page.evaluate(()=>{
+      const btnSubmit = document.querySelector('button[aria-label="Enviar solicitud"] span').innerText;
+      return btnSubmit.trim().toLowerCase().includes('enviar solicitud');
+    })
+
+    console.log("-------isSubmitButtonVisible: ", isSubmitButtonVisible);
+    
+    if (isSubmitButtonVisible) return 'FINAL';
+
+    console.log("-------nada funciono y paso aqui");
     return 'DONE';
   }
 
