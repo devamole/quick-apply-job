@@ -22,7 +22,7 @@ class JobListModule {
       } else {
         await this.page.goto(url, { waitUntil: 'networkidle' });
       }
-      await this.page.waitForSelector('li.scaffold-layout__list-item', { timeout: 30000 });
+      await this.page.waitForSelector('li.scaffold-layout__list-item', { timeout: 80000 });
       logger.info('Listado de vacantes cargado correctamente.');
     } catch (err) {
       logger.error('Error al cargar el listado de vacantes: ' + err.message);
@@ -59,15 +59,17 @@ class JobListModule {
             const display = company && title ? `${company} - ${title}` : title || company;
 
             // Verificar si el botón de aplicación dice "Solicitud sencilla"
-            let quickApply = false;
-            const applyButton = jobCard.querySelector('button');
-            if (applyButton) {
-              const btnText = applyButton.innerText.trim().toLowerCase();
-              if (btnText.includes('solicitud sencilla')) {
-                quickApply = true;
-              }
-            }
-            return { display, quickApply, jobId };
+            // let quickApply = false;
+            // const applyButton = jobCard.querySelector('button');
+            // if (applyButton) {
+            //   const btnText = applyButton.innerText.trim().toLowerCase();
+            //   if (btnText.includes('Solicitud sencilla')) {
+            //     quickApply = true;
+            //   }
+            // }
+
+            //*****!!IMPORTANTE elimine el quickApply del objeto aquí abajo */
+            return { display, jobId };
           }).filter(item => item !== null);
         }
       );

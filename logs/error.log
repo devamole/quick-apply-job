@@ -724,3 +724,540 @@ Call log:
 Call log:
 [2m  - navigating to "https://www.linkedin.com/jobs/search/?currentJobId=1234567&distance=50&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true", waiting until "networkidle"[22m
 
+2025-03-06 16:46:24 [31merror[39m: Error en main.js: browserType.launch: Executable doesn't exist at C:\Users\Usuario\AppData\Local\ms-playwright\chromium-1155\chrome-win\chrome.exe
+╔═════════════════════════════════════════════════════════════════════════╗
+║ Looks like Playwright Test or Playwright was just installed or updated. ║
+║ Please run the following command to download new browsers:              ║
+║                                                                         ║
+║     npx playwright install                                              ║
+║                                                                         ║
+║ <3 Playwright Team                                                      ║
+╚═════════════════════════════════════════════════════════════════════════╝
+2025-03-06 16:54:04 [31merror[39m: Error al cargar el listado de vacantes: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/jobs/search/?currentJobId=1234567&distance=50&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true", waiting until "networkidle"[22m
+
+2025-03-06 16:54:04 [31merror[39m: Error en FlowController: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/jobs/search/?currentJobId=1234567&distance=50&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true", waiting until "networkidle"[22m
+
+2025-03-06 16:54:04 [31merror[39m: Error en main.js: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/jobs/search/?currentJobId=1234567&distance=50&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true", waiting until "networkidle"[22m
+
+2025-03-06 16:59:20 [31merror[39m: Error al cargar el listado de vacantes: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/jobs/search/?currentJobId=1234567&distance=50&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true", waiting until "networkidle"[22m
+
+2025-03-06 16:59:20 [31merror[39m: Error en FlowController: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/jobs/search/?currentJobId=1234567&distance=50&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true", waiting until "networkidle"[22m
+
+2025-03-06 16:59:20 [31merror[39m: Error en main.js: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/jobs/search/?currentJobId=1234567&distance=50&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true", waiting until "networkidle"[22m
+
+2025-03-06 17:42:57 [31merror[39m: Error al cargar el listado de vacantes: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/jobs/search/?currentJobId=1234567&distance=50&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true", waiting until "networkidle"[22m
+
+2025-03-06 17:42:57 [31merror[39m: Error en FlowController: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/jobs/search/?currentJobId=1234567&distance=50&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true", waiting until "networkidle"[22m
+
+2025-03-06 17:42:57 [31merror[39m: Error en main.js: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/jobs/search/?currentJobId=1234567&distance=50&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true", waiting until "networkidle"[22m
+
+2025-03-06 17:51:49 [31merror[39m: Error al cargar el listado de vacantes: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/jobs/search/?currentJobId=1234567&distance=50&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true", waiting until "networkidle"[22m
+
+2025-03-06 17:51:49 [31merror[39m: Error en FlowController: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/jobs/search/?currentJobId=1234567&distance=50&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true", waiting until "networkidle"[22m
+
+2025-03-06 17:51:49 [31merror[39m: Error en main.js: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/jobs/search/?currentJobId=1234567&distance=50&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true", waiting until "networkidle"[22m
+
+2025-03-06 17:53:56 [31merror[39m: Error al cargar el listado de vacantes: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/jobs/search/?currentJobId=1234567&distance=50&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true", waiting until "networkidle"[22m
+
+2025-03-06 17:53:56 [31merror[39m: Error en FlowController: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/jobs/search/?currentJobId=1234567&distance=50&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true", waiting until "networkidle"[22m
+
+2025-03-06 17:53:56 [31merror[39m: Error en main.js: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/jobs/search/?currentJobId=1234567&distance=50&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true", waiting until "networkidle"[22m
+
+2025-03-06 17:54:45 [31merror[39m: Error al cargar el listado de vacantes: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/jobs/search/?currentJobId=1234567&distance=50&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true", waiting until "networkidle"[22m
+
+2025-03-06 17:54:45 [31merror[39m: Error en FlowController: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/jobs/search/?currentJobId=1234567&distance=50&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true", waiting until "networkidle"[22m
+
+2025-03-06 17:54:45 [31merror[39m: Error en main.js: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/jobs/search/?currentJobId=1234567&distance=50&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true", waiting until "networkidle"[22m
+
+2025-03-06 19:59:12 [31merror[39m: Error al verificar autenticación: page.$: Target page, context or browser has been closed
+2025-03-06 19:59:12 [31merror[39m: Error en main.js: page.$: Target page, context or browser has been closed
+2025-03-07 12:09:49 [31merror[39m: Error al verificar autenticación: page.goto: Target page, context or browser has been closed
+Call log:
+[2m  - navigating to "https://www.linkedin.com/feed/", waiting until "domcontentloaded"[22m
+
+2025-03-07 12:09:49 [31merror[39m: Error en main.js: page.goto: Target page, context or browser has been closed
+Call log:
+[2m  - navigating to "https://www.linkedin.com/feed/", waiting until "domcontentloaded"[22m
+
+2025-03-07 12:10:45 [31merror[39m: Error al cargar el listado de vacantes: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/jobs/search/?currentJobId=1234567&distance=50&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true", waiting until "networkidle"[22m
+
+2025-03-07 12:10:45 [31merror[39m: Error en FlowController: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/jobs/search/?currentJobId=1234567&distance=50&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true", waiting until "networkidle"[22m
+
+2025-03-07 12:10:45 [31merror[39m: Error en main.js: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/jobs/search/?currentJobId=1234567&distance=50&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true", waiting until "networkidle"[22m
+
+2025-03-07 12:38:03 [31merror[39m: Error al comprobar disponibilidad de Quick Apply: page is not defined
+2025-03-07 12:38:07 [31merror[39m: Error al comprobar disponibilidad de Quick Apply: page is not defined
+2025-03-07 12:38:10 [31merror[39m: Error al comprobar disponibilidad de Quick Apply: page is not defined
+2025-03-07 12:38:14 [31merror[39m: Error al comprobar disponibilidad de Quick Apply: page is not defined
+2025-03-07 12:38:14 [31merror[39m: Error en FlowController: page is not defined
+2025-03-07 12:38:14 [31merror[39m: Error en main.js: page is not defined
+2025-03-07 12:38:48 [31merror[39m: Error al comprobar disponibilidad de Quick Apply: page is not defined
+2025-03-07 12:38:51 [31merror[39m: Error al comprobar disponibilidad de Quick Apply: page is not defined
+2025-03-07 12:38:55 [31merror[39m: Error al comprobar disponibilidad de Quick Apply: page is not defined
+2025-03-07 12:38:58 [31merror[39m: Error al comprobar disponibilidad de Quick Apply: page is not defined
+2025-03-07 12:38:58 [31merror[39m: Error en FlowController: page is not defined
+2025-03-07 12:38:58 [31merror[39m: Error en main.js: page is not defined
+2025-03-07 12:52:43 [31merror[39m: Error al cargar el listado de vacantes: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/jobs/search/?currentJobId=1234567&distance=50&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true", waiting until "networkidle"[22m
+
+2025-03-07 12:52:43 [31merror[39m: Error en FlowController: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/jobs/search/?currentJobId=1234567&distance=50&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true", waiting until "networkidle"[22m
+
+2025-03-07 12:52:43 [31merror[39m: Error en main.js: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/jobs/search/?currentJobId=1234567&distance=50&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true", waiting until "networkidle"[22m
+
+2025-03-07 12:53:36 [31merror[39m: Error al cargar el listado de vacantes: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/jobs/search/?currentJobId=1234567&distance=50&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true", waiting until "networkidle"[22m
+
+2025-03-07 12:53:36 [31merror[39m: Error en FlowController: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/jobs/search/?currentJobId=1234567&distance=50&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true", waiting until "networkidle"[22m
+
+2025-03-07 12:53:36 [31merror[39m: Error en main.js: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/jobs/search/?currentJobId=1234567&distance=50&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true", waiting until "networkidle"[22m
+
+2025-03-07 12:54:22 [31merror[39m: Error al comprobar disponibilidad de Quick Apply: page is not defined
+2025-03-07 12:54:26 [31merror[39m: Error al comprobar disponibilidad de Quick Apply: page is not defined
+2025-03-07 12:54:29 [31merror[39m: Error al comprobar disponibilidad de Quick Apply: page is not defined
+2025-03-07 12:54:33 [31merror[39m: Error al comprobar disponibilidad de Quick Apply: page is not defined
+2025-03-07 12:54:33 [31merror[39m: Error en FlowController: page is not defined
+2025-03-07 12:54:33 [31merror[39m: Error en main.js: page is not defined
+2025-03-07 12:57:12 [31merror[39m: Error al cargar el listado de vacantes: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/jobs/search/?currentJobId=1234567&distance=50&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true", waiting until "networkidle"[22m
+
+2025-03-07 12:57:12 [31merror[39m: Error en FlowController: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/jobs/search/?currentJobId=1234567&distance=50&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true", waiting until "networkidle"[22m
+
+2025-03-07 12:57:12 [31merror[39m: Error en main.js: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/jobs/search/?currentJobId=1234567&distance=50&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true", waiting until "networkidle"[22m
+
+2025-03-07 12:58:27 [31merror[39m: Error al abrir el modal de Quick Apply: page.waitForSelector: Timeout 15000ms exceeded.
+Call log:
+[2m  - waiting for locator('.jobs-easy-apply-modal') to be visible[22m
+
+2025-03-07 12:58:41 [31merror[39m: Error al abrir el modal de Quick Apply: page.waitForSelector: Target page, context or browser has been closed
+Call log:
+[2m  - waiting for locator('.jobs-easy-apply-modal') to be visible[22m
+
+2025-03-07 13:50:12 [31merror[39m: Error al cargar el listado de vacantes: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/jobs/search/?currentJobId=1234567&distance=50&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true", waiting until "networkidle"[22m
+
+2025-03-07 13:50:12 [31merror[39m: Error en FlowController: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/jobs/search/?currentJobId=1234567&distance=50&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true", waiting until "networkidle"[22m
+
+2025-03-07 13:50:12 [31merror[39m: Error en main.js: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/jobs/search/?currentJobId=1234567&distance=50&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true", waiting until "networkidle"[22m
+
+2025-03-07 13:50:55 [31merror[39m: Error al cargar el listado de vacantes: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/jobs/search/?currentJobId=1234567&distance=50&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true", waiting until "networkidle"[22m
+
+2025-03-07 13:50:55 [31merror[39m: Error en FlowController: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/jobs/search/?currentJobId=1234567&distance=50&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true", waiting until "networkidle"[22m
+
+2025-03-07 13:50:55 [31merror[39m: Error en main.js: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/jobs/search/?currentJobId=1234567&distance=50&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true", waiting until "networkidle"[22m
+
+2025-03-07 14:07:22 [31merror[39m: Error al cargar el listado de vacantes: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/jobs/search/?currentJobId=1234567&distance=50&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true", waiting until "networkidle"[22m
+
+2025-03-07 14:07:22 [31merror[39m: Error en FlowController: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/jobs/search/?currentJobId=1234567&distance=50&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true", waiting until "networkidle"[22m
+
+2025-03-07 14:07:22 [31merror[39m: Error en main.js: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/jobs/search/?currentJobId=1234567&distance=50&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true", waiting until "networkidle"[22m
+
+2025-03-07 14:10:27 [31merror[39m: Error al abrir el modal de Quick Apply: page.waitForSelector: Timeout 15000ms exceeded.
+Call log:
+[2m  - waiting for locator('.jobs-easy-apply-modal') to be visible[22m
+
+2025-03-07 14:16:20 [31merror[39m: Error al abrir el modal de Quick Apply: page.waitForSelector: Timeout 15000ms exceeded.
+Call log:
+[2m  - waiting for locator('.jobs-easy-apply-modal') to be visible[22m
+
+2025-03-07 14:16:41 [31merror[39m: Error al abrir el modal de Quick Apply: page.click: Target page, context or browser has been closed
+Call log:
+[2m  - waiting for locator('button.jobs-apply-button')[22m
+[2m    - locator resolved to 2 elements. Proceeding with the first one: <button id="ember443" data-job-id="4177353691" data-live-test-job-apply-button="" aria-label="Solicitud sencilla para el empleo Fullstack Developer (CodeIgniter) en NetForemost " class="jobs-apply-button↵         artdeco-button artdeco-button--3 artdeco-button--primary ember-view">…</button>[22m
+[2m  - attempting click action[22m
+[2m    - waiting for element to be visible, enabled and stable[22m
+
+2025-03-07 17:38:51 [31merror[39m: Error al abrir el modal de Quick Apply: page.waitForSelector: Target page, context or browser has been closed
+Call log:
+[2m  - waiting for locator('.jobs-easy-apply-modal') to be visible[22m
+
+2025-03-14 10:37:47 [31merror[39m: Error al cargar el listado de vacantes: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/jobs/search/?currentJobId=1234567&distance=50&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true", waiting until "networkidle"[22m
+
+2025-03-14 10:37:47 [31merror[39m: Error en FlowController: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/jobs/search/?currentJobId=1234567&distance=50&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true", waiting until "networkidle"[22m
+
+2025-03-14 10:37:47 [31merror[39m: Error en main.js: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/jobs/search/?currentJobId=1234567&distance=50&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true", waiting until "networkidle"[22m
+
+2025-03-14 10:38:35 [31merror[39m: Error al abrir el modal de Quick Apply: page.waitForSelector: Timeout 15000ms exceeded.
+Call log:
+[2m  - waiting for locator('.jobs-easy-apply-modal') to be visible[22m
+
+2025-03-14 12:05:17 [31merror[39m: Error al cargar el listado de vacantes: page.goto: Target page, context or browser has been closed
+Call log:
+[2m  - navigating to "https://www.linkedin.com/jobs/search/?currentJobId=1234567&distance=50&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true", waiting until "networkidle"[22m
+
+2025-03-14 12:05:17 [31merror[39m: Error en FlowController: page.goto: Target page, context or browser has been closed
+Call log:
+[2m  - navigating to "https://www.linkedin.com/jobs/search/?currentJobId=1234567&distance=50&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true", waiting until "networkidle"[22m
+
+2025-03-14 12:05:17 [31merror[39m: Error en main.js: page.goto: Target page, context or browser has been closed
+Call log:
+[2m  - navigating to "https://www.linkedin.com/jobs/search/?currentJobId=1234567&distance=50&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true", waiting until "networkidle"[22m
+
+2025-03-14 12:32:37 [31merror[39m: Error al cargar el listado de vacantes: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/jobs/search/?currentJobId=1234567&distance=50&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true", waiting until "networkidle"[22m
+
+2025-03-14 12:32:37 [31merror[39m: Error en FlowController: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/jobs/search/?currentJobId=1234567&distance=50&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true", waiting until "networkidle"[22m
+
+2025-03-14 12:32:37 [31merror[39m: Error en main.js: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/jobs/search/?currentJobId=1234567&distance=50&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true", waiting until "networkidle"[22m
+
+2025-03-14 12:48:49 [31merror[39m: Error en FlowController: page.click: Timeout 30000ms exceeded.
+Call log:
+[2m  - waiting for locator('li[data-occludable-job-id="4184050137"]')[22m
+[2m    - locator resolved to <li id="ember174" data-occludable-job-id="4184050137" class="ember-view   SClQQQaEBNPyEnVqYUSvHavearETwCgMCSGarQ occludable-update p0 relative scaffold-layout__list-item">…</li>[22m
+[2m  - attempting click action[22m
+[2m    2 × waiting for element to be visible, enabled and stable[22m
+[2m      - element is visible, enabled and stable[22m
+[2m      - scrolling into view if needed[22m
+[2m      - done scrolling[22m
+[2m      - <div id="ember524" class="artdeco-entity-lockup__title ember-view">↵              Jonathan Urrego↵            ↵</div> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m    - retrying click action[22m
+[2m    - waiting 20ms[22m
+[2m    2 × waiting for element to be visible, enabled and stable[22m
+[2m      - element is visible, enabled and stable[22m
+[2m      - scrolling into view if needed[22m
+[2m      - done scrolling[22m
+[2m      - <div id="ember524" class="artdeco-entity-lockup__title ember-view">↵              Jonathan Urrego↵            ↵</div> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m    - retrying click action[22m
+[2m      - waiting 100ms[22m
+[2m    56 × waiting for element to be visible, enabled and stable[22m
+[2m       - element is visible, enabled and stable[22m
+[2m       - scrolling into view if needed[22m
+[2m       - done scrolling[22m
+[2m       - <div id="ember524" class="artdeco-entity-lockup__title ember-view">↵              Jonathan Urrego↵            ↵</div> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m     - retrying click action[22m
+[2m       - waiting 500ms[22m
+
+2025-03-14 12:48:49 [31merror[39m: Error en main.js: page.click: Timeout 30000ms exceeded.
+Call log:
+[2m  - waiting for locator('li[data-occludable-job-id="4184050137"]')[22m
+[2m    - locator resolved to <li id="ember174" data-occludable-job-id="4184050137" class="ember-view   SClQQQaEBNPyEnVqYUSvHavearETwCgMCSGarQ occludable-update p0 relative scaffold-layout__list-item">…</li>[22m
+[2m  - attempting click action[22m
+[2m    2 × waiting for element to be visible, enabled and stable[22m
+[2m      - element is visible, enabled and stable[22m
+[2m      - scrolling into view if needed[22m
+[2m      - done scrolling[22m
+[2m      - <div id="ember524" class="artdeco-entity-lockup__title ember-view">↵              Jonathan Urrego↵            ↵</div> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m    - retrying click action[22m
+[2m    - waiting 20ms[22m
+[2m    2 × waiting for element to be visible, enabled and stable[22m
+[2m      - element is visible, enabled and stable[22m
+[2m      - scrolling into view if needed[22m
+[2m      - done scrolling[22m
+[2m      - <div id="ember524" class="artdeco-entity-lockup__title ember-view">↵              Jonathan Urrego↵            ↵</div> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m    - retrying click action[22m
+[2m      - waiting 100ms[22m
+[2m    56 × waiting for element to be visible, enabled and stable[22m
+[2m       - element is visible, enabled and stable[22m
+[2m       - scrolling into view if needed[22m
+[2m       - done scrolling[22m
+[2m       - <div id="ember524" class="artdeco-entity-lockup__title ember-view">↵              Jonathan Urrego↵            ↵</div> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m     - retrying click action[22m
+[2m       - waiting 500ms[22m
+
+2025-03-14 13:06:50 [31merror[39m: Error al generar respuesta desde ChatGPT: Request failed with status code 404
+2025-03-14 13:10:28 [31merror[39m: Error al hacer clic en 'Revisar' o 'Siguiente': page.waitForSelector: Timeout 10000ms exceeded.
+Call log:
+[2m  - waiting for locator('button[data-live-test-easy-apply-review-button], button[data-easy-apply-next-button]') to be visible[22m
+
+2025-03-14 13:10:39 [31merror[39m: Error al hacer clic en 'Revisar' o 'Siguiente': page.waitForSelector: Timeout 10000ms exceeded.
+Call log:
+[2m  - waiting for locator('button[data-live-test-easy-apply-review-button], button[data-easy-apply-next-button]') to be visible[22m
+
+2025-03-14 13:10:50 [31merror[39m: Error al hacer clic en 'Revisar' o 'Siguiente': page.waitForSelector: Timeout 10000ms exceeded.
+Call log:
+[2m  - waiting for locator('button[data-live-test-easy-apply-review-button], button[data-easy-apply-next-button]') to be visible[22m
+
+2025-03-14 13:13:43 [31merror[39m: Error al abrir el modal de Quick Apply: page.waitForSelector: Timeout 15000ms exceeded.
+Call log:
+[2m  - waiting for locator('.jobs-easy-apply-modal') to be visible[22m
+
+2025-03-14 13:42:24 [31merror[39m: Error al generar respuesta desde ChatGPT: Request failed with status code 404
+2025-03-14 14:15:35 [31merror[39m: Error al generar respuesta desde ChatGPT: Request failed with status code 404
+2025-03-14 14:26:27 [31merror[39m: Error al generar respuesta desde ChatGPT: Request failed with status code 404
+2025-03-14 14:37:13 [31merror[39m: Error al generar respuesta desde ChatGPT: Request failed with status code 404
+2025-03-14 14:38:09 [31merror[39m: Error al generar respuesta desde ChatGPT: Request failed with status code 429
+2025-03-14 15:17:52 [31merror[39m: Error al verificar autenticación: page.goto: Target page, context or browser has been closed
+Call log:
+[2m  - navigating to "https://www.linkedin.com/feed/", waiting until "domcontentloaded"[22m
+
+2025-03-14 15:17:52 [31merror[39m: Error en main.js: page.goto: Target page, context or browser has been closed
+Call log:
+[2m  - navigating to "https://www.linkedin.com/feed/", waiting until "domcontentloaded"[22m
+
+2025-03-14 15:35:42 [31merror[39m: Error al hacer clic en 'Revisar' o 'Siguiente': page.waitForSelector: Timeout 10000ms exceeded.
+Call log:
+[2m  - waiting for locator('button[data-live-test-easy-apply-review-button], button[data-easy-apply-next-button]') to be visible[22m
+
+2025-03-14 15:35:44 [31merror[39m: Error al hacer clic en 'Revisar' o 'Siguiente': page.waitForSelector: Target page, context or browser has been closed
+Call log:
+[2m  - waiting for locator('button[data-live-test-easy-apply-review-button], button[data-easy-apply-next-button]') to be visible[22m
+
+2025-03-14 15:52:27 [31merror[39m: Error al generar respuesta desde ChatGPT: Request failed with status code 404
+2025-03-14 15:59:56 [31merror[39m: Error al generar respuesta desde ChatGPT: Request failed with status code 404
+2025-03-14 16:01:35 [31merror[39m: Error en FlowController: page.click: Timeout 30000ms exceeded.
+Call log:
+[2m  - waiting for locator('li[data-occludable-job-id="4184817961"]')[22m
+[2m    - locator resolved to <li id="ember174" data-occludable-job-id="4184817961" class="ember-view   SClQQQaEBNPyEnVqYUSvHavearETwCgMCSGarQ occludable-update p0 relative scaffold-layout__list-item">…</li>[22m
+[2m  - attempting click action[22m
+[2m    2 × waiting for element to be visible, enabled and stable[22m
+[2m      - element is visible, enabled and stable[22m
+[2m      - scrolling into view if needed[22m
+[2m      - done scrolling[22m
+[2m      - <label class="artdeco-text-input--label" for="single-line-text-form-component-formElement-urn-li-jobs-applyformcommon-easyApplyFormElement-4184817961-15281874010-numeric">¿Cuántos años de experiencia tienes con PHP?</label> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m    - retrying click action[22m
+[2m    - waiting 20ms[22m
+[2m    2 × waiting for element to be visible, enabled and stable[22m
+[2m      - element is visible, enabled and stable[22m
+[2m      - scrolling into view if needed[22m
+[2m      - done scrolling[22m
+[2m      - <label class="artdeco-text-input--label" for="single-line-text-form-component-formElement-urn-li-jobs-applyformcommon-easyApplyFormElement-4184817961-15281874010-numeric">¿Cuántos años de experiencia tienes con PHP?</label> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m    - retrying click action[22m
+[2m      - waiting 100ms[22m
+[2m    57 × waiting for element to be visible, enabled and stable[22m
+[2m       - element is visible, enabled and stable[22m
+[2m       - scrolling into view if needed[22m
+[2m       - done scrolling[22m
+[2m       - <label class="artdeco-text-input--label" for="single-line-text-form-component-formElement-urn-li-jobs-applyformcommon-easyApplyFormElement-4184817961-15281874010-numeric">¿Cuántos años de experiencia tienes con PHP?</label> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m     - retrying click action[22m
+[2m       - waiting 500ms[22m
+
+2025-03-14 16:01:35 [31merror[39m: Error en main.js: page.click: Timeout 30000ms exceeded.
+Call log:
+[2m  - waiting for locator('li[data-occludable-job-id="4184817961"]')[22m
+[2m    - locator resolved to <li id="ember174" data-occludable-job-id="4184817961" class="ember-view   SClQQQaEBNPyEnVqYUSvHavearETwCgMCSGarQ occludable-update p0 relative scaffold-layout__list-item">…</li>[22m
+[2m  - attempting click action[22m
+[2m    2 × waiting for element to be visible, enabled and stable[22m
+[2m      - element is visible, enabled and stable[22m
+[2m      - scrolling into view if needed[22m
+[2m      - done scrolling[22m
+[2m      - <label class="artdeco-text-input--label" for="single-line-text-form-component-formElement-urn-li-jobs-applyformcommon-easyApplyFormElement-4184817961-15281874010-numeric">¿Cuántos años de experiencia tienes con PHP?</label> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m    - retrying click action[22m
+[2m    - waiting 20ms[22m
+[2m    2 × waiting for element to be visible, enabled and stable[22m
+[2m      - element is visible, enabled and stable[22m
+[2m      - scrolling into view if needed[22m
+[2m      - done scrolling[22m
+[2m      - <label class="artdeco-text-input--label" for="single-line-text-form-component-formElement-urn-li-jobs-applyformcommon-easyApplyFormElement-4184817961-15281874010-numeric">¿Cuántos años de experiencia tienes con PHP?</label> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m    - retrying click action[22m
+[2m      - waiting 100ms[22m
+[2m    57 × waiting for element to be visible, enabled and stable[22m
+[2m       - element is visible, enabled and stable[22m
+[2m       - scrolling into view if needed[22m
+[2m       - done scrolling[22m
+[2m       - <label class="artdeco-text-input--label" for="single-line-text-form-component-formElement-urn-li-jobs-applyformcommon-easyApplyFormElement-4184817961-15281874010-numeric">¿Cuántos años de experiencia tienes con PHP?</label> from <div id="artdeco-modal-outlet">…</div> subtree intercepts pointer events[22m
+[2m     - retrying click action[22m
+[2m       - waiting 500ms[22m
+
+2025-03-14 16:06:27 [31merror[39m: Error al generar respuesta desde ChatGPT: Request failed with status code 429
+2025-03-14 16:16:36 [31merror[39m: Error al generar respuesta desde ChatGPT: messages is not defined
+2025-03-14 16:18:41 [31merror[39m: Error al abrir el modal de Quick Apply: page.waitForSelector: Timeout 15000ms exceeded.
+Call log:
+[2m  - waiting for locator('.jobs-easy-apply-modal') to be visible[22m
+
+2025-03-14 17:38:08 [31merror[39m: Error en main.js: ChatGptModule is not defined
+2025-03-14 18:54:16 [31merror[39m: Error al cargar el listado de vacantes: page.goto: Target page, context or browser has been closed
+Call log:
+[2m  - navigating to "https://www.linkedin.com/jobs/search/?currentJobId=1234567&distance=50&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true", waiting until "networkidle"[22m
+
+2025-03-14 18:54:16 [31merror[39m: Error en FlowController: page.goto: Target page, context or browser has been closed
+Call log:
+[2m  - navigating to "https://www.linkedin.com/jobs/search/?currentJobId=1234567&distance=50&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true", waiting until "networkidle"[22m
+
+2025-03-14 18:54:16 [31merror[39m: Error en main.js: page.goto: Target page, context or browser has been closed
+Call log:
+[2m  - navigating to "https://www.linkedin.com/jobs/search/?currentJobId=1234567&distance=50&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true", waiting until "networkidle"[22m
+
+2025-03-14 19:01:47 [31merror[39m: Error al cargar la página: Timeout: La página no cargó en 3 segundos. Recargando...
+2025-03-14 19:01:52 [31merror[39m: Error al cargar el listado de vacantes: page.waitForSelector: Target page, context or browser has been closed
+Call log:
+[2m  - waiting for locator('li.scaffold-layout__list-item') to be visible[22m
+
+2025-03-14 19:02:23 [31merror[39m: Error al cargar la página: Timeout: La página no cargó en 3 segundos. Recargando...
+2025-03-14 19:02:28 [31merror[39m: Error al cargar el listado de vacantes: page.waitForSelector: Target page, context or browser has been closed
+Call log:
+[2m  - waiting for locator('li.scaffold-layout__list-item') to be visible[22m
+
+2025-03-14 19:04:25 [31merror[39m: Error al cargar la página: Timeout: La página no cargó en 3 segundos. Recargando...
+2025-03-14 19:04:46 [31merror[39m: Error al abrir el modal de Quick Apply: page.waitForSelector: Timeout 15000ms exceeded.
+Call log:
+[2m  - waiting for locator('button.jobs-apply-button') to be visible[22m
+[2m    2 × locator resolved to hidden <button disabled role="link" id="ember332" data-live-test-job-apply-button="" aria-label="Solicitar empleo de {:jobTitle} en el sitio web de la empresa" class="jobs-apply-button↵         artdeco-button artdeco-button--icon-right artdeco-button--2 artdeco-button--primary artdeco-button--disabled ember-view">…</button>[22m
+
+2025-03-14 19:06:50 [31merror[39m: Error al cargar la página: Timeout: La página no cargó en 3 segundos. Recargando...
+2025-03-14 19:06:54 [31merror[39m: Error al cargar el listado de vacantes: page.waitForSelector: Target page, context or browser has been closed
+Call log:
+[2m  - waiting for locator('li.scaffold-layout__list-item') to be visible[22m
+
+2025-03-14 19:16:22 [31merror[39m: Error al abrir el modal de Quick Apply: page.waitForSelector: Timeout 15000ms exceeded.
+Call log:
+[2m  - waiting for locator('.jobs-easy-apply-modal') to be visible[22m
+
+2025-03-14 19:16:28 [31merror[39m: [Input] Error generando respuesta para "¿Cuántos años de experiencia tienes como Ingeniero de software Fullstack?": Cannot read properties of undefined (reading 'generateResponse')
+2025-03-14 19:16:29 [31merror[39m: [Input] Error generando respuesta para "¿Cuál es tu expectativa de renta bruta? (en pesos colombianos)": Cannot read properties of undefined (reading 'generateResponse')
+2025-03-14 19:16:43 [31merror[39m: [Input] Error generando respuesta para "Años de experiencia en python": Cannot read properties of undefined (reading 'generateResponse')
+2025-03-14 19:16:43 [31merror[39m: [Input] Error generando respuesta para "Años de experiencia en .net": Cannot read properties of undefined (reading 'generateResponse')
+2025-03-14 19:43:10 [31merror[39m: Error al abrir el modal de Quick Apply: page.waitForSelector: Timeout 15000ms exceeded.
+Call log:
+[2m  - waiting for locator('.jobs-easy-apply-modal') to be visible[22m
+
+2025-03-14 19:43:16 [31merror[39m: [Input] Error generando respuesta para "cuandoa años Tienes de experiencia en .NET y cloud.?": Cannot read properties of undefined (reading 'generateResponse')
+2025-03-14 19:48:46 [31merror[39m: Error al abrir el modal de Quick Apply: page.waitForSelector: Timeout 15000ms exceeded.
+Call log:
+[2m  - waiting for locator('.jobs-easy-apply-modal') to be visible[22m
+
+2025-03-14 19:48:54 [31merror[39m: [Input] Error generando respuesta para "¿Cuántos años de experiencia tienes con Blogging?": Cannot read properties of undefined (reading 'generateResponse')
+2025-03-14 19:49:06 [31merror[39m: [Input] Error generando respuesta para "¿Cuántos años de experiencia tienes como Ingeniero de software Java?": Cannot read properties of undefined (reading 'generateResponse')
+2025-03-14 19:49:07 [31merror[39m: [Input] Error generando respuesta para "¿Cuál es tu expectativa de renta bruta? (en pesos colombianos)": Cannot read properties of undefined (reading 'generateResponse')
+2025-03-14 19:49:32 [31merror[39m: Error al abrir el modal de Quick Apply: page.waitForSelector: Timeout 15000ms exceeded.
+Call log:
+[2m  - waiting for locator('.jobs-easy-apply-modal') to be visible[22m
+
+2025-03-14 19:49:50 [31merror[39m: Error al abrir el modal de Quick Apply: page.waitForSelector: Timeout 15000ms exceeded.
+Call log:
+[2m  - waiting for locator('.jobs-easy-apply-modal') to be visible[22m
+
+2025-03-14 19:58:21 [31merror[39m: Error al abrir el modal de Quick Apply: page.waitForSelector: Timeout 15000ms exceeded.
+Call log:
+[2m  - waiting for locator('.jobs-easy-apply-modal') to be visible[22m
+
+2025-03-14 19:59:45 [31merror[39m: [Input] Error generando respuesta para "Cuantos años de experiencia tienes como Arquitecto de Software?": Cannot read properties of undefined (reading 'generateResponse')
+2025-03-14 19:59:45 [31merror[39m: [Input] Error generando respuesta para "Cual es tu expectativa salarial?": Cannot read properties of undefined (reading 'generateResponse')
+2025-03-14 20:00:10 [31merror[39m: Error al abrir el modal de Quick Apply: page.waitForSelector: Timeout 15000ms exceeded.
+Call log:
+[2m  - waiting for locator('.jobs-easy-apply-modal') to be visible[22m
+
+2025-03-14 20:06:04 [31merror[39m: Error al abrir el modal de Quick Apply: page.waitForSelector: Timeout 15000ms exceeded.
+Call log:
+[2m  - waiting for locator('.jobs-easy-apply-modal') to be visible[22m
+
+2025-03-14 20:06:12 [31merror[39m: Error al hacer clic en 'Revisar' o 'Siguiente': document is not defined
+2025-03-14 20:06:13 [31merror[39m: Error al hacer clic en 'Revisar' o 'Siguiente': document is not defined
+2025-03-14 20:06:14 [31merror[39m: Error al hacer clic en 'Revisar' o 'Siguiente': document is not defined
+2025-03-14 20:06:25 [31merror[39m: Error al abrir el modal de Quick Apply: page.waitForSelector: Target page, context or browser has been closed
+Call log:
+[2m  - waiting for locator('.jobs-easy-apply-modal') to be visible[22m
+
+2025-03-14 20:07:30 [31merror[39m: Error al abrir el modal de Quick Apply: page.waitForSelector: Timeout 15000ms exceeded.
+Call log:
+[2m  - waiting for locator('.jobs-easy-apply-modal') to be visible[22m
+
+2025-03-14 20:07:41 [31merror[39m: Error al hacer clic en 'Revisar' o 'Siguiente': document is not defined
+2025-03-14 20:07:43 [31merror[39m: Error al hacer clic en 'Revisar' o 'Siguiente': document is not defined
+2025-03-14 20:07:44 [31merror[39m: Error al hacer clic en 'Revisar' o 'Siguiente': document is not defined
+2025-03-14 20:08:03 [31merror[39m: Error al abrir el modal de Quick Apply: page.waitForSelector: Timeout 15000ms exceeded.
+Call log:
+[2m  - waiting for locator('.jobs-easy-apply-modal') to be visible[22m
+
+2025-03-14 20:08:21 [31merror[39m: Error al abrir el modal de Quick Apply: page.waitForSelector: Timeout 15000ms exceeded.
+Call log:
+[2m  - waiting for locator('.jobs-easy-apply-modal') to be visible[22m
+
+2025-03-14 20:09:49 [31merror[39m: Error al abrir el modal de Quick Apply: page.waitForSelector: Timeout 15000ms exceeded.
+Call log:
+[2m  - waiting for locator('.jobs-easy-apply-modal') to be visible[22m
+
+2025-03-14 20:09:53 [31merror[39m: Error al hacer clic en 'Revisar' o 'Siguiente': document is not defined
+2025-03-14 20:09:54 [31merror[39m: Error al hacer clic en 'Revisar' o 'Siguiente': document is not defined
+2025-03-14 20:09:55 [31merror[39m: Error al hacer clic en 'Revisar' o 'Siguiente': document is not defined
+2025-03-14 20:10:02 [31merror[39m: Error al hacer clic en 'Revisar' o 'Siguiente': document is not defined
+2025-03-14 20:10:03 [31merror[39m: Error al hacer clic en 'Revisar' o 'Siguiente': document is not defined
+2025-03-14 20:10:04 [31merror[39m: Error al hacer clic en 'Revisar' o 'Siguiente': document is not defined
+2025-03-14 20:12:30 [31merror[39m: Error al abrir el modal de Quick Apply: page.waitForSelector: Timeout 15000ms exceeded.
+Call log:
+[2m  - waiting for locator('.jobs-easy-apply-modal') to be visible[22m
+
+2025-03-14 20:12:43 [31merror[39m: Error al hacer clic en 'Revisar' o 'Siguiente': document is not defined
+2025-03-14 20:12:44 [31merror[39m: Error al hacer clic en 'Revisar' o 'Siguiente': document is not defined
+2025-03-14 20:12:45 [31merror[39m: Error al hacer clic en 'Revisar' o 'Siguiente': document is not defined
+2025-03-14 20:12:49 [31merror[39m: Error al comprobar disponibilidad de Quick Apply: page.$: Target page, context or browser has been closed
+2025-03-14 20:14:30 [31merror[39m: Error al cargar la página: Timeout: La página no cargó en 3 segundos. Recargando...
+2025-03-14 20:14:52 [31merror[39m: Error al abrir el modal de Quick Apply: page.waitForSelector: Timeout 15000ms exceeded.
+Call log:
+[2m  - waiting for locator('.jobs-easy-apply-modal') to be visible[22m
+
+2025-03-14 20:15:05 [31merror[39m: [Input] Error generando respuesta para "¿Cuántos años de experiencia tienes con Microsoft SQL Server?": Cannot read properties of undefined (reading 'generateResponse')
+2025-03-14 20:15:05 [31merror[39m: [Input] Error generando respuesta para "¿Cuál es tu aspiración salarial en COP?": Cannot read properties of undefined (reading 'generateResponse')

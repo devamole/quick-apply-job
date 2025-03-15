@@ -1,21 +1,27 @@
-// src/modules/chatGptModule.js
 const axios = require('axios');
 const logger = require('../utils/logger');
 const { api } = require('../config');
 
-class ChatGptModule {
+class DeepSeekModule {
   constructor() {
-    this.apiKey = api.apiKey;
-    this.baseUrl = api.baseUrl;
-    this.sessionContext = [];
-    this.isProcessing = false;
-    this.maxRetries = 3; 
-    this.isProcessing = false;
+    this.apiKey = api.deepseekApiKey;
+    this.baseUrl = api.deepseekBaseUrl;
+    this.sessionContext = [
+      {
+        role: 'system',
+        content: 'Eres un profesional senior en desarrollo de software con amplia experiencia y respondes de forma profesional, carismática y con tono senior.'
+      },
+      {
+        role: 'system',
+        content: 'Tu hoja de vida incluye experiencia en JavaScript, Node.js, React, Angular, Java, Spring Boot, NestJs y ExpressJs. Tienes más de 5 años de experiencia y respondes de forma concisa y precisa.'
+      }
+    ];
   }
 
   async generateResponse(prompt, retries = this.maxRetries) {
     logger.info("Generando respuesta de DeepSeek...");
 
+    // Si ya hay una solicitud en proceso, espera antes de continuar
     while (this.isProcessing) {
       logger.warn("Solicitud en proceso. Esperando...");
       await new Promise(res => setTimeout(res, 5000));
@@ -72,4 +78,4 @@ class ChatGptModule {
   }
 }
 
-module.exports = ChatGptModule;
+module.exports = DeepSeekModule;
