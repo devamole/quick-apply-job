@@ -3,8 +3,9 @@ const logger = require('../utils/logger'); // Nuestro logger basado en Winston
 const JobListModule = require('./jobListModule');
 const JobDetailsModule = require('./jobDetailsModule');
 const QuickApplyModule = require('./quickApplyModule');
-const ChatGptModule = require('./chatGptModule');
+// const ChatGptModule = require('./chatGptModule');
 const { sleep, retry } = require('../utils/helpers');
+const DeepseekModule = require('./deepseekModule');
 
 class FlowController {
   constructor(page) {
@@ -12,35 +13,50 @@ class FlowController {
     this.jobListModule = new JobListModule(page);
     this.jobDetailsModule = new JobDetailsModule(page);
     this.quickApplyModule = new QuickApplyModule(page);
-    this.chatGptModule = new ChatGptModule();
+    this.chatGptModule = new DeepseekModule();
   }
 
   async startFlow(searchUrl) {
     logger.info("=== INICIO DEL FLUJO DE BÚSQUEDA DE VACANTES ===");
     try {
       logger.info(`Navegando a la URL de búsqueda: ${searchUrl}`);
-      await this.jobListModule.loadJobList(searchUrl);
+  
+      // Control de tiempo para reiniciar si la página no responde en 3 segundos
+      const timeoutPromise = new Promise((_, reject) =>
+        setTimeout(() => reject(new Error("Timeout: La página no cargó en 3 segundos")), 20000)
+      );
+  
+      // Intentar navegar y esperar que cargue el listado de vacantes
+      await Promise.race([
+        this.jobListModule.loadJobList(searchUrl),
+        timeoutPromise
+      ]).catch(async (err) => {
+        logger.error(`Error al cargar la página: ${err.message}. Recargando...`);
+        await this.page.reload();
+        return;
+      });
+  
       logger.info("Buscando vacantes disponibles...");
       const jobs = await this.jobListModule.getJobs();
-      logger.info(`Total de vacantes encontradas: ${jobs.length}`); 
-
+      logger.info(`Total de vacantes encontradas: ${jobs.length}`);
+  
       for (const job of jobs) {
         logger.info("--------------------------------------------------");
         logger.info(`Abriendo vacante: ${job.display}`);
-
+  
         await retry(async () => {
           const jobSelector = `li[data-occludable-job-id="${job.jobId}"]`;
           logger.info(`Haciendo click en la vacante usando selector: ${jobSelector}`);
           await this.page.click(jobSelector);
           logger.info("Esperando a que se cargue el detalle de la vacante...");
           await this.page.waitForSelector('.jobs-search__job-details--wrapper', { timeout: 9000 });
-
+  
           const available = await this.jobDetailsModule.isQuickApplyAvailable();
           if (!available) {
             logger.info(`Vacante "${job.display}" no dispone de Quick Apply. Se omite.`);
             return;
           }
-
+  
           logger.info("Abriendo modal de Quick Apply...");
           const modalOpened = await this.quickApplyModule.openQuickApplyModal();
           if (!modalOpened) {
@@ -50,7 +66,7 @@ class FlowController {
           logger.info("Modal abierto. Iniciando llenado del formulario multi-step...");
           await this.fillModalForm();
         }, 3, 3000);
-
+  
         logger.info("Vacante procesada. Esperando 2 segundos antes de continuar con la siguiente vacante...");
         await sleep(2000);
       }
@@ -110,13 +126,16 @@ class FlowController {
       if (stepType === 'MODAL_CLOSED') {
         logger.info("El modal se ha cerrado inesperadamente. Finalizando llenado del formulario.");
         break;
+      } else if( stepType === 'REVIEW'){
+        logger.info("step 'REVIEW' detectado");
+        await this.clickNextOrReviewButton();
       } else if( stepType === 'CONTACT_INFO'){
         logger.info("step 'CONTACT_INFO' detectado");
         await this.clickNextAndWaitForChange();
       } else if( stepType === 'CURRICULUM'){
         logger.info("step 'CURRICULUM' detectado");
         await this.clickNextAndWaitForChange();
-      }else if (stepType === 'RESUME') {
+      } else if (stepType === 'RESUME') {
         logger.info("Step 'Resume' detectado; se omite y se hace clic en 'Siguiente'.");
         await this.clickNextAndWaitForChange();
       } else if (stepType === 'FAVORITE') {
@@ -166,6 +185,14 @@ class FlowController {
       return 'DONE';
     }
 
+    const submitButton = await this.page.$('button[data-live-test-easy-apply-submit-button]');
+    if (submitButton) {
+      console.log(submitButton, "-----*****************submit button");
+      return 'FINAL'
+    } else{
+      console.log("boton no encontrado");
+    }
+
     const isResumeStep = await this.page.evaluate(() => {
       const heading = document.querySelector('form h3');
       return heading && heading.innerText.trim().toLowerCase().includes('resume');
@@ -204,14 +231,11 @@ class FlowController {
 
     if(curriculumStep) return 'CURRICULUM';
 
-    const isSubmitButtonVisible = await this.page.evaluate(()=>{
-      const btnSubmit = document.querySelector('button[aria-label="Enviar solicitud"] span').innerText;
-      return btnSubmit.trim().toLowerCase().includes('enviar solicitud');
-    })
+    const reviewStep = await this.page.evaluate(() => {
+      return document.querySelector('[aria-label="Revisar tu solicitud"]');
+    });
 
-    console.log("-------isSubmitButtonVisible: ", isSubmitButtonVisible);
-    
-    if (isSubmitButtonVisible) return 'FINAL';
+    if(reviewStep) return 'REVIEW';
 
     console.log("-------nada funciono y paso aqui");
     return 'DONE';
@@ -290,25 +314,33 @@ class FlowController {
 
   async closeConfirmationModal() {
     try {
-      logger.info("Esperando a que aparezca el botón 'Ahora no' en el modal de confirmación...");
-      await this.page.waitForSelector('button:has-text("Ahora no")', { timeout: 10000 });
-      const closeButton = await this.page.$('button:has-text("Ahora no")');
+      logger.info("Esperando a que aparezca el botón 'Descartar' en el modal de confirmación...");
+      await this.page.waitForSelector('button[aria-label="Descartar"]', { timeout: 10000 });
+
+      const closeButton = await this.page.$('button[aria-label="Descartar"]');
+      
       if (closeButton) {
-        logger.info("Desplazando el botón 'Ahora no' dentro del modal al centro del viewport...");
-        await this.page.evaluate(() => {
-          const btn = document.querySelector('button:has-text("Ahora no")');
-          if (btn) {
-            btn.scrollIntoView({ behavior: 'smooth', block: 'center' });
-          }
-        });
-        logger.info("Haciendo clic en el botón 'Ahora no' para cerrar el modal de confirmación...");
+        logger.info("Haciendo clic en el botón 'Descartar' para cerrar el primer modal...");
         await closeButton.click();
       }
-      await this.page.waitForSelector('.jobs-easy-apply-modal', { state: 'detached', timeout: 10000 });
-      logger.info("Modal de confirmación cerrado.");
+
+       // Esperar a que aparezca el segundo modal
+       logger.info("Esperando la aparición del segundo modal de confirmación...");
+       await this.page.waitForSelector('.artdeco-modal__confirm-dialog-btn', { timeout: 10000 });
+
+       logger.info("Haciendo clic en el segundo botón 'Descartar'...");
+        const confirmButton = await this.page.$('.artdeco-modal__confirm-dialog-btn');
+        if (confirmButton) {
+            await confirmButton.click();
+        }
+
+         // Esperar que desaparezca el modal completamente
+        await this.page.waitForSelector('.jobs-easy-apply-modal', { state: 'detached', timeout: 10000 });
+        logger.info("Modal de confirmación completamente cerrado.");
     } catch (err) {
-      logger.warn("No se pudo cerrar el modal de confirmación: " + err.message);
+        logger.warn("No se pudo cerrar el modal de confirmación: " + err.message);
     }
+
   }
 
   async fillCurrentStepFields() {
@@ -317,6 +349,9 @@ class FlowController {
         .map(container => {
           const labelElement = container.querySelector('label.artdeco-text-input--label');
           const inputElement = container.querySelector('input.artdeco-text-input--input');
+
+          console.log("---------------------------------elementos ", labelElement, inputElement);
+
           if (labelElement && inputElement && inputElement.value.trim() === '') {
             return {
               label: labelElement.innerText.trim(),
@@ -328,23 +363,32 @@ class FlowController {
         .filter(item => item !== null);
     });
   
-    logger.info(`Se encontraron ${fields.length} campos para llenar en este step.`);
+     logger.info(`Se encontraron ${fields.length} campos para llenar en este step.`);
+    
     for (const field of fields) {
-      const prompt = field.label;
-      logger.info(`[Input] Llenando campo: "${prompt}"`);
-      const answer = await this.chatGptModule.generateResponse(prompt);
-      logger.info(`[Input] Respuesta generada: ${answer}`);
-  
-      const inputSelector = `#${field.inputId}`;
-      await this.page.waitForSelector(inputSelector, { timeout: 5000 });
-      await this.page.evaluate((selector) => {
-        const input = document.querySelector(selector);
-        if (input) input.value = '';
-      }, inputSelector);
-      await this.page.focus(inputSelector);
-      await this.page.type(inputSelector, answer, { delay: 50 });
-      logger.info(`[Input] Campo "${prompt}" completado.`);
-      await this.page.waitForTimeout(300);
+        const prompt = field.label;
+        logger.info(`[Input] Llenando campo: "${prompt}"`);
+
+        let answer = "";
+        try {
+            answer = await this.DeepseekModule.generateResponse(prompt);
+            logger.info(`[Input] Respuesta generada: ${answer}`);
+        } catch (err) {
+            logger.error(`[Input] Error generando respuesta para "${prompt}": ${err.message}`);
+            answer = ".";
+        }
+
+        const inputSelector = `#${field.inputId}`;
+        await this.page.waitForSelector(inputSelector, { timeout: 5000 });
+        await this.page.evaluate((selector) => {
+            const input = document.querySelector(selector);
+            if (input) input.value = '';
+        }, inputSelector);
+        await this.page.focus(inputSelector);
+        await this.page.type(inputSelector, answer, { delay: 50 });
+
+        logger.info(`[Input] Campo "${prompt}" completado.`);
+        await this.page.waitForTimeout(300);
     }
   }
 }
