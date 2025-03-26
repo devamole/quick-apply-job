@@ -2,10 +2,11 @@ const axios = require('axios');
 const logger = require('../utils/logger');
 const { api } = require('../config');
 
+logger.info(api)
 class DeepSeekModule {
   constructor() {
-    this.apiKey = api.deepseekApiKey;
-    this.baseUrl = api.deepseekBaseUrl;
+    this.apiKey = api.apiKey;
+    this.baseUrl = api.baseUrl;
     this.sessionContext = [
       {
         role: 'system',
@@ -13,7 +14,7 @@ class DeepSeekModule {
       },
       {
         role: 'system',
-        content: 'Tu hoja de vida incluye experiencia en JavaScript, Node.js, React, Angular, Java, Spring Boot, NestJs y ExpressJs. Tienes más de 5 años de experiencia y respondes de forma concisa y precisa.'
+        content: 'Tu hoja de vida incluye experiencia en JavaScript, Node.js, React, Angular, Java, Spring Boot, NestJs y ExpressJs. Tienes más de 10 años de experiencia y respondes de forma concisa y precisa.'
       }
     ];
   }
@@ -37,13 +38,13 @@ class DeepSeekModule {
       if (this.sessionContext.length > 5) this.sessionContext.shift();
 
       logger.info("Enviando solicitud a DeepSeek...");
-
+      logger.info( `${this.baseUrl}/chat/completions`)
       const response = await axios.post(
         `${this.baseUrl}/chat/completions`,
         {
           model: 'deepseek-chat',
           messages: this.sessionContext,
-          max_tokens: 150,
+          max_tokens: 550,
           temperature: 1.3
         },
         {

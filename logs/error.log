@@ -1261,3 +1261,131 @@ Call log:
 
 2025-03-14 20:15:05 [31merror[39m: [Input] Error generando respuesta para "¿Cuántos años de experiencia tienes con Microsoft SQL Server?": Cannot read properties of undefined (reading 'generateResponse')
 2025-03-14 20:15:05 [31merror[39m: [Input] Error generando respuesta para "¿Cuál es tu aspiración salarial en COP?": Cannot read properties of undefined (reading 'generateResponse')
+2025-03-20 02:47:10 [31merror[39m: Error en main.js: browserType.launch: Executable doesn't exist at C:\Users\donnyangel.caballero\AppData\Local\ms-playwright\chromium-1155\chrome-win\chrome.exe
+╔═════════════════════════════════════════════════════════════════════════╗
+║ Looks like Playwright Test or Playwright was just installed or updated. ║
+║ Please run the following command to download new browsers:              ║
+║                                                                         ║
+║     yarn playwright install                                             ║
+║                                                                         ║
+║ <3 Playwright Team                                                      ║
+╚═════════════════════════════════════════════════════════════════════════╝
+2025-03-20 02:47:46 [31merror[39m: Error en main.js: browserType.launch: Executable doesn't exist at C:\Users\donnyangel.caballero\AppData\Local\ms-playwright\chromium-1155\chrome-win\chrome.exe
+╔═════════════════════════════════════════════════════════════════════════╗
+║ Looks like Playwright Test or Playwright was just installed or updated. ║
+║ Please run the following command to download new browsers:              ║
+║                                                                         ║
+║     yarn playwright install                                             ║
+║                                                                         ║
+║ <3 Playwright Team                                                      ║
+╚═════════════════════════════════════════════════════════════════════════╝
+2025-03-20 02:54:01 [31merror[39m: Error al cargar la página: Timeout: La página no cargó en 3 segundos. Recargando...
+2025-03-20 02:54:12 [31merror[39m: Error al cargar el listado de vacantes: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/jobs/search/?currentJobId=1234567&distance=50&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true", waiting until "networkidle"[22m
+
+2025-03-20 02:54:28 [31merror[39m: [Input] Error generando respuesta para "¿cual es tu aspiración salarial?": Cannot read properties of undefined (reading 'generateResponse')
+2025-03-20 02:54:29 [31merror[39m: [Input] Error generando respuesta para "¿cuanto tiempo de experiencia tienes con wordpress?": Cannot read properties of undefined (reading 'generateResponse')
+2025-03-20 02:54:45 [31merror[39m: Error al abrir el modal de Quick Apply: page.waitForSelector: Target page, context or browser has been closed
+Call log:
+[2m  - waiting for locator('.jobs-easy-apply-modal') to be visible[22m
+
+2025-03-20 03:43:25 [31merror[39m: Error al cargar el listado de vacantes: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/jobs/search/?currentJobId=1234567&distance=50&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true", waiting until "networkidle"[22m
+
+2025-03-20 03:43:25 [31merror[39m: Error en FlowController: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/jobs/search/?currentJobId=1234567&distance=50&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true", waiting until "networkidle"[22m
+
+2025-03-20 03:43:25 [31merror[39m: Error en main.js: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/jobs/search/?currentJobId=1234567&distance=50&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true", waiting until "networkidle"[22m
+
+2025-03-20 04:17:41 [31merror[39m: Error al cargar el listado de vacantes: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/jobs/search/?currentJobId=4183935829&distance=50&geoId=102361989&keywords=Desarrollador&origin=JOBS_HOME_KEYWORD_HISTORY&refresh=true", waiting until "networkidle"[22m
+
+2025-03-20 04:17:41 [31merror[39m: Error en FlowController: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/jobs/search/?currentJobId=4183935829&distance=50&geoId=102361989&keywords=Desarrollador&origin=JOBS_HOME_KEYWORD_HISTORY&refresh=true", waiting until "networkidle"[22m
+
+2025-03-20 04:17:41 [31merror[39m: Error en main.js: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/jobs/search/?currentJobId=4183935829&distance=50&geoId=102361989&keywords=Desarrollador&origin=JOBS_HOME_KEYWORD_HISTORY&refresh=true", waiting until "networkidle"[22m
+
+2025-03-20 04:27:45 [31merror[39m: Error al extraer vacantes: page.$$eval: ReferenceError: logger is not defined
+    at eval (eval at evaluate (:234:30), <anonymous>:24:15)
+    at Array.map (<anonymous>)
+    at eval (eval at evaluate (:234:30), <anonymous>:2:27)
+    at UtilityScript.evaluate (<anonymous>:236:17)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+2025-03-20 04:27:45 [31merror[39m: Error en FlowController: page.$$eval: ReferenceError: logger is not defined
+    at eval (eval at evaluate (:234:30), <anonymous>:24:15)
+    at Array.map (<anonymous>)
+    at eval (eval at evaluate (:234:30), <anonymous>:2:27)
+    at UtilityScript.evaluate (<anonymous>:236:17)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+2025-03-20 04:27:45 [31merror[39m: Error en main.js: page.$$eval: ReferenceError: logger is not defined
+    at eval (eval at evaluate (:234:30), <anonymous>:24:15)
+    at Array.map (<anonymous>)
+    at eval (eval at evaluate (:234:30), <anonymous>:2:27)
+    at UtilityScript.evaluate (<anonymous>:236:17)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+2025-03-20 04:48:45 [31merror[39m: getJobs: Error al extraer vacantes: page.$$eval: ReferenceError: logger is not defined
+    at eval (eval at evaluate (:234:30), <anonymous>:31:13)
+    at Array.map (<anonymous>)
+    at eval (eval at evaluate (:234:30), <anonymous>:2:27)
+    at UtilityScript.evaluate (<anonymous>:236:17)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+2025-03-20 04:48:45 [31merror[39m: Error en FlowController: page.$$eval: ReferenceError: logger is not defined
+    at eval (eval at evaluate (:234:30), <anonymous>:31:13)
+    at Array.map (<anonymous>)
+    at eval (eval at evaluate (:234:30), <anonymous>:2:27)
+    at UtilityScript.evaluate (<anonymous>:236:17)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+2025-03-20 04:48:45 [31merror[39m: Error en main.js: page.$$eval: ReferenceError: logger is not defined
+    at eval (eval at evaluate (:234:30), <anonymous>:31:13)
+    at Array.map (<anonymous>)
+    at eval (eval at evaluate (:234:30), <anonymous>:2:27)
+    at UtilityScript.evaluate (<anonymous>:236:17)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+2025-03-20 05:12:15 [31merror[39m: Error en FlowController: page.click: Target page, context or browser has been closed
+2025-03-20 05:12:15 [31merror[39m: Error en main.js: page.click: Target page, context or browser has been closed
+2025-03-20 05:13:24 [31merror[39m: Error en FlowController: page.click: Target page, context or browser has been closed
+2025-03-20 05:13:24 [31merror[39m: Error en main.js: page.click: Target page, context or browser has been closed
+2025-03-20 05:19:50 [31merror[39m: Error en FlowController: page.click: Target page, context or browser has been closed
+2025-03-20 05:19:50 [31merror[39m: Error en main.js: page.click: Target page, context or browser has been closed
+2025-03-20 05:47:54 [31merror[39m: Error al generar respuesta desde DeepSeek: Invalid URL
+2025-03-20 05:47:54 [31merror[39m: [Input] Error generando respuesta para "Aspiración salarial en USD?": Invalid URL
+2025-03-20 05:48:00 [31merror[39m: Error al generar respuesta desde DeepSeek: Invalid URL
+2025-03-20 05:48:00 [31merror[39m: [Input] Error generando respuesta para "Años de experiencia en Backend?": Invalid URL
+2025-03-20 05:52:09 [31merror[39m: Error al generar respuesta desde DeepSeek: Invalid URL
+2025-03-20 05:52:09 [31merror[39m: [Input] Error generando respuesta para "Aspiración salarial en USD?": Invalid URL
+2025-03-20 05:54:11 [31merror[39m: Error al generar respuesta desde DeepSeek: Invalid URL
+2025-03-20 05:54:11 [31merror[39m: [Input] Error generando respuesta para "Aspiración salarial en USD?": Invalid URL
+2025-03-20 05:56:54 [31merror[39m: Error al generar respuesta desde DeepSeek: Invalid URL
+2025-03-20 05:56:54 [31merror[39m: [Input] Error generando respuesta para "Aspiración salarial en USD?": Invalid URL
+2025-03-20 08:29:00 [31merror[39m: Error en FlowController: page.click: Target page, context or browser has been closed
+2025-03-20 08:29:00 [31merror[39m: Error en main.js: page.click: Target page, context or browser has been closed
+2025-03-21 08:56:33 [31merror[39m: Error en FlowController: page.click: Target page, context or browser has been closed
+2025-03-21 08:56:33 [31merror[39m: Error en main.js: page.click: Target page, context or browser has been closed
+2025-03-21 08:56:59 [31merror[39m: Error al verificar autenticación: page.goto: Target page, context or browser has been closed
+Call log:
+[2m  - navigating to "https://www.linkedin.com/feed/", waiting until "domcontentloaded"[22m
+
+2025-03-21 08:56:59 [31merror[39m: Error en main.js: page.goto: Target page, context or browser has been closed
+Call log:
+[2m  - navigating to "https://www.linkedin.com/feed/", waiting until "domcontentloaded"[22m
+
+2025-03-25 15:49:32 [31merror[39m: Error al verificar autenticación: page.goto: Target page, context or browser has been closed
+Call log:
+[2m  - navigating to "https://www.linkedin.com/feed/", waiting until "domcontentloaded"[22m
+
+2025-03-25 15:49:32 [31merror[39m: Error en main.js: page.goto: Target page, context or browser has been closed
+Call log:
+[2m  - navigating to "https://www.linkedin.com/feed/", waiting until "domcontentloaded"[22m
+
+2025-03-25 16:14:54 [31merror[39m: Error en FlowController: page.click: Target page, context or browser has been closed
+2025-03-25 16:14:54 [31merror[39m: Error en main.js: page.click: Target page, context or browser has been closed
+2025-03-26 09:59:30 [31merror[39m: [Text] No se pudo obtener una respuesta válida para el campo "Años de experiencia en Backend?" tras 3 intentos. Cerrando modal y pasando a la siguiente vacante.

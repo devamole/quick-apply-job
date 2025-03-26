@@ -43,11 +43,11 @@ if (!searchUrl) {
     await flowController.startFlow(searchUrl);
 
     logger.info('Proceso de postulación finalizado.')
-    await browser.close();
-    process.exit(0);
+    // await browser.close();
+    // process.exit(0);
   } catch (err) {
     logger.error('Error en main.js: ' + err.message);
-    if (browser) await browser.close();
-    process.exit(1);
+    // if (browser) await browser.close();
+    // process.exit(1);
   }
 })();

@@ -1,11 +1,10 @@
 // src/modules/flowController.js
-const logger = require('../utils/logger'); // Nuestro logger basado en Winston
+const logger = require('../utils/logger'); // Logger basado en Winston
 const JobListModule = require('./jobListModule');
 const JobDetailsModule = require('./jobDetailsModule');
 const QuickApplyModule = require('./quickApplyModule');
-// const ChatGptModule = require('./chatGptModule');
-const { sleep, retry } = require('../utils/helpers');
 const DeepseekModule = require('./deepseekModule');
+const { sleep, retry } = require('../utils/helpers');
 
 class FlowController {
   constructor(page) {
@@ -13,50 +12,42 @@ class FlowController {
     this.jobListModule = new JobListModule(page);
     this.jobDetailsModule = new JobDetailsModule(page);
     this.quickApplyModule = new QuickApplyModule(page);
-    this.chatGptModule = new DeepseekModule();
+    this.gptModule = new DeepseekModule();
   }
 
   async startFlow(searchUrl) {
     logger.info("=== INICIO DEL FLUJO DE BÚSQUEDA DE VACANTES ===");
     try {
       logger.info(`Navegando a la URL de búsqueda: ${searchUrl}`);
-  
-      // Control de tiempo para reiniciar si la página no responde en 3 segundos
-      const timeoutPromise = new Promise((_, reject) =>
-        setTimeout(() => reject(new Error("Timeout: La página no cargó en 3 segundos")), 20000)
-      );
-  
-      // Intentar navegar y esperar que cargue el listado de vacantes
-      await Promise.race([
-        this.jobListModule.loadJobList(searchUrl),
-        timeoutPromise
-      ]).catch(async (err) => {
-        logger.error(`Error al cargar la página: ${err.message}. Recargando...`);
-        await this.page.reload();
-        return;
-      });
-  
+      await this.jobListModule.loadJobList(searchUrl);
+
+      // Ejecutar lazy loading para cargar todas las vacantes
+      await this.jobListModule.loadAllJobs();
+
       logger.info("Buscando vacantes disponibles...");
       const jobs = await this.jobListModule.getJobs();
       logger.info(`Total de vacantes encontradas: ${jobs.length}`);
-  
+
       for (const job of jobs) {
         logger.info("--------------------------------------------------");
-        logger.info(`Abriendo vacante: ${job.display}`);
-  
+        logger.info(`Abriendo vacante: ${job.display} (ID: ${job.jobId})`);
+        if (!job.quickApply) {
+          logger.info(`Vacante "${job.display}" no es de Quick Apply. Se omite.`);
+          continue;
+        }
         await retry(async () => {
           const jobSelector = `li[data-occludable-job-id="${job.jobId}"]`;
           logger.info(`Haciendo click en la vacante usando selector: ${jobSelector}`);
           await this.page.click(jobSelector);
           logger.info("Esperando a que se cargue el detalle de la vacante...");
-          await this.page.waitForSelector('.jobs-search__job-details--wrapper', { timeout: 9000 });
-  
+          await this.page.waitForSelector('.jobs-search__job-details--wrapper', { timeout: 15000 });
+
           const available = await this.jobDetailsModule.isQuickApplyAvailable();
           if (!available) {
             logger.info(`Vacante "${job.display}" no dispone de Quick Apply. Se omite.`);
             return;
           }
-  
+
           logger.info("Abriendo modal de Quick Apply...");
           const modalOpened = await this.quickApplyModule.openQuickApplyModal();
           if (!modalOpened) {
@@ -65,8 +56,11 @@ class FlowController {
           }
           logger.info("Modal abierto. Iniciando llenado del formulario multi-step...");
           await this.fillModalForm();
+
+          // Asegurarse de que no quede ningún modal abierto antes de continuar
+          await this.ensureNoModalOpen();
         }, 3, 3000);
-  
+
         logger.info("Vacante procesada. Esperando 2 segundos antes de continuar con la siguiente vacante...");
         await sleep(2000);
       }
@@ -83,26 +77,19 @@ class FlowController {
     const maxSteps = 15;
     let previousStepType = null;
     let sameStepCount = 0;
-
-    // Esperar a que aparezca el modal
     const modalSelector = '[data-test-modal-id="easy-apply-modal"]';
     const isModalPresent = await this.page.$(modalSelector) !== null;
-    
     if (!isModalPresent) {
-        logger.warn("No se detectó el formulario de Easy Apply. Saliendo del proceso.");
-        return;
-      }
-
-      if(modalSelector){
-        logger.info("El modal se detecto");
-      }else{
-        logger.info("error al detectar modal");
-      }
-
+      logger.warn("No se detectó el formulario de Easy Apply. Saliendo del proceso.");
+      return;
+    } else {
+      logger.info("Se detectó el modal de Easy Apply.");
+    }
+  
     while (stepCount < maxSteps) {
       const stepType = await this.detectStep();
       logger.info(`[Step ${stepCount + 1}] Tipo detectado: ${stepType}`);
-
+  
       if (previousStepType && stepType === previousStepType) {
         sameStepCount++;
         logger.info(`El mismo step se ha detectado ${sameStepCount} veces consecutivas.`);
@@ -110,30 +97,27 @@ class FlowController {
         sameStepCount = 0;
       }
       previousStepType = stepType;
-
+  
       if (sameStepCount >= 3) {
-        logger.warn("El mismo step se ha repetido 3 veces. Se asume bloqueo. Cerrando modal...");
+        logger.warn("El mismo step se ha repetido 3 veces consecutivas. Se asume bloqueo. Cerrando modal...");
         await this.closeConfirmationModal();
         break;
       }
-
+  
       const modalStillPresent = await this.page.$(modalSelector) !== null;
-        if (!modalStillPresent) {
-            logger.info("El modal se ha cerrado inesperadamente. Finalizando llenado del formulario.");
-            break;
-        }
-
+      if (!modalStillPresent) {
+        logger.info("El modal se ha cerrado inesperadamente. Finalizando llenado del formulario.");
+        break;
+      }
+  
       if (stepType === 'MODAL_CLOSED') {
         logger.info("El modal se ha cerrado inesperadamente. Finalizando llenado del formulario.");
         break;
-      } else if( stepType === 'REVIEW'){
-        logger.info("step 'REVIEW' detectado");
-        await this.clickNextOrReviewButton();
-      } else if( stepType === 'CONTACT_INFO'){
-        logger.info("step 'CONTACT_INFO' detectado");
+      } else if (stepType === 'CONTACT_INFO') {
+        logger.info("Step 'Contact Info' detectado; pulsando 'Siguiente'.");
         await this.clickNextAndWaitForChange();
-      } else if( stepType === 'CURRICULUM'){
-        logger.info("step 'CURRICULUM' detectado");
+      } else if (stepType === 'CURRICULUM') {
+        logger.info("Step 'Currículum' detectado; no se requiere acción. Pulsando 'Siguiente'.");
         await this.clickNextAndWaitForChange();
       } else if (stepType === 'RESUME') {
         logger.info("Step 'Resume' detectado; se omite y se hace clic en 'Siguiente'.");
@@ -141,7 +125,7 @@ class FlowController {
       } else if (stepType === 'FAVORITE') {
         logger.info("Step 'Marcar como favorita' detectado; se omite y se hace clic en 'Siguiente'.");
         await this.clickNextAndWaitForChange();
-      } else if (stepType === 'FINAL') {
+      } else if (stepType === 'REVIEW' || stepType === 'FINAL') {
         logger.info("Step final 'Revisar tu solicitud' detectado; se procede a enviar la postulación.");
         await this.submitApplication();
         await this.closeConfirmationModal();
@@ -152,61 +136,61 @@ class FlowController {
         await this.fillCurrentStepFields();
         logger.info("Campos completados. Intentando avanzar al siguiente step.");
         await this.clickNextAndWaitForChange();
-      }  else {
-        logger.warn("No se detecta un step definido. Verificando si el modal sigue abierto...");
-
-        /// reintentar el llenado del formulario antes de que el bot se detenga.
-
-        const modalStillPresentAgain = await this.page.$(modalSelector) !== null;
-        if (!modalStillPresentAgain) {
-            logger.info("El modal se ha cerrado inesperadamente. Finalizando llenado del formulario.");
-            break;
-        }
-
-        logger.info("El modal sigue abierto, esperando y reintentando...");
-        await this.page.waitForTimeout(1500);
-        continue;
-    }
+      } else {
+        logger.warn("No se detecta un step definido (DONE). Finalizando llenado del formulario.");
+        break;
+      }
+  
       await this.page.waitForTimeout(1000);
       stepCount++;
     }
     logger.info("=== FINALIZÓ EL PROCESO MULTI-STEP PARA ESTA VACANTE ===");
   }
+  
 
-  //----------------------------------------------------------------------------------------------------------------------
   async detectStep() {
     const modalStillOpen = await this.page.$('.jobs-easy-apply-modal');
     if (!modalStillOpen) return 'MODAL_CLOSED';
-
+  
     try {
       await this.page.waitForSelector('form', { timeout: 5000 });
     } catch (_) {
       if (!modalStillOpen) return 'MODAL_CLOSED';
       return 'DONE';
     }
-
+  
+    // Nueva condición: detectar "Información de contacto" (CONTACT_INFO)
+    const isContactInfoStep = await this.page.evaluate(() => {
+      const xpath = `//div[@data-test-modal and @role="dialog"]//form//h3[normalize-space(.)="Información de contacto"]`;
+      const result = document.evaluate(xpath, document, null, XPathResult.FIRST_ORDERED_NODE_TYPE, null);
+      return result.singleNodeValue ? true : false;
+    });
+    if (isContactInfoStep) return 'CONTACT_INFO';
+  
+    // Nueva condición: detectar "Currículum" usando XPath
+    const isCurriculumStep = await this.page.evaluate(() => {
+      const xpathSelector = `//div[@data-test-modal and @role="dialog"]//form//h3[normalize-space(.)="Currículum"]`;
+      const result = document.evaluate(xpathSelector, document, null, XPathResult.FIRST_ORDERED_NODE_TYPE, null);
+      return result.singleNodeValue ? true : false;
+    });
+    if (isCurriculumStep) return 'CURRICULUM';
+  
+    // Si aparece el botón de envío final, se asume el paso FINAL
     const submitButton = await this.page.$('button[data-live-test-easy-apply-submit-button]');
-    if (submitButton) {
-      console.log(submitButton, "-----*****************submit button");
-      return 'FINAL'
-    } else{
-      console.log("boton no encontrado");
-    }
-
+    if (submitButton) return 'FINAL';
+  
     const isResumeStep = await this.page.evaluate(() => {
       const heading = document.querySelector('form h3');
       return heading && heading.innerText.trim().toLowerCase().includes('resume');
     });
-
     if (isResumeStep) return 'RESUME';
-
-
+  
     const isFavoriteStep = await this.page.evaluate(() => {
       const heading = document.querySelector('form h4');
       return heading && heading.innerText.trim().toLowerCase().includes('favorita');
     });
     if (isFavoriteStep) return 'FAVORITE';
-
+  
     const hasEmptyFields = await this.page.$$eval('div.artdeco-text-input--container', (containers) => {
       return containers.some(container => {
         const labelElement = container.querySelector('label.artdeco-text-input--label');
@@ -214,32 +198,11 @@ class FlowController {
         return labelElement && inputElement && inputElement.value.trim() === '';
       });
     });
-
     if (hasEmptyFields) return 'REGULAR';
-
-    const contactInfoStep = await this.page.evaluate(() => {
-      const heading = document.querySelector('form h3');
-      return heading && heading.innerText.trim().toLowerCase().includes('información de contacto');
-    });
-
-    if(contactInfoStep) return 'CONTACT_INFO';
-
-    const curriculumStep = await this.page.evaluate(() => {
-      const headings = [...document.querySelectorAll('form h3')];
-      return headings.some(h3 => h3.innerText.trim().toLowerCase().includes('currículum'));
-    });
-
-    if(curriculumStep) return 'CURRICULUM';
-
-    const reviewStep = await this.page.evaluate(() => {
-      return document.querySelector('[aria-label="Revisar tu solicitud"]');
-    });
-
-    if(reviewStep) return 'REVIEW';
-
-    console.log("-------nada funciono y paso aqui");
+  
     return 'DONE';
   }
+  
 
   async clickNextAndWaitForChange() {
     const formElement = await this.page.$('form');
@@ -316,79 +279,150 @@ class FlowController {
     try {
       logger.info("Esperando a que aparezca el botón 'Descartar' en el modal de confirmación...");
       await this.page.waitForSelector('button[aria-label="Descartar"]', { timeout: 10000 });
-
       const closeButton = await this.page.$('button[aria-label="Descartar"]');
       
       if (closeButton) {
-        logger.info("Haciendo clic en el botón 'Descartar' para cerrar el primer modal...");
+        logger.info("Desplazando el botón 'Descartar' dentro del modal al centro del viewport...");
+        await this.page.evaluate(() => {
+          const btn = document.querySelector('button[aria-label="Descartar"]');
+          if (btn) {
+            btn.scrollIntoView({ behavior: 'smooth', block: 'center' });
+          }
+        });
+        logger.info("Haciendo clic en el botón 'Descartar' para cerrar el modal de confirmación...");
         await closeButton.click();
       }
-
-       // Esperar a que aparezca el segundo modal
-       logger.info("Esperando la aparición del segundo modal de confirmación...");
-       await this.page.waitForSelector('.artdeco-modal__confirm-dialog-btn', { timeout: 10000 });
-
-       logger.info("Haciendo clic en el segundo botón 'Descartar'...");
-        const confirmButton = await this.page.$('.artdeco-modal__confirm-dialog-btn');
-        if (confirmButton) {
-            await confirmButton.click();
-        }
-
-         // Esperar que desaparezca el modal completamente
-        await this.page.waitForSelector('.jobs-easy-apply-modal', { state: 'detached', timeout: 10000 });
-        logger.info("Modal de confirmación completamente cerrado.");
+      logger.info("Esperando a que el modal se cierre completamente...");
+      await this.page.waitForSelector('.jobs-easy-apply-modal', { state: 'detached', timeout: 10000 });
+      logger.info("Modal de confirmación cerrado.");
     } catch (err) {
-        logger.warn("No se pudo cerrar el modal de confirmación: " + err.message);
+      logger.warn("No se pudo cerrar el modal de confirmación: " + err.message);
+      throw err;
     }
-
   }
 
-  async fillCurrentStepFields() {
-    const fields = await this.page.$$eval('div.artdeco-text-input--container', containers => {
-      return containers
-        .map(container => {
-          const labelElement = container.querySelector('label.artdeco-text-input--label');
-          const inputElement = container.querySelector('input.artdeco-text-input--input');
+async fillCurrentStepFields() {
+  // Extraer campos de texto (se ignoran selects y radios)
+  const textFields = await this.page.$$eval('div.artdeco-text-input--container', containers => {
+    return containers.map(container => {
+      const labelElement = container.querySelector('label.artdeco-text-input--label');
+      const inputElement = container.querySelector('input[type="text"]');
+      if (labelElement && inputElement && inputElement.value.trim() === '') {
+        return {
+          label: labelElement.innerText.trim(),
+          elementId: inputElement.getAttribute('id')
+        };
+      }
+      return null;
+    }).filter(item => item !== null);
+  });
+  logger.info(`Se encontraron ${textFields.length} campos de texto para llenar en este step.`);
 
-          console.log("---------------------------------elementos ", labelElement, inputElement);
+  // Procesar cada campo de texto
+  for (const field of textFields) {
+    logger.info(`[Text] Procesando campo: "${field.label}"`);
+    let attempts = 0;
+    const maxAttempts = 3;
+    let success = false;
+    let answer = "";
+    const inputSelector = `#${field.elementId}`;
+    // Definir el selector para el mensaje de error (asumimos que es el mismo id con "-error")
+    const errorSelector = `#${field.elementId}-error .artdeco-inline-feedback__message`;
 
-          if (labelElement && inputElement && inputElement.value.trim() === '') {
-            return {
-              label: labelElement.innerText.trim(),
-              inputId: inputElement.getAttribute('id')
-            };
-          }
-          return null;
-        })
-        .filter(item => item !== null);
-    });
-  
-     logger.info(`Se encontraron ${fields.length} campos para llenar en este step.`);
-    
-    for (const field of fields) {
-        const prompt = field.label;
-        logger.info(`[Input] Llenando campo: "${prompt}"`);
+    // Intentar obtener la validación antes de enviar la respuesta
+    while (attempts < maxAttempts && !success) {
+      attempts++;
+      logger.info(`[Text] Intento ${attempts} para el campo "${field.label}"`);
 
-        let answer = "";
-        try {
-            answer = await this.DeepseekModule.generateResponse(prompt);
-            logger.info(`[Input] Respuesta generada: ${answer}`);
-        } catch (err) {
-            logger.error(`[Input] Error generando respuesta para "${prompt}": ${err.message}`);
-            answer = ".";
-        }
+      // Realizar un falso llenado para provocar el mensaje de error
+      logger.info(`[Text] Realizando falso llenado con "a" para provocar mensaje de error...`);
+      await this.page.waitForSelector(inputSelector, { timeout: 5000 });
+      await this.page.evaluate((selector) => {
+        const input = document.querySelector(selector);
+        if (input) input.value = '';
+      }, inputSelector);
+      await this.page.focus(inputSelector);
+      await this.page.type(inputSelector, "a", { delay: 50 });
+      // Esperar brevemente para que aparezca el mensaje de error, si corresponde
+      await this.page.waitForTimeout(500);
 
-        const inputSelector = `#${field.inputId}`;
-        await this.page.waitForSelector(inputSelector, { timeout: 5000 });
-        await this.page.evaluate((selector) => {
-            const input = document.querySelector(selector);
-            if (input) input.value = '';
-        }, inputSelector);
-        await this.page.focus(inputSelector);
-        await this.page.type(inputSelector, answer, { delay: 50 });
+      // Intentar capturar el mensaje de error
+      let errorText = "";
+      try {
+        errorText = await this.page.$eval(errorSelector, el => el.textContent.trim());
+        logger.info(`[Text] Mensaje de error detectado: "${errorText}"`);
+      } catch (e) {
+        logger.info(`[Text] No se detectó mensaje de error tras el falso llenado.`);
+      }
 
-        logger.info(`[Input] Campo "${prompt}" completado.`);
-        await this.page.waitForTimeout(300);
+      // Construir el prompt: si hay error, incluir las restricciones; si no, prompt normal
+      let prompt = "";
+      if (errorText) {
+        prompt = `${field.label}. Restricciones: ${errorText}. Por favor, responde únicamente con un valor que cumpla estas condiciones.`;
+      } else {
+        prompt = field.label;
+      }
+      logger.info(`[Text] Enviando prompt a Deepseek: "${prompt}"`);
+      try {
+        answer = await this.gptModule.generateResponse(prompt);
+        answer = answer.trim();
+        logger.info(`[Text] Respuesta generada: "${answer}"`);
+      } catch (err) {
+        logger.error(`[Text] Error generando respuesta para "${field.label}": ${err.message}`);
+        answer = ".";
+      }
+
+      // Llenar el campo con la respuesta generada
+      await this.page.evaluate((selector) => {
+        const input = document.querySelector(selector);
+        if (input) input.value = '';
+      }, inputSelector);
+      await this.page.focus(inputSelector);
+      await this.page.type(inputSelector, answer, { delay: 50 });
+      logger.info(`[Text] Campo "${field.label}" completado con: "${answer}"`);
+
+      // Esperar para ver si el mensaje de error desaparece
+      await this.page.waitForTimeout(500);
+      let errorStillPresent = false;
+      try {
+        errorStillPresent = await this.page.$(errorSelector) !== null;
+      } catch (e) {
+        errorStillPresent = false;
+      }
+      if (errorStillPresent) {
+        // Si el error sigue, se reinicia el ciclo de reintentos
+        logger.warn(`[Text] El mensaje de error sigue presente en el campo "${field.label}". Se reintentará.`);
+      } else {
+        success = true;
+      }
+    }
+
+    if (!success) {
+      // Si después de varios intentos el error persiste, se cierra el modal y se sale del llenado
+      logger.error(`[Text] No se pudo obtener una respuesta válida para el campo "${field.label}" tras ${maxAttempts} intentos. Cerrando modal y pasando a la siguiente vacante.`);
+      await this.closeConfirmationModal();
+      return;
+    }
+    await this.page.waitForTimeout(300);
+  }
+}
+
+
+  async ensureNoModalOpen()  {
+    try {
+      logger.info("Verificando que no quede ningún modal abierto antes de continuar...");
+      await this.page.waitForSelector('.jobs-easy-apply-modal', { state: 'detached', timeout: 10000 });
+      logger.info("No se detectaron modales abiertos.");
+    } catch (err) {
+      logger.warn("Se detectó un modal abierto. Intentando forzar su cierre...");
+      const closeButton = await this.page.$('button[aria-label="Descartar"]');
+      if (closeButton) {
+        await closeButton.click();
+        await this.page.waitForSelector('.jobs-easy-apply-modal', { state: 'detached', timeout: 10000 });
+        logger.info("Modal forzado cerrado.");
+      } else {
+        logger.warn("No se pudo forzar el cierre del modal.");
+      }
     }
   }
 }

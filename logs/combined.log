@@ -7373,3 +7373,2135 @@ Desarrollador FullStack (.Net/Angular) with verification
 2025-03-14 20:15:14 [32minfo[39m: Abriendo vacante: Confidencial - Ingeniero de software
 Ingeniero de software
 2025-03-14 20:15:14 [32minfo[39m: Haciendo click en la vacante usando selector: li[data-occludable-job-id="4181930249"]
+2025-03-20 02:47:10 [32minfo[39m: Iniciando bot con URL: https://www.linkedin.com/jobs/search/?currentJobId=1234567&distance=50&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true
+2025-03-20 02:47:10 [31merror[39m: Error en main.js: browserType.launch: Executable doesn't exist at C:\Users\donnyangel.caballero\AppData\Local\ms-playwright\chromium-1155\chrome-win\chrome.exe
+╔═════════════════════════════════════════════════════════════════════════╗
+║ Looks like Playwright Test or Playwright was just installed or updated. ║
+║ Please run the following command to download new browsers:              ║
+║                                                                         ║
+║     yarn playwright install                                             ║
+║                                                                         ║
+║ <3 Playwright Team                                                      ║
+╚═════════════════════════════════════════════════════════════════════════╝
+2025-03-20 02:47:46 [32minfo[39m: Iniciando bot con URL: https://www.linkedin.com/jobs/search/?currentJobId=1234567&distance=50&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true
+2025-03-20 02:47:46 [31merror[39m: Error en main.js: browserType.launch: Executable doesn't exist at C:\Users\donnyangel.caballero\AppData\Local\ms-playwright\chromium-1155\chrome-win\chrome.exe
+╔═════════════════════════════════════════════════════════════════════════╗
+║ Looks like Playwright Test or Playwright was just installed or updated. ║
+║ Please run the following command to download new browsers:              ║
+║                                                                         ║
+║     yarn playwright install                                             ║
+║                                                                         ║
+║ <3 Playwright Team                                                      ║
+╚═════════════════════════════════════════════════════════════════════════╝
+2025-03-20 02:53:34 [32minfo[39m: Iniciando bot con URL: https://www.linkedin.com/jobs/search/?currentJobId=1234567&distance=50&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true
+2025-03-20 02:53:35 [32minfo[39m: Cookies cargadas desde archivo.
+2025-03-20 02:53:35 [32minfo[39m: Aplicando retraso aleatorio de 1444 ms.
+2025-03-20 02:53:41 [32minfo[39m: Usuario ya autenticado.
+2025-03-20 02:53:41 [32minfo[39m: Cookies guardadas en archivo.
+2025-03-20 02:53:41 [32minfo[39m: === INICIO DEL FLUJO DE BÚSQUEDA DE VACANTES ===
+2025-03-20 02:53:41 [32minfo[39m: Navegando a la URL de búsqueda: https://www.linkedin.com/jobs/search/?currentJobId=1234567&distance=50&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true
+2025-03-20 02:54:01 [31merror[39m: Error al cargar la página: Timeout: La página no cargó en 3 segundos. Recargando...
+2025-03-20 02:54:04 [32minfo[39m: Buscando vacantes disponibles...
+2025-03-20 02:54:04 [32minfo[39m: Se extrajeron 7 vacantes.
+2025-03-20 02:54:04 [32minfo[39m: Total de vacantes encontradas: 7
+2025-03-20 02:54:04 [32minfo[39m: --------------------------------------------------
+2025-03-20 02:54:04 [32minfo[39m: Abriendo vacante: DENTSU K - Especialista en Google Ads con experiencia en Facturación – Remoto
+Especialista en Google Ads con experiencia en Facturación – Remoto
+2025-03-20 02:54:04 [32minfo[39m: Haciendo click en la vacante usando selector: li[data-occludable-job-id="4185437928"]
+2025-03-20 02:54:04 [32minfo[39m: Esperando a que se cargue el detalle de la vacante...
+2025-03-20 02:54:04 [32minfo[39m: Vacante "DENTSU K - Especialista en Google Ads con experiencia en Facturación – Remoto
+Especialista en Google Ads con experiencia en Facturación – Remoto" no dispone de Quick Apply. Se omite.
+2025-03-20 02:54:04 [32minfo[39m: Vacante procesada. Esperando 2 segundos antes de continuar con la siguiente vacante...
+2025-03-20 02:54:06 [32minfo[39m: --------------------------------------------------
+2025-03-20 02:54:06 [32minfo[39m: Abriendo vacante: DENTSU K - Especialista en Publicidad Digital – Facebook & Google Ads (Remoto)
+Especialista en Publicidad Digital – Facebook & Google Ads (Remoto)
+2025-03-20 02:54:06 [32minfo[39m: Haciendo click en la vacante usando selector: li[data-occludable-job-id="4185441565"]
+2025-03-20 02:54:07 [32minfo[39m: Esperando a que se cargue el detalle de la vacante...
+2025-03-20 02:54:07 [32minfo[39m: Abriendo modal de Quick Apply...
+2025-03-20 02:54:07 [32minfo[39m: Botón "Solicitud sencilla" clickeado, esperando apertura del modal...
+2025-03-20 02:54:07 [32minfo[39m: Modal de "Solicitud sencilla" abierto.
+2025-03-20 02:54:07 [32minfo[39m: Modal abierto. Iniciando llenado del formulario multi-step...
+2025-03-20 02:54:07 [32minfo[39m: === INICIO DEL LLENADO MULTI-STEP DEL FORMULARIO ===
+2025-03-20 02:54:07 [32minfo[39m: El modal se detecto
+2025-03-20 02:54:07 [32minfo[39m: [Step 1] Tipo detectado: DONE
+2025-03-20 02:54:07 [33mwarn[39m: No se detecta un step definido. Verificando si el modal sigue abierto...
+2025-03-20 02:54:07 [32minfo[39m: El modal sigue abierto, esperando y reintentando...
+2025-03-20 02:54:09 [32minfo[39m: [Step 1] Tipo detectado: FINAL
+2025-03-20 02:54:09 [32minfo[39m: Step final 'Revisar tu solicitud' detectado; se procede a enviar la postulación.
+2025-03-20 02:54:09 [32minfo[39m: Buscando botón de envío usando el selector: button[data-live-test-easy-apply-submit-button]
+2025-03-20 02:54:09 [32minfo[39m: Desplazando el botón de envío dentro del modal al centro del viewport...
+2025-03-20 02:54:09 [32minfo[39m: Haciendo clic en el botón de envío...
+2025-03-20 02:54:10 [32minfo[39m: Esperando a que aparezca el botón 'Descartar' en el modal de confirmación...
+2025-03-20 02:54:10 [32minfo[39m: Haciendo clic en el botón 'Descartar' para cerrar el primer modal...
+2025-03-20 02:54:10 [33mwarn[39m: No se pudo cerrar el modal de confirmación: elementHandle.click: Element is not attached to the DOM
+Call log:
+[2m  - attempting click action[22m
+[2m    2 × waiting for element to be visible, enabled and stable[22m
+[2m      - element is visible, enabled and stable[22m
+[2m      - scrolling into view if needed[22m
+[2m      - done scrolling[22m
+[2m      - <div class="jobs-loader">…</div> from <div id="ember399" class="artdeco-modal__content jobs-easy-apply-modal__content p0 ember-view">…</div> subtree intercepts pointer events[22m
+[2m    - retrying click action[22m
+[2m    - waiting 20ms[22m
+[2m    - waiting for element to be visible, enabled and stable[22m
+[2m    - element is visible, enabled and stable[22m
+[2m    - scrolling into view if needed[22m
+[2m    - done scrolling[22m
+[2m    - <div class="jobs-loader">…</div> from <div id="ember399" class="artdeco-modal__content jobs-easy-apply-modal__content p0 ember-view">…</div> subtree intercepts pointer events[22m
+[2m  - retrying click action[22m
+[2m    - waiting 100ms[22m
+[2m    - waiting for element to be visible, enabled and stable[22m
+
+2025-03-20 02:54:10 [32minfo[39m: Solicitud enviada y modal de confirmación cerrado. Terminando multi-step.
+2025-03-20 02:54:10 [32minfo[39m: === FINALIZÓ EL PROCESO MULTI-STEP PARA ESTA VACANTE ===
+2025-03-20 02:54:10 [32minfo[39m: Vacante procesada. Esperando 2 segundos antes de continuar con la siguiente vacante...
+2025-03-20 02:54:12 [31merror[39m: Error al cargar el listado de vacantes: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/jobs/search/?currentJobId=1234567&distance=50&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true", waiting until "networkidle"[22m
+
+2025-03-20 02:54:12 [32minfo[39m: --------------------------------------------------
+2025-03-20 02:54:12 [32minfo[39m: Abriendo vacante: LinkTIC - Desarrollador de front-end
+Desarrollador de front-end with verification
+2025-03-20 02:54:12 [32minfo[39m: Haciendo click en la vacante usando selector: li[data-occludable-job-id="4189009220"]
+2025-03-20 02:54:22 [32minfo[39m: Esperando a que se cargue el detalle de la vacante...
+2025-03-20 02:54:23 [32minfo[39m: Abriendo modal de Quick Apply...
+2025-03-20 02:54:24 [32minfo[39m: Botón "Solicitud sencilla" clickeado, esperando apertura del modal...
+2025-03-20 02:54:24 [32minfo[39m: Modal de "Solicitud sencilla" abierto.
+2025-03-20 02:54:24 [32minfo[39m: Modal abierto. Iniciando llenado del formulario multi-step...
+2025-03-20 02:54:24 [32minfo[39m: === INICIO DEL LLENADO MULTI-STEP DEL FORMULARIO ===
+2025-03-20 02:54:24 [32minfo[39m: El modal se detecto
+2025-03-20 02:54:24 [32minfo[39m: [Step 1] Tipo detectado: CONTACT_INFO
+2025-03-20 02:54:24 [32minfo[39m: step 'CONTACT_INFO' detectado
+2025-03-20 02:54:24 [32minfo[39m: Intentando hacer clic en el botón 'Siguiente' o 'Revisar' dentro del modal...
+2025-03-20 02:54:24 [32minfo[39m: Buscando botón de avance usando el selector: button[data-live-test-easy-apply-review-button], button[data-easy-apply-next-button]
+2025-03-20 02:54:24 [32minfo[39m: Desplazando el botón de avance dentro del modal al centro del viewport...
+2025-03-20 02:54:24 [32minfo[39m: Haciendo clic en el botón de avance...
+2025-03-20 02:54:25 [32minfo[39m: El contenido del formulario cambió tras hacer clic en 'Siguiente'.
+2025-03-20 02:54:26 [32minfo[39m: [Step 2] Tipo detectado: CURRICULUM
+2025-03-20 02:54:26 [32minfo[39m: step 'CURRICULUM' detectado
+2025-03-20 02:54:26 [32minfo[39m: Intentando hacer clic en el botón 'Siguiente' o 'Revisar' dentro del modal...
+2025-03-20 02:54:26 [32minfo[39m: Buscando botón de avance usando el selector: button[data-live-test-easy-apply-review-button], button[data-easy-apply-next-button]
+2025-03-20 02:54:26 [32minfo[39m: Desplazando el botón de avance dentro del modal al centro del viewport...
+2025-03-20 02:54:26 [32minfo[39m: Haciendo clic en el botón de avance...
+2025-03-20 02:54:27 [32minfo[39m: El contenido del formulario cambió tras hacer clic en 'Siguiente'.
+2025-03-20 02:54:28 [32minfo[39m: [Step 3] Tipo detectado: REGULAR
+2025-03-20 02:54:28 [32minfo[39m: Step 'Regular' detectado. Se procederá a rellenar los campos.
+2025-03-20 02:54:28 [32minfo[39m: Se encontraron 2 campos para llenar en este step.
+2025-03-20 02:54:28 [32minfo[39m: [Input] Llenando campo: "¿cual es tu aspiración salarial?"
+2025-03-20 02:54:28 [31merror[39m: [Input] Error generando respuesta para "¿cual es tu aspiración salarial?": Cannot read properties of undefined (reading 'generateResponse')
+2025-03-20 02:54:29 [32minfo[39m: [Input] Campo "¿cual es tu aspiración salarial?" completado.
+2025-03-20 02:54:29 [32minfo[39m: [Input] Llenando campo: "¿cuanto tiempo de experiencia tienes con wordpress?"
+2025-03-20 02:54:29 [31merror[39m: [Input] Error generando respuesta para "¿cuanto tiempo de experiencia tienes con wordpress?": Cannot read properties of undefined (reading 'generateResponse')
+2025-03-20 02:54:29 [32minfo[39m: [Input] Campo "¿cuanto tiempo de experiencia tienes con wordpress?" completado.
+2025-03-20 02:54:29 [32minfo[39m: Campos completados. Intentando avanzar al siguiente step.
+2025-03-20 02:54:29 [32minfo[39m: Intentando hacer clic en el botón 'Siguiente' o 'Revisar' dentro del modal...
+2025-03-20 02:54:29 [32minfo[39m: Buscando botón de avance usando el selector: button[data-live-test-easy-apply-review-button], button[data-easy-apply-next-button]
+2025-03-20 02:54:29 [32minfo[39m: Desplazando el botón de avance dentro del modal al centro del viewport...
+2025-03-20 02:54:29 [32minfo[39m: Haciendo clic en el botón de avance...
+2025-03-20 02:54:30 [32minfo[39m: El contenido del formulario cambió tras hacer clic en 'Siguiente'.
+2025-03-20 02:54:31 [32minfo[39m: [Step 4] Tipo detectado: DONE
+2025-03-20 02:54:31 [33mwarn[39m: No se detecta un step definido. Verificando si el modal sigue abierto...
+2025-03-20 02:54:31 [32minfo[39m: El modal sigue abierto, esperando y reintentando...
+2025-03-20 02:54:32 [32minfo[39m: [Step 4] Tipo detectado: DONE
+2025-03-20 02:54:32 [32minfo[39m: El mismo step se ha detectado 1 veces consecutivas.
+2025-03-20 02:54:32 [33mwarn[39m: No se detecta un step definido. Verificando si el modal sigue abierto...
+2025-03-20 02:54:32 [32minfo[39m: El modal sigue abierto, esperando y reintentando...
+2025-03-20 02:54:34 [32minfo[39m: [Step 4] Tipo detectado: DONE
+2025-03-20 02:54:34 [32minfo[39m: El mismo step se ha detectado 2 veces consecutivas.
+2025-03-20 02:54:34 [33mwarn[39m: No se detecta un step definido. Verificando si el modal sigue abierto...
+2025-03-20 02:54:34 [32minfo[39m: El modal sigue abierto, esperando y reintentando...
+2025-03-20 02:54:35 [32minfo[39m: [Step 4] Tipo detectado: DONE
+2025-03-20 02:54:35 [32minfo[39m: El mismo step se ha detectado 3 veces consecutivas.
+2025-03-20 02:54:35 [33mwarn[39m: El mismo step se ha repetido 3 veces. Se asume bloqueo. Cerrando modal...
+2025-03-20 02:54:35 [32minfo[39m: Esperando a que aparezca el botón 'Descartar' en el modal de confirmación...
+2025-03-20 02:54:35 [32minfo[39m: Haciendo clic en el botón 'Descartar' para cerrar el primer modal...
+2025-03-20 02:54:35 [32minfo[39m: Esperando la aparición del segundo modal de confirmación...
+2025-03-20 02:54:35 [32minfo[39m: Haciendo clic en el segundo botón 'Descartar'...
+2025-03-20 02:54:36 [32minfo[39m: Modal de confirmación completamente cerrado.
+2025-03-20 02:54:36 [32minfo[39m: === FINALIZÓ EL PROCESO MULTI-STEP PARA ESTA VACANTE ===
+2025-03-20 02:54:36 [32minfo[39m: Vacante procesada. Esperando 2 segundos antes de continuar con la siguiente vacante...
+2025-03-20 02:54:38 [32minfo[39m: --------------------------------------------------
+2025-03-20 02:54:38 [32minfo[39m: Abriendo vacante: Homeclub - Frontend Developer
+Frontend Developer
+2025-03-20 02:54:38 [32minfo[39m: Haciendo click en la vacante usando selector: li[data-occludable-job-id="4186240381"]
+2025-03-20 02:54:38 [32minfo[39m: Esperando a que se cargue el detalle de la vacante...
+2025-03-20 02:54:38 [32minfo[39m: Abriendo modal de Quick Apply...
+2025-03-20 02:54:38 [32minfo[39m: Botón "Solicitud sencilla" clickeado, esperando apertura del modal...
+2025-03-20 02:54:45 [31merror[39m: Error al abrir el modal de Quick Apply: page.waitForSelector: Target page, context or browser has been closed
+Call log:
+[2m  - waiting for locator('.jobs-easy-apply-modal') to be visible[22m
+
+2025-03-20 02:54:45 [32minfo[39m: El modal no pudo abrirse. Pasando a la siguiente vacante.
+2025-03-20 02:54:45 [32minfo[39m: Vacante procesada. Esperando 2 segundos antes de continuar con la siguiente vacante...
+2025-03-20 03:42:47 [32minfo[39m: Iniciando bot con URL: https://www.linkedin.com/jobs/search/?currentJobId=1234567&distance=50&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true
+2025-03-20 03:42:48 [32minfo[39m: Cookies cargadas desde archivo.
+2025-03-20 03:42:49 [32minfo[39m: Aplicando retraso aleatorio de 562 ms.
+2025-03-20 03:42:55 [32minfo[39m: Usuario ya autenticado.
+2025-03-20 03:42:55 [32minfo[39m: Cookies guardadas en archivo.
+2025-03-20 03:42:55 [32minfo[39m: === INICIO DEL FLUJO DE BÚSQUEDA DE VACANTES ===
+2025-03-20 03:42:55 [32minfo[39m: Navegando a la URL de búsqueda: https://www.linkedin.com/jobs/search/?currentJobId=1234567&distance=50&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true
+2025-03-20 03:43:25 [31merror[39m: Error al cargar el listado de vacantes: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/jobs/search/?currentJobId=1234567&distance=50&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true", waiting until "networkidle"[22m
+
+2025-03-20 03:43:25 [31merror[39m: Error en FlowController: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/jobs/search/?currentJobId=1234567&distance=50&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true", waiting until "networkidle"[22m
+
+2025-03-20 03:43:25 [31merror[39m: Error en main.js: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/jobs/search/?currentJobId=1234567&distance=50&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true", waiting until "networkidle"[22m
+
+2025-03-20 04:00:28 [32minfo[39m: Iniciando bot con URL: https://www.linkedin.com/jobs/search/?currentJobId=1234567&distance=50&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true
+2025-03-20 04:00:28 [32minfo[39m: Cookies cargadas desde archivo.
+2025-03-20 04:00:28 [32minfo[39m: Aplicando retraso aleatorio de 639 ms.
+2025-03-20 04:00:32 [32minfo[39m: Usuario ya autenticado.
+2025-03-20 04:00:32 [32minfo[39m: Cookies guardadas en archivo.
+2025-03-20 04:00:33 [32minfo[39m: === INICIO DEL FLUJO DE BÚSQUEDA DE VACANTES ===
+2025-03-20 04:00:33 [32minfo[39m: Navegando a la URL de búsqueda: https://www.linkedin.com/jobs/search/?currentJobId=1234567&distance=50&f_TPR=r86400&geoId=102361989&keywords=Desarrollador&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true
+2025-03-20 04:00:35 [32minfo[39m: Listado de vacantes cargado correctamente.
+2025-03-20 04:00:35 [32minfo[39m: Buscando vacantes disponibles...
+2025-03-20 04:00:35 [32minfo[39m: Se extrajeron 7 vacantes.
+2025-03-20 04:00:35 [32minfo[39m: Total de vacantes encontradas: 7
+2025-03-20 04:00:35 [32minfo[39m: --------------------------------------------------
+2025-03-20 04:00:35 [32minfo[39m: Abriendo vacante: DENTSU K - Especialista en Google Ads con experiencia en Facturación – Remoto
+Especialista en Google Ads con experiencia en Facturación – Remoto (ID: 4185437928)
+2025-03-20 04:00:35 [32minfo[39m: Vacante "DENTSU K - Especialista en Google Ads con experiencia en Facturación – Remoto
+Especialista en Google Ads con experiencia en Facturación – Remoto" no es de Quick Apply. Se omite.
+2025-03-20 04:00:35 [32minfo[39m: --------------------------------------------------
+2025-03-20 04:00:35 [32minfo[39m: Abriendo vacante: DENTSU K - Especialista en Publicidad Digital – Facebook & Google Ads (Remoto)
+Especialista en Publicidad Digital – Facebook & Google Ads (Remoto) (ID: 4185441565)
+2025-03-20 04:00:35 [32minfo[39m: Vacante "DENTSU K - Especialista en Publicidad Digital – Facebook & Google Ads (Remoto)
+Especialista en Publicidad Digital – Facebook & Google Ads (Remoto)" no es de Quick Apply. Se omite.
+2025-03-20 04:00:35 [32minfo[39m: --------------------------------------------------
+2025-03-20 04:00:35 [32minfo[39m: Abriendo vacante: WebRTC.ventures - Senior Full Stack Developer - Audio/Video Protocols Expertise (LATAM-based only)
+Senior Full Stack Developer - Audio/Video Protocols Expertise (LATAM-based only) (ID: 4186595360)
+2025-03-20 04:00:35 [32minfo[39m: Vacante "WebRTC.ventures - Senior Full Stack Developer - Audio/Video Protocols Expertise (LATAM-based only)
+Senior Full Stack Developer - Audio/Video Protocols Expertise (LATAM-based only)" no es de Quick Apply. Se omite.
+2025-03-20 04:00:35 [32minfo[39m: --------------------------------------------------
+2025-03-20 04:00:35 [32minfo[39m: Abriendo vacante: LinkTIC - Desarrollador de front-end
+Desarrollador de front-end with verification (ID: 4189009220)
+2025-03-20 04:00:35 [32minfo[39m: Vacante "LinkTIC - Desarrollador de front-end
+Desarrollador de front-end with verification" no es de Quick Apply. Se omite.
+2025-03-20 04:00:35 [32minfo[39m: --------------------------------------------------
+2025-03-20 04:00:35 [32minfo[39m: Abriendo vacante: BairesDev - Desarrollador Java Junior - Trabajo Remoto
+Desarrollador Java Junior - Trabajo Remoto with verification (ID: 4184597060)
+2025-03-20 04:00:35 [32minfo[39m: Vacante "BairesDev - Desarrollador Java Junior - Trabajo Remoto
+Desarrollador Java Junior - Trabajo Remoto with verification" no es de Quick Apply. Se omite.
+2025-03-20 04:00:35 [32minfo[39m: --------------------------------------------------
+2025-03-20 04:00:35 [32minfo[39m: Abriendo vacante: Novatium - Consulting & Outsourcing - Programador Backend - Bogotá, Colombia
+Programador Backend - Bogotá, Colombia (ID: 4186289069)
+2025-03-20 04:00:35 [32minfo[39m: Vacante "Novatium - Consulting & Outsourcing - Programador Backend - Bogotá, Colombia
+Programador Backend - Bogotá, Colombia" no es de Quick Apply. Se omite.
+2025-03-20 04:00:35 [32minfo[39m: --------------------------------------------------
+2025-03-20 04:00:35 [32minfo[39m: Abriendo vacante: Payphone - Desarrollador de back-end
+Desarrollador de back-end (ID: 4189072881)
+2025-03-20 04:00:35 [32minfo[39m: Vacante "Payphone - Desarrollador de back-end
+Desarrollador de back-end" no es de Quick Apply. Se omite.
+2025-03-20 04:00:35 [32minfo[39m: === FINALIZO EL PROCESO DE BÚSQUEDA DE VACANTES ===
+2025-03-20 04:00:35 [32minfo[39m: Proceso de postulación finalizado.
+2025-03-20 04:02:03 [32minfo[39m: Iniciando bot con URL: https://www.linkedin.com/jobs/search/?currentJobId=4183935829&distance=50&geoId=102361989&keywords=Desarrollador&origin=JOBS_HOME_KEYWORD_HISTORY&refresh=true
+2025-03-20 04:02:04 [32minfo[39m: Cookies cargadas desde archivo.
+2025-03-20 04:02:04 [32minfo[39m: Aplicando retraso aleatorio de 796 ms.
+2025-03-20 04:02:08 [32minfo[39m: Usuario ya autenticado.
+2025-03-20 04:02:08 [32minfo[39m: Cookies guardadas en archivo.
+2025-03-20 04:02:08 [32minfo[39m: === INICIO DEL FLUJO DE BÚSQUEDA DE VACANTES ===
+2025-03-20 04:02:08 [32minfo[39m: Navegando a la URL de búsqueda: https://www.linkedin.com/jobs/search/?currentJobId=4183935829&distance=50&geoId=102361989&keywords=Desarrollador&origin=JOBS_HOME_KEYWORD_HISTORY&refresh=true
+2025-03-20 04:02:11 [32minfo[39m: Listado de vacantes cargado correctamente.
+2025-03-20 04:02:11 [32minfo[39m: Buscando vacantes disponibles...
+2025-03-20 04:02:11 [32minfo[39m: Se extrajeron 7 vacantes.
+2025-03-20 04:02:11 [32minfo[39m: Total de vacantes encontradas: 7
+2025-03-20 04:02:11 [32minfo[39m: --------------------------------------------------
+2025-03-20 04:02:11 [32minfo[39m: Abriendo vacante: Codifico - Desarrollador
+Desarrollador (ID: 4183935829)
+2025-03-20 04:02:11 [32minfo[39m: Vacante "Codifico - Desarrollador
+Desarrollador" no es de Quick Apply. Se omite.
+2025-03-20 04:02:11 [32minfo[39m: --------------------------------------------------
+2025-03-20 04:02:11 [32minfo[39m: Abriendo vacante: WeiBook - Sr. Full Stack Developer (Node.js/React/TypeScript)
+Sr. Full Stack Developer (Node.js/React/TypeScript) (ID: 4183087708)
+2025-03-20 04:02:11 [32minfo[39m: Vacante "WeiBook - Sr. Full Stack Developer (Node.js/React/TypeScript)
+Sr. Full Stack Developer (Node.js/React/TypeScript)" no es de Quick Apply. Se omite.
+2025-03-20 04:02:11 [32minfo[39m: --------------------------------------------------
+2025-03-20 04:02:11 [32minfo[39m: Abriendo vacante: NTT DATA Europe & Latam - Desarrollador(a) Frontend Mobile Junior
+Desarrollador(a) Frontend Mobile Junior with verification (ID: 4185650982)
+2025-03-20 04:02:11 [32minfo[39m: Vacante "NTT DATA Europe & Latam - Desarrollador(a) Frontend Mobile Junior
+Desarrollador(a) Frontend Mobile Junior with verification" no es de Quick Apply. Se omite.
+2025-03-20 04:02:11 [32minfo[39m: --------------------------------------------------
+2025-03-20 04:02:11 [32minfo[39m: Abriendo vacante: Luable - MejorCDT (YC S21) - Desarrollador Móvil Flutter
+Desarrollador Móvil Flutter (ID: 4181158944)
+2025-03-20 04:02:11 [32minfo[39m: Vacante "Luable - MejorCDT (YC S21) - Desarrollador Móvil Flutter
+Desarrollador Móvil Flutter" no es de Quick Apply. Se omite.
+2025-03-20 04:02:11 [32minfo[39m: --------------------------------------------------
+2025-03-20 04:02:11 [32minfo[39m: Abriendo vacante: INDI Staffing Services - React Developer - Remote
+React Developer - Remote (ID: 4188232397)
+2025-03-20 04:02:11 [32minfo[39m: Vacante "INDI Staffing Services - React Developer - Remote
+React Developer - Remote" no es de Quick Apply. Se omite.
+2025-03-20 04:02:11 [32minfo[39m: --------------------------------------------------
+2025-03-20 04:02:11 [32minfo[39m: Abriendo vacante: Confidencial - Programador full stack
+Programador full stack (ID: 4181926538)
+2025-03-20 04:02:11 [32minfo[39m: Vacante "Confidencial - Programador full stack
+Programador full stack" no es de Quick Apply. Se omite.
+2025-03-20 04:02:11 [32minfo[39m: --------------------------------------------------
+2025-03-20 04:02:11 [32minfo[39m: Abriendo vacante: Ricoh Latin America Inc - Full Stack Engineer
+Full Stack Engineer with verification (ID: 4179859035)
+2025-03-20 04:02:11 [32minfo[39m: Vacante "Ricoh Latin America Inc - Full Stack Engineer
+Full Stack Engineer with verification" no es de Quick Apply. Se omite.
+2025-03-20 04:02:11 [32minfo[39m: === FINALIZO EL PROCESO DE BÚSQUEDA DE VACANTES ===
+2025-03-20 04:02:11 [32minfo[39m: Proceso de postulación finalizado.
+2025-03-20 04:17:05 [32minfo[39m: Iniciando bot con URL: https://www.linkedin.com/jobs/search/?currentJobId=4183935829&distance=50&geoId=102361989&keywords=Desarrollador&origin=JOBS_HOME_KEYWORD_HISTORY&refresh=true
+2025-03-20 04:17:06 [32minfo[39m: Cookies cargadas desde archivo.
+2025-03-20 04:17:06 [32minfo[39m: Aplicando retraso aleatorio de 1211 ms.
+2025-03-20 04:17:11 [32minfo[39m: Usuario ya autenticado.
+2025-03-20 04:17:11 [32minfo[39m: Cookies guardadas en archivo.
+2025-03-20 04:17:11 [32minfo[39m: === INICIO DEL FLUJO DE BÚSQUEDA DE VACANTES ===
+2025-03-20 04:17:11 [32minfo[39m: Navegando a la URL de búsqueda: https://www.linkedin.com/jobs/search/?currentJobId=4183935829&distance=50&geoId=102361989&keywords=Desarrollador&origin=JOBS_HOME_KEYWORD_HISTORY&refresh=true
+2025-03-20 04:17:41 [31merror[39m: Error al cargar el listado de vacantes: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/jobs/search/?currentJobId=4183935829&distance=50&geoId=102361989&keywords=Desarrollador&origin=JOBS_HOME_KEYWORD_HISTORY&refresh=true", waiting until "networkidle"[22m
+
+2025-03-20 04:17:41 [31merror[39m: Error en FlowController: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/jobs/search/?currentJobId=4183935829&distance=50&geoId=102361989&keywords=Desarrollador&origin=JOBS_HOME_KEYWORD_HISTORY&refresh=true", waiting until "networkidle"[22m
+
+2025-03-20 04:17:41 [31merror[39m: Error en main.js: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.linkedin.com/jobs/search/?currentJobId=4183935829&distance=50&geoId=102361989&keywords=Desarrollador&origin=JOBS_HOME_KEYWORD_HISTORY&refresh=true", waiting until "networkidle"[22m
+
+2025-03-20 04:18:32 [32minfo[39m: Iniciando bot con URL: https://www.linkedin.com/jobs/search/?currentJobId=4183935829&distance=50&geoId=102361989&keywords=Desarrollador&origin=JOBS_HOME_KEYWORD_HISTORY&refresh=true
+2025-03-20 04:18:32 [32minfo[39m: Cookies cargadas desde archivo.
+2025-03-20 04:18:33 [32minfo[39m: Aplicando retraso aleatorio de 1265 ms.
+2025-03-20 04:18:36 [32minfo[39m: Usuario ya autenticado.
+2025-03-20 04:18:36 [32minfo[39m: Cookies guardadas en archivo.
+2025-03-20 04:18:36 [32minfo[39m: === INICIO DEL FLUJO DE BÚSQUEDA DE VACANTES ===
+2025-03-20 04:18:36 [32minfo[39m: Navegando a la URL de búsqueda: https://www.linkedin.com/jobs/search/?currentJobId=4183935829&distance=50&geoId=102361989&keywords=Desarrollador&origin=JOBS_HOME_KEYWORD_HISTORY&refresh=true
+2025-03-20 04:18:40 [32minfo[39m: Listado de vacantes cargado correctamente.
+2025-03-20 04:18:40 [32minfo[39m: Iniciando lazy loading de vacantes...
+2025-03-20 04:18:40 [32minfo[39m: Vacantes cargadas inicialmente: 25
+2025-03-20 04:18:42 [32minfo[39m: Vacantes cargadas tras scroll: 25
+2025-03-20 04:18:42 [32minfo[39m: Lazy loading completado. No se cargaron más vacantes.
+2025-03-20 04:18:42 [32minfo[39m: Buscando vacantes disponibles...
+2025-03-20 04:18:42 [32minfo[39m: Se extrajeron 7 vacantes.
+2025-03-20 04:18:42 [32minfo[39m: Total de vacantes encontradas: 7
+2025-03-20 04:18:42 [32minfo[39m: --------------------------------------------------
+2025-03-20 04:18:42 [32minfo[39m: Abriendo vacante: Codifico - Desarrollador
+Desarrollador (ID: 4183935829)
+2025-03-20 04:18:42 [32minfo[39m: Vacante "Codifico - Desarrollador
+Desarrollador" no es de Quick Apply. Se omite.
+2025-03-20 04:18:42 [32minfo[39m: --------------------------------------------------
+2025-03-20 04:18:42 [32minfo[39m: Abriendo vacante: WeiBook - Sr. Full Stack Developer (Node.js/React/TypeScript)
+Sr. Full Stack Developer (Node.js/React/TypeScript) (ID: 4183087708)
+2025-03-20 04:18:42 [32minfo[39m: Vacante "WeiBook - Sr. Full Stack Developer (Node.js/React/TypeScript)
+Sr. Full Stack Developer (Node.js/React/TypeScript)" no es de Quick Apply. Se omite.
+2025-03-20 04:18:42 [32minfo[39m: --------------------------------------------------
+2025-03-20 04:18:42 [32minfo[39m: Abriendo vacante: NTT DATA Europe & Latam - Desarrollador(a) Frontend Mobile Junior
+Desarrollador(a) Frontend Mobile Junior with verification (ID: 4185650982)
+2025-03-20 04:18:42 [32minfo[39m: Vacante "NTT DATA Europe & Latam - Desarrollador(a) Frontend Mobile Junior
+Desarrollador(a) Frontend Mobile Junior with verification" no es de Quick Apply. Se omite.
+2025-03-20 04:18:42 [32minfo[39m: --------------------------------------------------
+2025-03-20 04:18:42 [32minfo[39m: Abriendo vacante: Luable - MejorCDT (YC S21) - Desarrollador Móvil Flutter
+Desarrollador Móvil Flutter (ID: 4181158944)
+2025-03-20 04:18:42 [32minfo[39m: Vacante "Luable - MejorCDT (YC S21) - Desarrollador Móvil Flutter
+Desarrollador Móvil Flutter" no es de Quick Apply. Se omite.
+2025-03-20 04:18:42 [32minfo[39m: --------------------------------------------------
+2025-03-20 04:18:42 [32minfo[39m: Abriendo vacante: SII Group Colombia - Desarrollador de software de prueba
+Desarrollador de software de prueba (ID: 4171027689)
+2025-03-20 04:18:42 [32minfo[39m: Vacante "SII Group Colombia - Desarrollador de software de prueba
+Desarrollador de software de prueba" no es de Quick Apply. Se omite.
+2025-03-20 04:18:42 [32minfo[39m: --------------------------------------------------
+2025-03-20 04:18:42 [32minfo[39m: Abriendo vacante: INDI Staffing Services - React Developer - Remote
+React Developer - Remote (ID: 4188232397)
+2025-03-20 04:18:42 [32minfo[39m: Vacante "INDI Staffing Services - React Developer - Remote
+React Developer - Remote" no es de Quick Apply. Se omite.
+2025-03-20 04:18:42 [32minfo[39m: --------------------------------------------------
+2025-03-20 04:18:42 [32minfo[39m: Abriendo vacante: Confidencial - Programador full stack
+Programador full stack (ID: 4181926538)
+2025-03-20 04:18:42 [32minfo[39m: Vacante "Confidencial - Programador full stack
+Programador full stack" no es de Quick Apply. Se omite.
+2025-03-20 04:18:42 [32minfo[39m: === FINALIZO EL PROCESO DE BÚSQUEDA DE VACANTES ===
+2025-03-20 04:18:42 [32minfo[39m: Proceso de postulación finalizado.
+2025-03-20 04:27:35 [32minfo[39m: Iniciando bot con URL: https://www.linkedin.com/jobs/search/?currentJobId=4183935829&distance=50&geoId=102361989&keywords=Desarrollador&origin=JOBS_HOME_KEYWORD_HISTORY&refresh=true
+2025-03-20 04:27:35 [32minfo[39m: Cookies cargadas desde archivo.
+2025-03-20 04:27:35 [32minfo[39m: Aplicando retraso aleatorio de 858 ms.
+2025-03-20 04:27:38 [32minfo[39m: Usuario ya autenticado.
+2025-03-20 04:27:38 [32minfo[39m: Cookies guardadas en archivo.
+2025-03-20 04:27:39 [32minfo[39m: === INICIO DEL FLUJO DE BÚSQUEDA DE VACANTES ===
+2025-03-20 04:27:39 [32minfo[39m: Navegando a la URL de búsqueda: https://www.linkedin.com/jobs/search/?currentJobId=4183935829&distance=50&geoId=102361989&keywords=Desarrollador&origin=JOBS_HOME_KEYWORD_HISTORY&refresh=true
+2025-03-20 04:27:41 [32minfo[39m: Listado de vacantes cargado correctamente.
+2025-03-20 04:27:41 [32minfo[39m: Iniciando lazy loading de vacantes...
+2025-03-20 04:27:41 [32minfo[39m: Vacantes cargadas inicialmente: 7
+2025-03-20 04:27:43 [32minfo[39m: Vacantes cargadas tras scroll: 25
+2025-03-20 04:27:45 [32minfo[39m: Vacantes cargadas tras scroll: 25
+2025-03-20 04:27:45 [32minfo[39m: Lazy loading completado. No se cargaron más vacantes.
+2025-03-20 04:27:45 [32minfo[39m: Buscando vacantes disponibles...
+2025-03-20 04:27:45 [31merror[39m: Error al extraer vacantes: page.$$eval: ReferenceError: logger is not defined
+    at eval (eval at evaluate (:234:30), <anonymous>:24:15)
+    at Array.map (<anonymous>)
+    at eval (eval at evaluate (:234:30), <anonymous>:2:27)
+    at UtilityScript.evaluate (<anonymous>:236:17)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+2025-03-20 04:27:45 [31merror[39m: Error en FlowController: page.$$eval: ReferenceError: logger is not defined
+    at eval (eval at evaluate (:234:30), <anonymous>:24:15)
+    at Array.map (<anonymous>)
+    at eval (eval at evaluate (:234:30), <anonymous>:2:27)
+    at UtilityScript.evaluate (<anonymous>:236:17)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+2025-03-20 04:27:45 [31merror[39m: Error en main.js: page.$$eval: ReferenceError: logger is not defined
+    at eval (eval at evaluate (:234:30), <anonymous>:24:15)
+    at Array.map (<anonymous>)
+    at eval (eval at evaluate (:234:30), <anonymous>:2:27)
+    at UtilityScript.evaluate (<anonymous>:236:17)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+2025-03-20 04:30:27 [32minfo[39m: Iniciando bot con URL: https://www.linkedin.com/jobs/search/?currentJobId=4183935829&distance=50&geoId=102361989&keywords=Desarrollador&origin=JOBS_HOME_KEYWORD_HISTORY&refresh=true
+2025-03-20 04:30:27 [32minfo[39m: Cookies cargadas desde archivo.
+2025-03-20 04:30:27 [32minfo[39m: Aplicando retraso aleatorio de 620 ms.
+2025-03-20 04:30:30 [32minfo[39m: Usuario ya autenticado.
+2025-03-20 04:30:30 [32minfo[39m: Cookies guardadas en archivo.
+2025-03-20 04:30:31 [32minfo[39m: === INICIO DEL FLUJO DE BÚSQUEDA DE VACANTES ===
+2025-03-20 04:30:31 [32minfo[39m: Navegando a la URL de búsqueda: https://www.linkedin.com/jobs/search/?currentJobId=4183935829&distance=50&geoId=102361989&keywords=Desarrollador&origin=JOBS_HOME_KEYWORD_HISTORY&refresh=true
+2025-03-20 04:30:33 [32minfo[39m: Listado de vacantes cargado correctamente.
+2025-03-20 04:30:33 [32minfo[39m: Iniciando lazy loading de vacantes...
+2025-03-20 04:30:33 [32minfo[39m: Vacantes cargadas inicialmente: 7
+2025-03-20 04:30:35 [32minfo[39m: Vacantes cargadas tras scroll: 25
+2025-03-20 04:30:37 [32minfo[39m: Vacantes cargadas tras scroll: 25
+2025-03-20 04:30:37 [32minfo[39m: Lazy loading completado. No se cargaron más vacantes.
+2025-03-20 04:30:37 [32minfo[39m: Buscando vacantes disponibles...
+2025-03-20 04:30:37 [32minfo[39m: Se extrajeron 7 vacantes.
+2025-03-20 04:30:37 [32minfo[39m: Total de vacantes encontradas: 7
+2025-03-20 04:30:37 [32minfo[39m: --------------------------------------------------
+2025-03-20 04:30:37 [32minfo[39m: Abriendo vacante: Codifico - Desarrollador
+Desarrollador (ID: 4183935829)
+2025-03-20 04:30:37 [32minfo[39m: Vacante "Codifico - Desarrollador
+Desarrollador" no es de Quick Apply. Se omite.
+2025-03-20 04:30:37 [32minfo[39m: --------------------------------------------------
+2025-03-20 04:30:37 [32minfo[39m: Abriendo vacante: WeiBook - Sr. Full Stack Developer (Node.js/React/TypeScript)
+Sr. Full Stack Developer (Node.js/React/TypeScript) (ID: 4183087708)
+2025-03-20 04:30:37 [32minfo[39m: Vacante "WeiBook - Sr. Full Stack Developer (Node.js/React/TypeScript)
+Sr. Full Stack Developer (Node.js/React/TypeScript)" no es de Quick Apply. Se omite.
+2025-03-20 04:30:37 [32minfo[39m: --------------------------------------------------
+2025-03-20 04:30:37 [32minfo[39m: Abriendo vacante: NTT DATA Europe & Latam - Desarrollador(a) Frontend Mobile Junior
+Desarrollador(a) Frontend Mobile Junior with verification (ID: 4185650982)
+2025-03-20 04:30:37 [32minfo[39m: Vacante "NTT DATA Europe & Latam - Desarrollador(a) Frontend Mobile Junior
+Desarrollador(a) Frontend Mobile Junior with verification" no es de Quick Apply. Se omite.
+2025-03-20 04:30:37 [32minfo[39m: --------------------------------------------------
+2025-03-20 04:30:37 [32minfo[39m: Abriendo vacante: Luable - MejorCDT (YC S21) - Desarrollador Móvil Flutter
+Desarrollador Móvil Flutter (ID: 4181158944)
+2025-03-20 04:30:37 [32minfo[39m: Vacante "Luable - MejorCDT (YC S21) - Desarrollador Móvil Flutter
+Desarrollador Móvil Flutter" no es de Quick Apply. Se omite.
+2025-03-20 04:30:37 [32minfo[39m: --------------------------------------------------
+2025-03-20 04:30:37 [32minfo[39m: Abriendo vacante: INDI Staffing Services - React Developer - Remote
+React Developer - Remote (ID: 4188232397)
+2025-03-20 04:30:37 [32minfo[39m: Vacante "INDI Staffing Services - React Developer - Remote
+React Developer - Remote" no es de Quick Apply. Se omite.
+2025-03-20 04:30:37 [32minfo[39m: --------------------------------------------------
+2025-03-20 04:30:37 [32minfo[39m: Abriendo vacante: Confidencial - Programador full stack
+Programador full stack (ID: 4181926538)
+2025-03-20 04:30:37 [32minfo[39m: Vacante "Confidencial - Programador full stack
+Programador full stack" no es de Quick Apply. Se omite.
+2025-03-20 04:30:37 [32minfo[39m: --------------------------------------------------
+2025-03-20 04:30:37 [32minfo[39m: Abriendo vacante: Ricoh Latin America Inc - Full Stack Engineer
+Full Stack Engineer with verification (ID: 4179859035)
+2025-03-20 04:30:37 [32minfo[39m: Vacante "Ricoh Latin America Inc - Full Stack Engineer
+Full Stack Engineer with verification" no es de Quick Apply. Se omite.
+2025-03-20 04:30:37 [32minfo[39m: === FINALIZO EL PROCESO DE BÚSQUEDA DE VACANTES ===
+2025-03-20 04:30:37 [32minfo[39m: Proceso de postulación finalizado.
+2025-03-20 04:43:17 [32minfo[39m: Iniciando bot con URL: https://www.linkedin.com/jobs/search/?currentJobId=4183935829&distance=50&geoId=102361989&keywords=Desarrollador&origin=JOBS_HOME_KEYWORD_HISTORY&refresh=true
+2025-03-20 04:43:18 [32minfo[39m: Cookies cargadas desde archivo.
+2025-03-20 04:43:18 [32minfo[39m: Aplicando retraso aleatorio de 542 ms.
+2025-03-20 04:43:21 [32minfo[39m: Usuario ya autenticado.
+2025-03-20 04:43:21 [32minfo[39m: Cookies guardadas en archivo.
+2025-03-20 04:43:22 [32minfo[39m: === INICIO DEL FLUJO DE BÚSQUEDA DE VACANTES ===
+2025-03-20 04:43:22 [32minfo[39m: Navegando a la URL de búsqueda: https://www.linkedin.com/jobs/search/?currentJobId=4183935829&distance=50&geoId=102361989&keywords=Desarrollador&origin=JOBS_HOME_KEYWORD_HISTORY&refresh=true
+2025-03-20 04:43:24 [32minfo[39m: Listado de vacantes cargado correctamente.
+2025-03-20 04:43:24 [32minfo[39m: Iniciando lazy loading de vacantes...
+2025-03-20 04:43:25 [32minfo[39m: Vacantes cargadas inicialmente: 25
+2025-03-20 04:43:27 [32minfo[39m: Vacantes cargadas tras scroll: 25
+2025-03-20 04:43:27 [32minfo[39m: Lazy loading completado. No se cargaron más vacantes.
+2025-03-20 04:43:27 [32minfo[39m: Buscando vacantes disponibles...
+2025-03-20 04:43:27 [32minfo[39m: Se extrajeron 7 vacantes.
+2025-03-20 04:43:27 [32minfo[39m: Total de vacantes encontradas: 7
+2025-03-20 04:43:27 [32minfo[39m: --------------------------------------------------
+2025-03-20 04:43:27 [32minfo[39m: Abriendo vacante: Codifico - Desarrollador
+Desarrollador (ID: 4183935829)
+2025-03-20 04:43:27 [32minfo[39m: Vacante "Codifico - Desarrollador
+Desarrollador" no es de Quick Apply. Se omite.
+2025-03-20 04:43:27 [32minfo[39m: --------------------------------------------------
+2025-03-20 04:43:27 [32minfo[39m: Abriendo vacante: WeiBook - Sr. Full Stack Developer (Node.js/React/TypeScript)
+Sr. Full Stack Developer (Node.js/React/TypeScript) (ID: 4183087708)
+2025-03-20 04:43:27 [32minfo[39m: Vacante "WeiBook - Sr. Full Stack Developer (Node.js/React/TypeScript)
+Sr. Full Stack Developer (Node.js/React/TypeScript)" no es de Quick Apply. Se omite.
+2025-03-20 04:43:27 [32minfo[39m: --------------------------------------------------
+2025-03-20 04:43:27 [32minfo[39m: Abriendo vacante: NTT DATA Europe & Latam - Desarrollador(a) Frontend Mobile Junior
+Desarrollador(a) Frontend Mobile Junior with verification (ID: 4185650982)
+2025-03-20 04:43:27 [32minfo[39m: Vacante "NTT DATA Europe & Latam - Desarrollador(a) Frontend Mobile Junior
+Desarrollador(a) Frontend Mobile Junior with verification" no es de Quick Apply. Se omite.
+2025-03-20 04:43:27 [32minfo[39m: --------------------------------------------------
+2025-03-20 04:43:27 [32minfo[39m: Abriendo vacante: Luable - MejorCDT (YC S21) - Desarrollador Móvil Flutter
+Desarrollador Móvil Flutter (ID: 4181158944)
+2025-03-20 04:43:27 [32minfo[39m: Vacante "Luable - MejorCDT (YC S21) - Desarrollador Móvil Flutter
+Desarrollador Móvil Flutter" no es de Quick Apply. Se omite.
+2025-03-20 04:43:27 [32minfo[39m: --------------------------------------------------
+2025-03-20 04:43:27 [32minfo[39m: Abriendo vacante: Confidencial - Programador full stack
+Programador full stack (ID: 4181926538)
+2025-03-20 04:43:27 [32minfo[39m: Vacante "Confidencial - Programador full stack
+Programador full stack" no es de Quick Apply. Se omite.
+2025-03-20 04:43:27 [32minfo[39m: --------------------------------------------------
+2025-03-20 04:43:27 [32minfo[39m: Abriendo vacante: INDI Staffing Services - React Developer - Remote
+React Developer - Remote (ID: 4188232397)
+2025-03-20 04:43:27 [32minfo[39m: Vacante "INDI Staffing Services - React Developer - Remote
+React Developer - Remote" no es de Quick Apply. Se omite.
+2025-03-20 04:43:27 [32minfo[39m: --------------------------------------------------
+2025-03-20 04:43:27 [32minfo[39m: Abriendo vacante: Ricoh Latin America Inc - Full Stack Engineer
+Full Stack Engineer with verification (ID: 4179859035)
+2025-03-20 04:43:27 [32minfo[39m: Vacante "Ricoh Latin America Inc - Full Stack Engineer
+Full Stack Engineer with verification" no es de Quick Apply. Se omite.
+2025-03-20 04:43:27 [32minfo[39m: === FINALIZO EL PROCESO DE BÚSQUEDA DE VACANTES ===
+2025-03-20 04:43:27 [32minfo[39m: Proceso de postulación finalizado.
+2025-03-20 04:45:40 [32minfo[39m: Iniciando bot con URL: https://www.linkedin.com/jobs/search/?currentJobId=4183935829&distance=50&geoId=102361989&keywords=Desarrollador&origin=JOBS_HOME_KEYWORD_HISTORY&refresh=true
+2025-03-20 04:45:40 [32minfo[39m: Cookies cargadas desde archivo.
+2025-03-20 04:45:40 [32minfo[39m: Aplicando retraso aleatorio de 1432 ms.
+2025-03-20 04:45:44 [32minfo[39m: Usuario ya autenticado.
+2025-03-20 04:45:44 [32minfo[39m: Cookies guardadas en archivo.
+2025-03-20 04:45:45 [32minfo[39m: === INICIO DEL FLUJO DE BÚSQUEDA DE VACANTES ===
+2025-03-20 04:45:45 [32minfo[39m: Navegando a la URL de búsqueda: https://www.linkedin.com/jobs/search/?currentJobId=4183935829&distance=50&geoId=102361989&keywords=Desarrollador&origin=JOBS_HOME_KEYWORD_HISTORY&refresh=true
+2025-03-20 04:45:47 [32minfo[39m: Listado de vacantes cargado correctamente.
+2025-03-20 04:45:47 [32minfo[39m: Iniciando lazy loading de vacantes...
+2025-03-20 04:45:47 [32minfo[39m: Vacantes cargadas inicialmente: 7
+2025-03-20 04:45:49 [32minfo[39m: Vacantes cargadas tras scroll: 25
+2025-03-20 04:45:51 [32minfo[39m: Vacantes cargadas tras scroll: 25
+2025-03-20 04:45:51 [32minfo[39m: Lazy loading completado. No se cargaron más vacantes.
+2025-03-20 04:45:51 [32minfo[39m: Buscando vacantes disponibles...
+2025-03-20 04:45:51 [32minfo[39m: Se extrajeron 7 vacantes.
+2025-03-20 04:45:51 [32minfo[39m: Total de vacantes encontradas: 7
+2025-03-20 04:45:51 [32minfo[39m: --------------------------------------------------
+2025-03-20 04:45:51 [32minfo[39m: Abriendo vacante: Codifico - Desarrollador
+Desarrollador (ID: 4183935829)
+2025-03-20 04:45:51 [32minfo[39m: Vacante "Codifico - Desarrollador
+Desarrollador" no es de Quick Apply. Se omite.
+2025-03-20 04:45:51 [32minfo[39m: --------------------------------------------------
+2025-03-20 04:45:51 [32minfo[39m: Abriendo vacante: WeiBook - Sr. Full Stack Developer (Node.js/React/TypeScript)
+Sr. Full Stack Developer (Node.js/React/TypeScript) (ID: 4183087708)
+2025-03-20 04:45:51 [32minfo[39m: Vacante "WeiBook - Sr. Full Stack Developer (Node.js/React/TypeScript)
+Sr. Full Stack Developer (Node.js/React/TypeScript)" no es de Quick Apply. Se omite.
+2025-03-20 04:45:51 [32minfo[39m: --------------------------------------------------
+2025-03-20 04:45:51 [32minfo[39m: Abriendo vacante: NTT DATA Europe & Latam - Desarrollador(a) Frontend Mobile Junior
+Desarrollador(a) Frontend Mobile Junior with verification (ID: 4185650982)
+2025-03-20 04:45:51 [32minfo[39m: Vacante "NTT DATA Europe & Latam - Desarrollador(a) Frontend Mobile Junior
+Desarrollador(a) Frontend Mobile Junior with verification" no es de Quick Apply. Se omite.
+2025-03-20 04:45:51 [32minfo[39m: --------------------------------------------------
+2025-03-20 04:45:51 [32minfo[39m: Abriendo vacante: Luable - MejorCDT (YC S21) - Desarrollador Móvil Flutter
+Desarrollador Móvil Flutter (ID: 4181158944)
+2025-03-20 04:45:51 [32minfo[39m: Vacante "Luable - MejorCDT (YC S21) - Desarrollador Móvil Flutter
+Desarrollador Móvil Flutter" no es de Quick Apply. Se omite.
+2025-03-20 04:45:51 [32minfo[39m: --------------------------------------------------
+2025-03-20 04:45:51 [32minfo[39m: Abriendo vacante: Confidencial - Programador full stack
+Programador full stack (ID: 4181926538)
+2025-03-20 04:45:51 [32minfo[39m: Vacante "Confidencial - Programador full stack
+Programador full stack" no es de Quick Apply. Se omite.
+2025-03-20 04:45:51 [32minfo[39m: --------------------------------------------------
+2025-03-20 04:45:51 [32minfo[39m: Abriendo vacante: INDI Staffing Services - React Developer - Remote
+React Developer - Remote (ID: 4188232397)
+2025-03-20 04:45:51 [32minfo[39m: Vacante "INDI Staffing Services - React Developer - Remote
+React Developer - Remote" no es de Quick Apply. Se omite.
+2025-03-20 04:45:51 [32minfo[39m: --------------------------------------------------
+2025-03-20 04:45:51 [32minfo[39m: Abriendo vacante: Ricoh Latin America Inc - Full Stack Engineer
+Full Stack Engineer with verification (ID: 4179859035)
+2025-03-20 04:45:51 [32minfo[39m: Vacante "Ricoh Latin America Inc - Full Stack Engineer
+Full Stack Engineer with verification" no es de Quick Apply. Se omite.
+2025-03-20 04:45:51 [32minfo[39m: === FINALIZO EL PROCESO DE BÚSQUEDA DE VACANTES ===
+2025-03-20 04:45:51 [32minfo[39m: Proceso de postulación finalizado.
+2025-03-20 04:48:34 [32minfo[39m: Iniciando bot con URL: https://www.linkedin.com/jobs/search/?currentJobId=4183935829&distance=50&geoId=102361989&keywords=Desarrollador&origin=JOBS_HOME_KEYWORD_HISTORY&refresh=true
+2025-03-20 04:48:34 [32minfo[39m: Cookies cargadas desde archivo.
+2025-03-20 04:48:34 [32minfo[39m: Aplicando retraso aleatorio de 983 ms.
+2025-03-20 04:48:38 [32minfo[39m: Usuario ya autenticado.
+2025-03-20 04:48:38 [32minfo[39m: Cookies guardadas en archivo.
+2025-03-20 04:48:39 [32minfo[39m: JobListModule inicializado.
+2025-03-20 04:48:39 [32minfo[39m: === INICIO DEL FLUJO DE BÚSQUEDA DE VACANTES ===
+2025-03-20 04:48:39 [32minfo[39m: Navegando a la URL de búsqueda: https://www.linkedin.com/jobs/search/?currentJobId=4183935829&distance=50&geoId=102361989&keywords=Desarrollador&origin=JOBS_HOME_KEYWORD_HISTORY&refresh=true
+2025-03-20 04:48:39 [32minfo[39m: loadJobList: Navegando a la URL: https://www.linkedin.com/jobs/search/?currentJobId=4183935829&distance=50&geoId=102361989&keywords=Desarrollador&origin=JOBS_HOME_KEYWORD_HISTORY&refresh=true
+2025-03-20 04:48:40 [32minfo[39m: loadJobList: Esperando a que aparezcan elementos 'li.scaffold-layout__list-item'...
+2025-03-20 04:48:41 [32minfo[39m: loadJobList: Página cargada correctamente con los elementos de vacantes.
+2025-03-20 04:48:41 [32minfo[39m: loadAllJobs: Iniciando lazy loading de vacantes...
+2025-03-20 04:48:41 [32minfo[39m: loadAllJobs: Vacantes cargadas inicialmente: 7
+2025-03-20 04:48:41 [32minfo[39m: loadAllJobs: Se encontró que currentCount (7) es mayor que previousCount (0). Realizando scroll...
+2025-03-20 04:48:43 [32minfo[39m: loadAllJobs: Vacantes cargadas tras scroll: 25
+2025-03-20 04:48:43 [32minfo[39m: loadAllJobs: Se encontró que currentCount (25) es mayor que previousCount (7). Realizando scroll...
+2025-03-20 04:48:45 [32minfo[39m: loadAllJobs: Vacantes cargadas tras scroll: 25
+2025-03-20 04:48:45 [32minfo[39m: loadAllJobs: Lazy loading completado. No se cargaron más vacantes.
+2025-03-20 04:48:45 [32minfo[39m: Buscando vacantes disponibles...
+2025-03-20 04:48:45 [32minfo[39m: getJobs: Iniciando extracción de vacantes...
+2025-03-20 04:48:45 [31merror[39m: getJobs: Error al extraer vacantes: page.$$eval: ReferenceError: logger is not defined
+    at eval (eval at evaluate (:234:30), <anonymous>:31:13)
+    at Array.map (<anonymous>)
+    at eval (eval at evaluate (:234:30), <anonymous>:2:27)
+    at UtilityScript.evaluate (<anonymous>:236:17)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+2025-03-20 04:48:45 [31merror[39m: Error en FlowController: page.$$eval: ReferenceError: logger is not defined
+    at eval (eval at evaluate (:234:30), <anonymous>:31:13)
+    at Array.map (<anonymous>)
+    at eval (eval at evaluate (:234:30), <anonymous>:2:27)
+    at UtilityScript.evaluate (<anonymous>:236:17)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+2025-03-20 04:48:45 [31merror[39m: Error en main.js: page.$$eval: ReferenceError: logger is not defined
+    at eval (eval at evaluate (:234:30), <anonymous>:31:13)
+    at Array.map (<anonymous>)
+    at eval (eval at evaluate (:234:30), <anonymous>:2:27)
+    at UtilityScript.evaluate (<anonymous>:236:17)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+2025-03-20 04:52:11 [32minfo[39m: Iniciando bot con URL: https://www.linkedin.com/jobs/search/?currentJobId=4183935829&distance=50&geoId=102361989&keywords=Desarrollador&origin=JOBS_HOME_KEYWORD_HISTORY&refresh=true
+2025-03-20 04:52:11 [32minfo[39m: Cookies cargadas desde archivo.
+2025-03-20 04:52:12 [32minfo[39m: Aplicando retraso aleatorio de 697 ms.
+2025-03-20 04:52:15 [32minfo[39m: Usuario ya autenticado.
+2025-03-20 04:52:15 [32minfo[39m: Cookies guardadas en archivo.
+2025-03-20 04:52:15 [32minfo[39m: JobListModule inicializado.
+2025-03-20 04:52:15 [32minfo[39m: === INICIO DEL FLUJO DE BÚSQUEDA DE VACANTES ===
+2025-03-20 04:52:15 [32minfo[39m: Navegando a la URL de búsqueda: https://www.linkedin.com/jobs/search/?currentJobId=4183935829&distance=50&geoId=102361989&keywords=Desarrollador&origin=JOBS_HOME_KEYWORD_HISTORY&refresh=true
+2025-03-20 04:52:15 [32minfo[39m: loadJobList: Navegando a la URL: https://www.linkedin.com/jobs/search/?currentJobId=4183935829&distance=50&geoId=102361989&keywords=Desarrollador&origin=JOBS_HOME_KEYWORD_HISTORY&refresh=true
+2025-03-20 04:52:17 [32minfo[39m: loadJobList: Esperando a que aparezcan elementos 'li.scaffold-layout__list-item'...
+2025-03-20 04:52:18 [32minfo[39m: loadJobList: Página cargada correctamente con los elementos de vacantes.
+2025-03-20 04:52:18 [32minfo[39m: loadAllJobs: Iniciando lazy loading de vacantes...
+2025-03-20 04:52:18 [32minfo[39m: loadAllJobs: Vacantes cargadas inicialmente: 7
+2025-03-20 04:52:18 [32minfo[39m: loadAllJobs: Se encontró que currentCount (7) es mayor que previousCount (0). Realizando scroll...
+2025-03-20 04:52:20 [32minfo[39m: loadAllJobs: Vacantes cargadas tras scroll: 25
+2025-03-20 04:52:20 [32minfo[39m: loadAllJobs: Se encontró que currentCount (25) es mayor que previousCount (7). Realizando scroll...
+2025-03-20 04:52:22 [32minfo[39m: loadAllJobs: Vacantes cargadas tras scroll: 25
+2025-03-20 04:52:22 [32minfo[39m: loadAllJobs: Lazy loading completado. No se cargaron más vacantes.
+2025-03-20 04:52:22 [32minfo[39m: Buscando vacantes disponibles...
+2025-03-20 04:52:22 [32minfo[39m: getJobs: Iniciando extracción de vacantes...
+2025-03-20 04:52:23 [32minfo[39m: getJobs: Se extrajeron 7 vacantes.
+2025-03-20 04:52:23 [32minfo[39m: Total de vacantes encontradas: 7
+2025-03-20 04:52:23 [32minfo[39m: --------------------------------------------------
+2025-03-20 04:52:23 [32minfo[39m: Abriendo vacante: Codifico - Desarrollador
+Desarrollador (ID: 4183935829)
+2025-03-20 04:52:23 [32minfo[39m: Vacante "Codifico - Desarrollador
+Desarrollador" no es de Quick Apply. Se omite.
+2025-03-20 04:52:23 [32minfo[39m: --------------------------------------------------
+2025-03-20 04:52:23 [32minfo[39m: Abriendo vacante: WeiBook - Sr. Full Stack Developer (Node.js/React/TypeScript)
+Sr. Full Stack Developer (Node.js/React/TypeScript) (ID: 4183087708)
+2025-03-20 04:52:23 [32minfo[39m: Vacante "WeiBook - Sr. Full Stack Developer (Node.js/React/TypeScript)
+Sr. Full Stack Developer (Node.js/React/TypeScript)" no es de Quick Apply. Se omite.
+2025-03-20 04:52:23 [32minfo[39m: --------------------------------------------------
+2025-03-20 04:52:23 [32minfo[39m: Abriendo vacante: NTT DATA Europe & Latam - Desarrollador(a) Frontend Mobile Junior
+Desarrollador(a) Frontend Mobile Junior with verification (ID: 4185650982)
+2025-03-20 04:52:23 [32minfo[39m: Vacante "NTT DATA Europe & Latam - Desarrollador(a) Frontend Mobile Junior
+Desarrollador(a) Frontend Mobile Junior with verification" no es de Quick Apply. Se omite.
+2025-03-20 04:52:23 [32minfo[39m: --------------------------------------------------
+2025-03-20 04:52:23 [32minfo[39m: Abriendo vacante: Luable - MejorCDT (YC S21) - Desarrollador Móvil Flutter
+Desarrollador Móvil Flutter (ID: 4181158944)
+2025-03-20 04:52:23 [32minfo[39m: Vacante "Luable - MejorCDT (YC S21) - Desarrollador Móvil Flutter
+Desarrollador Móvil Flutter" no es de Quick Apply. Se omite.
+2025-03-20 04:52:23 [32minfo[39m: --------------------------------------------------
+2025-03-20 04:52:23 [32minfo[39m: Abriendo vacante: Stefanini LATAM - FullStack Developer NodeJs - React
+FullStack Developer NodeJs - React with verification (ID: 4176290816)
+2025-03-20 04:52:23 [32minfo[39m: Vacante "Stefanini LATAM - FullStack Developer NodeJs - React
+FullStack Developer NodeJs - React with verification" no es de Quick Apply. Se omite.
+2025-03-20 04:52:23 [32minfo[39m: --------------------------------------------------
+2025-03-20 04:52:23 [32minfo[39m: Abriendo vacante: Confidencial - Programador full stack
+Programador full stack (ID: 4181926538)
+2025-03-20 04:52:23 [32minfo[39m: Vacante "Confidencial - Programador full stack
+Programador full stack" no es de Quick Apply. Se omite.
+2025-03-20 04:52:23 [32minfo[39m: --------------------------------------------------
+2025-03-20 04:52:23 [32minfo[39m: Abriendo vacante: INDI Staffing Services - React Developer - Remote
+React Developer - Remote (ID: 4188232397)
+2025-03-20 04:52:23 [32minfo[39m: Vacante "INDI Staffing Services - React Developer - Remote
+React Developer - Remote" no es de Quick Apply. Se omite.
+2025-03-20 04:52:23 [32minfo[39m: === FINALIZO EL PROCESO DE BÚSQUEDA DE VACANTES ===
+2025-03-20 04:52:23 [32minfo[39m: Proceso de postulación finalizado.
+2025-03-20 04:53:24 [32minfo[39m: Iniciando bot con URL: https://www.linkedin.com/jobs/search/?currentJobId=4183935829&distance=50&geoId=102361989&keywords=Desarrollador&origin=JOBS_HOME_KEYWORD_HISTORY&refresh=true
+2025-03-20 04:53:25 [32minfo[39m: Cookies cargadas desde archivo.
+2025-03-20 04:53:25 [32minfo[39m: Aplicando retraso aleatorio de 825 ms.
+2025-03-20 04:53:28 [32minfo[39m: Usuario ya autenticado.
+2025-03-20 04:53:28 [32minfo[39m: Cookies guardadas en archivo.
+2025-03-20 04:53:29 [32minfo[39m: JobListModule inicializado.
+2025-03-20 04:53:29 [32minfo[39m: === INICIO DEL FLUJO DE BÚSQUEDA DE VACANTES ===
+2025-03-20 04:53:29 [32minfo[39m: Navegando a la URL de búsqueda: https://www.linkedin.com/jobs/search/?currentJobId=4183935829&distance=50&geoId=102361989&keywords=Desarrollador&origin=JOBS_HOME_KEYWORD_HISTORY&refresh=true
+2025-03-20 04:53:29 [32minfo[39m: loadJobList: Navegando a la URL: https://www.linkedin.com/jobs/search/?currentJobId=4183935829&distance=50&geoId=102361989&keywords=Desarrollador&origin=JOBS_HOME_KEYWORD_HISTORY&refresh=true
+2025-03-20 04:53:30 [32minfo[39m: loadJobList: Esperando a que aparezcan elementos 'li.scaffold-layout__list-item'...
+2025-03-20 04:53:31 [32minfo[39m: loadJobList: Página cargada correctamente con los elementos de vacantes.
+2025-03-20 04:53:31 [32minfo[39m: loadAllJobs: Iniciando lazy loading de vacantes...
+2025-03-20 04:53:31 [32minfo[39m: loadAllJobs: Vacantes cargadas inicialmente: 7
+2025-03-20 04:53:31 [32minfo[39m: loadAllJobs: Se encontró que currentCount (7) es mayor que previousCount (0). Realizando scroll...
+2025-03-20 04:53:34 [32minfo[39m: loadAllJobs: Vacantes cargadas tras scroll: 25
+2025-03-20 04:53:34 [32minfo[39m: loadAllJobs: Se encontró que currentCount (25) es mayor que previousCount (7). Realizando scroll...
+2025-03-20 04:53:36 [32minfo[39m: loadAllJobs: Vacantes cargadas tras scroll: 25
+2025-03-20 04:53:36 [32minfo[39m: loadAllJobs: Lazy loading completado. No se cargaron más vacantes.
+2025-03-20 04:53:36 [32minfo[39m: Buscando vacantes disponibles...
+2025-03-20 04:53:36 [32minfo[39m: getJobs: Iniciando extracción de vacantes...
+2025-03-20 04:53:36 [32minfo[39m: getJobs: Se extrajeron 7 vacantes.
+2025-03-20 04:53:36 [32minfo[39m: Total de vacantes encontradas: 7
+2025-03-20 04:53:36 [32minfo[39m: --------------------------------------------------
+2025-03-20 04:53:36 [32minfo[39m: Abriendo vacante: Codifico - Desarrollador
+Desarrollador (ID: 4183935829)
+2025-03-20 04:53:36 [32minfo[39m: Vacante "Codifico - Desarrollador
+Desarrollador" no es de Quick Apply. Se omite.
+2025-03-20 04:53:36 [32minfo[39m: --------------------------------------------------
+2025-03-20 04:53:36 [32minfo[39m: Abriendo vacante: WeiBook - Sr. Full Stack Developer (Node.js/React/TypeScript)
+Sr. Full Stack Developer (Node.js/React/TypeScript) (ID: 4183087708)
+2025-03-20 04:53:36 [32minfo[39m: Vacante "WeiBook - Sr. Full Stack Developer (Node.js/React/TypeScript)
+Sr. Full Stack Developer (Node.js/React/TypeScript)" no es de Quick Apply. Se omite.
+2025-03-20 04:53:36 [32minfo[39m: --------------------------------------------------
+2025-03-20 04:53:36 [32minfo[39m: Abriendo vacante: NTT DATA Europe & Latam - Desarrollador(a) Frontend Mobile Junior
+Desarrollador(a) Frontend Mobile Junior with verification (ID: 4185650982)
+2025-03-20 04:53:36 [32minfo[39m: Vacante "NTT DATA Europe & Latam - Desarrollador(a) Frontend Mobile Junior
+Desarrollador(a) Frontend Mobile Junior with verification" no es de Quick Apply. Se omite.
+2025-03-20 04:53:36 [32minfo[39m: --------------------------------------------------
+2025-03-20 04:53:36 [32minfo[39m: Abriendo vacante: Luable - MejorCDT (YC S21) - Desarrollador Móvil Flutter
+Desarrollador Móvil Flutter (ID: 4181158944)
+2025-03-20 04:53:36 [32minfo[39m: Vacante "Luable - MejorCDT (YC S21) - Desarrollador Móvil Flutter
+Desarrollador Móvil Flutter" no es de Quick Apply. Se omite.
+2025-03-20 04:53:36 [32minfo[39m: --------------------------------------------------
+2025-03-20 04:53:36 [32minfo[39m: Abriendo vacante: Stefanini LATAM - FullStack Developer NodeJs - React
+FullStack Developer NodeJs - React with verification (ID: 4176290816)
+2025-03-20 04:53:36 [32minfo[39m: Vacante "Stefanini LATAM - FullStack Developer NodeJs - React
+FullStack Developer NodeJs - React with verification" no es de Quick Apply. Se omite.
+2025-03-20 04:53:36 [32minfo[39m: --------------------------------------------------
+2025-03-20 04:53:36 [32minfo[39m: Abriendo vacante: Confidencial - Programador full stack
+Programador full stack (ID: 4181926538)
+2025-03-20 04:53:36 [32minfo[39m: Vacante "Confidencial - Programador full stack
+Programador full stack" no es de Quick Apply. Se omite.
+2025-03-20 04:53:36 [32minfo[39m: --------------------------------------------------
+2025-03-20 04:53:36 [32minfo[39m: Abriendo vacante: INDI Staffing Services - React Developer - Remote
+React Developer - Remote (ID: 4188232397)
+2025-03-20 04:53:36 [32minfo[39m: Vacante "INDI Staffing Services - React Developer - Remote
+React Developer - Remote" no es de Quick Apply. Se omite.
+2025-03-20 04:53:36 [32minfo[39m: === FINALIZO EL PROCESO DE BÚSQUEDA DE VACANTES ===
+2025-03-20 04:53:36 [32minfo[39m: Proceso de postulación finalizado.
+2025-03-20 04:54:32 [32minfo[39m: Iniciando bot con URL: https://www.linkedin.com/jobs/search/?currentJobId=4183935829&distance=50&geoId=102361989&keywords=Desarrollador&origin=JOBS_HOME_KEYWORD_HISTORY&refresh=true
+2025-03-20 04:54:32 [32minfo[39m: Cookies cargadas desde archivo.
+2025-03-20 04:54:32 [32minfo[39m: Aplicando retraso aleatorio de 1202 ms.
+2025-03-20 04:54:36 [32minfo[39m: Usuario ya autenticado.
+2025-03-20 04:54:36 [32minfo[39m: Cookies guardadas en archivo.
+2025-03-20 04:54:37 [32minfo[39m: JobListModule inicializado.
+2025-03-20 04:54:37 [32minfo[39m: === INICIO DEL FLUJO DE BÚSQUEDA DE VACANTES ===
+2025-03-20 04:54:37 [32minfo[39m: Navegando a la URL de búsqueda: https://www.linkedin.com/jobs/search/?currentJobId=4183935829&distance=50&geoId=102361989&keywords=Desarrollador&origin=JOBS_HOME_KEYWORD_HISTORY&refresh=true
+2025-03-20 04:54:37 [32minfo[39m: loadJobList: Navegando a la URL: https://www.linkedin.com/jobs/search/?currentJobId=4183935829&distance=50&geoId=102361989&keywords=Desarrollador&origin=JOBS_HOME_KEYWORD_HISTORY&refresh=true
+2025-03-20 04:54:38 [32minfo[39m: loadJobList: Esperando a que aparezcan elementos 'li.scaffold-layout__list-item'...
+2025-03-20 04:54:39 [32minfo[39m: loadJobList: Página cargada correctamente con los elementos de vacantes.
+2025-03-20 04:54:39 [32minfo[39m: loadAllJobs: Iniciando lazy loading de vacantes...
+2025-03-20 04:54:39 [32minfo[39m: loadAllJobs: Vacantes cargadas inicialmente: 7
+2025-03-20 04:54:39 [32minfo[39m: loadAllJobs: Se encontró que currentCount (7) es mayor que previousCount (0). Realizando scroll...
+2025-03-20 04:54:41 [32minfo[39m: loadAllJobs: Vacantes cargadas tras scroll: 25
+2025-03-20 04:54:41 [32minfo[39m: loadAllJobs: Se encontró que currentCount (25) es mayor que previousCount (7). Realizando scroll...
+2025-03-20 04:54:43 [32minfo[39m: loadAllJobs: Vacantes cargadas tras scroll: 25
+2025-03-20 04:54:43 [32minfo[39m: loadAllJobs: Lazy loading completado. No se cargaron más vacantes.
+2025-03-20 04:54:43 [32minfo[39m: Buscando vacantes disponibles...
+2025-03-20 04:54:43 [32minfo[39m: getJobs: Iniciando extracción de vacantes...
+2025-03-20 04:54:43 [32minfo[39m: getJobs: Se extrajeron 7 vacantes.
+2025-03-20 04:54:43 [32minfo[39m: Total de vacantes encontradas: 7
+2025-03-20 04:54:43 [32minfo[39m: --------------------------------------------------
+2025-03-20 04:54:43 [32minfo[39m: Abriendo vacante: Codifico - Desarrollador
+Desarrollador (ID: 4183935829)
+2025-03-20 04:54:43 [32minfo[39m: Vacante "Codifico - Desarrollador
+Desarrollador" no es de Quick Apply. Se omite.
+2025-03-20 04:54:43 [32minfo[39m: --------------------------------------------------
+2025-03-20 04:54:43 [32minfo[39m: Abriendo vacante: WeiBook - Sr. Full Stack Developer (Node.js/React/TypeScript)
+Sr. Full Stack Developer (Node.js/React/TypeScript) (ID: 4183087708)
+2025-03-20 04:54:43 [32minfo[39m: Vacante "WeiBook - Sr. Full Stack Developer (Node.js/React/TypeScript)
+Sr. Full Stack Developer (Node.js/React/TypeScript)" no es de Quick Apply. Se omite.
+2025-03-20 04:54:43 [32minfo[39m: --------------------------------------------------
+2025-03-20 04:54:43 [32minfo[39m: Abriendo vacante: NTT DATA Europe & Latam - Desarrollador(a) Frontend Mobile Junior
+Desarrollador(a) Frontend Mobile Junior with verification (ID: 4185650982)
+2025-03-20 04:54:43 [32minfo[39m: Vacante "NTT DATA Europe & Latam - Desarrollador(a) Frontend Mobile Junior
+Desarrollador(a) Frontend Mobile Junior with verification" no es de Quick Apply. Se omite.
+2025-03-20 04:54:43 [32minfo[39m: --------------------------------------------------
+2025-03-20 04:54:43 [32minfo[39m: Abriendo vacante: Luable - MejorCDT (YC S21) - Desarrollador Móvil Flutter
+Desarrollador Móvil Flutter (ID: 4181158944)
+2025-03-20 04:54:43 [32minfo[39m: Vacante "Luable - MejorCDT (YC S21) - Desarrollador Móvil Flutter
+Desarrollador Móvil Flutter" no es de Quick Apply. Se omite.
+2025-03-20 04:54:43 [32minfo[39m: --------------------------------------------------
+2025-03-20 04:54:43 [32minfo[39m: Abriendo vacante: Stefanini LATAM - FullStack Developer NodeJs - React
+FullStack Developer NodeJs - React with verification (ID: 4176290816)
+2025-03-20 04:54:43 [32minfo[39m: Vacante "Stefanini LATAM - FullStack Developer NodeJs - React
+FullStack Developer NodeJs - React with verification" no es de Quick Apply. Se omite.
+2025-03-20 04:54:43 [32minfo[39m: --------------------------------------------------
+2025-03-20 04:54:43 [32minfo[39m: Abriendo vacante: Confidencial - Programador full stack
+Programador full stack (ID: 4181926538)
+2025-03-20 04:54:43 [32minfo[39m: Vacante "Confidencial - Programador full stack
+Programador full stack" no es de Quick Apply. Se omite.
+2025-03-20 04:54:43 [32minfo[39m: --------------------------------------------------
+2025-03-20 04:54:43 [32minfo[39m: Abriendo vacante: INDI Staffing Services - React Developer - Remote
+React Developer - Remote (ID: 4188232397)
+2025-03-20 04:54:43 [32minfo[39m: Vacante "INDI Staffing Services - React Developer - Remote
+React Developer - Remote" no es de Quick Apply. Se omite.
+2025-03-20 04:54:43 [32minfo[39m: === FINALIZO EL PROCESO DE BÚSQUEDA DE VACANTES ===
+2025-03-20 04:54:43 [32minfo[39m: Proceso de postulación finalizado.
+2025-03-20 04:54:52 [32minfo[39m: Iniciando bot con URL: https://www.linkedin.com/jobs/search/?currentJobId=4183935829&distance=50&geoId=102361989&keywords=Desarrollador&origin=JOBS_HOME_KEYWORD_HISTORY&refresh=true
+2025-03-20 04:54:52 [32minfo[39m: Cookies cargadas desde archivo.
+2025-03-20 04:54:53 [32minfo[39m: Aplicando retraso aleatorio de 749 ms.
+2025-03-20 04:54:56 [32minfo[39m: Usuario ya autenticado.
+2025-03-20 04:54:56 [32minfo[39m: Cookies guardadas en archivo.
+2025-03-20 04:54:56 [32minfo[39m: JobListModule inicializado.
+2025-03-20 04:54:56 [32minfo[39m: === INICIO DEL FLUJO DE BÚSQUEDA DE VACANTES ===
+2025-03-20 04:54:56 [32minfo[39m: Navegando a la URL de búsqueda: https://www.linkedin.com/jobs/search/?currentJobId=4183935829&distance=50&geoId=102361989&keywords=Desarrollador&origin=JOBS_HOME_KEYWORD_HISTORY&refresh=true
+2025-03-20 04:54:56 [32minfo[39m: loadJobList: Navegando a la URL: https://www.linkedin.com/jobs/search/?currentJobId=4183935829&distance=50&geoId=102361989&keywords=Desarrollador&origin=JOBS_HOME_KEYWORD_HISTORY&refresh=true
+2025-03-20 04:54:57 [32minfo[39m: loadJobList: Esperando a que aparezcan elementos 'li.scaffold-layout__list-item'...
+2025-03-20 04:54:59 [32minfo[39m: loadJobList: Página cargada correctamente con los elementos de vacantes.
+2025-03-20 04:54:59 [32minfo[39m: loadAllJobs: Iniciando lazy loading de vacantes...
+2025-03-20 04:54:59 [32minfo[39m: loadAllJobs: Vacantes cargadas inicialmente: 7
+2025-03-20 04:54:59 [32minfo[39m: loadAllJobs: Se encontró que currentCount (7) es mayor que previousCount (0). Realizando scroll...
+2025-03-20 04:55:01 [32minfo[39m: loadAllJobs: Vacantes cargadas tras scroll: 25
+2025-03-20 04:55:01 [32minfo[39m: loadAllJobs: Se encontró que currentCount (25) es mayor que previousCount (7). Realizando scroll...
+2025-03-20 04:55:03 [32minfo[39m: loadAllJobs: Vacantes cargadas tras scroll: 25
+2025-03-20 04:55:03 [32minfo[39m: loadAllJobs: Lazy loading completado. No se cargaron más vacantes.
+2025-03-20 04:55:03 [32minfo[39m: Buscando vacantes disponibles...
+2025-03-20 04:55:03 [32minfo[39m: getJobs: Iniciando extracción de vacantes...
+2025-03-20 04:55:03 [32minfo[39m: getJobs: Se extrajeron 7 vacantes.
+2025-03-20 04:55:03 [32minfo[39m: Total de vacantes encontradas: 7
+2025-03-20 04:55:03 [32minfo[39m: --------------------------------------------------
+2025-03-20 04:55:03 [32minfo[39m: Abriendo vacante: Codifico - Desarrollador
+Desarrollador (ID: 4183935829)
+2025-03-20 04:55:03 [32minfo[39m: Vacante "Codifico - Desarrollador
+Desarrollador" no es de Quick Apply. Se omite.
+2025-03-20 04:55:03 [32minfo[39m: --------------------------------------------------
+2025-03-20 04:55:03 [32minfo[39m: Abriendo vacante: WeiBook - Sr. Full Stack Developer (Node.js/React/TypeScript)
+Sr. Full Stack Developer (Node.js/React/TypeScript) (ID: 4183087708)
+2025-03-20 04:55:03 [32minfo[39m: Vacante "WeiBook - Sr. Full Stack Developer (Node.js/React/TypeScript)
+Sr. Full Stack Developer (Node.js/React/TypeScript)" no es de Quick Apply. Se omite.
+2025-03-20 04:55:03 [32minfo[39m: --------------------------------------------------
+2025-03-20 04:55:03 [32minfo[39m: Abriendo vacante: NTT DATA Europe & Latam - Desarrollador(a) Frontend Mobile Junior
+Desarrollador(a) Frontend Mobile Junior with verification (ID: 4185650982)
+2025-03-20 04:55:03 [32minfo[39m: Vacante "NTT DATA Europe & Latam - Desarrollador(a) Frontend Mobile Junior
+Desarrollador(a) Frontend Mobile Junior with verification" no es de Quick Apply. Se omite.
+2025-03-20 04:55:03 [32minfo[39m: --------------------------------------------------
+2025-03-20 04:55:03 [32minfo[39m: Abriendo vacante: Luable - MejorCDT (YC S21) - Desarrollador Móvil Flutter
+Desarrollador Móvil Flutter (ID: 4181158944)
+2025-03-20 04:55:03 [32minfo[39m: Vacante "Luable - MejorCDT (YC S21) - Desarrollador Móvil Flutter
+Desarrollador Móvil Flutter" no es de Quick Apply. Se omite.
+2025-03-20 04:55:03 [32minfo[39m: --------------------------------------------------
+2025-03-20 04:55:03 [32minfo[39m: Abriendo vacante: Confidencial - Programador full stack
+Programador full stack (ID: 4181926538)
+2025-03-20 04:55:03 [32minfo[39m: Vacante "Confidencial - Programador full stack
+Programador full stack" no es de Quick Apply. Se omite.
+2025-03-20 04:55:03 [32minfo[39m: --------------------------------------------------
+2025-03-20 04:55:03 [32minfo[39m: Abriendo vacante: INDI Staffing Services - React Developer - Remote
+React Developer - Remote (ID: 4188232397)
+2025-03-20 04:55:03 [32minfo[39m: Vacante "INDI Staffing Services - React Developer - Remote
+React Developer - Remote" no es de Quick Apply. Se omite.
+2025-03-20 04:55:03 [32minfo[39m: --------------------------------------------------
+2025-03-20 04:55:03 [32minfo[39m: Abriendo vacante: Ricoh Latin America Inc - Full Stack Engineer
+Full Stack Engineer with verification (ID: 4179859035)
+2025-03-20 04:55:03 [32minfo[39m: Vacante "Ricoh Latin America Inc - Full Stack Engineer
+Full Stack Engineer with verification" no es de Quick Apply. Se omite.
+2025-03-20 04:55:03 [32minfo[39m: === FINALIZO EL PROCESO DE BÚSQUEDA DE VACANTES ===
+2025-03-20 04:55:03 [32minfo[39m: Proceso de postulación finalizado.
+2025-03-20 04:57:25 [32minfo[39m: Iniciando bot con URL: https://www.linkedin.com/jobs/search/?currentJobId=4183935829&distance=50&geoId=102361989&keywords=Desarrollador&origin=JOBS_HOME_KEYWORD_HISTORY&refresh=true
+2025-03-20 04:57:26 [32minfo[39m: Cookies cargadas desde archivo.
+2025-03-20 04:57:26 [32minfo[39m: Aplicando retraso aleatorio de 1494 ms.
+2025-03-20 04:57:30 [32minfo[39m: Usuario ya autenticado.
+2025-03-20 04:57:30 [32minfo[39m: Cookies guardadas en archivo.
+2025-03-20 04:57:30 [32minfo[39m: JobListModule inicializado.
+2025-03-20 04:57:30 [32minfo[39m: === INICIO DEL FLUJO DE BÚSQUEDA DE VACANTES ===
+2025-03-20 04:57:30 [32minfo[39m: Navegando a la URL de búsqueda: https://www.linkedin.com/jobs/search/?currentJobId=4183935829&distance=50&geoId=102361989&keywords=Desarrollador&origin=JOBS_HOME_KEYWORD_HISTORY&refresh=true
+2025-03-20 04:57:30 [32minfo[39m: loadJobList: Navegando a la URL: https://www.linkedin.com/jobs/search/?currentJobId=4183935829&distance=50&geoId=102361989&keywords=Desarrollador&origin=JOBS_HOME_KEYWORD_HISTORY&refresh=true
+2025-03-20 04:57:32 [32minfo[39m: loadJobList: Esperando a que aparezcan elementos 'li.scaffold-layout__list-item'...
+2025-03-20 04:57:33 [32minfo[39m: loadJobList: Página cargada correctamente con los elementos de vacantes.
+2025-03-20 04:57:33 [32minfo[39m: loadAllJobs: Iniciando lazy loading de vacantes...
+2025-03-20 04:57:33 [32minfo[39m: loadAllJobs: Vacantes cargadas inicialmente: 7
+2025-03-20 04:57:33 [32minfo[39m: loadAllJobs: Se encontró que currentCount (7) es mayor que previousCount (0). Realizando scroll...
+2025-03-20 04:57:36 [32minfo[39m: loadAllJobs: Vacantes cargadas tras scroll: 25
+2025-03-20 04:57:36 [32minfo[39m: loadAllJobs: Se encontró que currentCount (25) es mayor que previousCount (7). Realizando scroll...
+2025-03-20 04:57:38 [32minfo[39m: loadAllJobs: Vacantes cargadas tras scroll: 25
+2025-03-20 04:57:38 [32minfo[39m: loadAllJobs: Lazy loading completado. No se cargaron más vacantes.
+2025-03-20 04:57:38 [32minfo[39m: Buscando vacantes disponibles...
+2025-03-20 04:57:38 [32minfo[39m: getJobs: Iniciando extracción de vacantes...
+2025-03-20 04:57:38 [32minfo[39m: getJobs: Se extrajeron 7 vacantes.
+2025-03-20 04:57:38 [32minfo[39m: Total de vacantes encontradas: 7
+2025-03-20 04:57:38 [32minfo[39m: --------------------------------------------------
+2025-03-20 04:57:38 [32minfo[39m: Abriendo vacante: Codifico - Desarrollador
+Desarrollador (ID: 4183935829)
+2025-03-20 04:57:38 [32minfo[39m: Vacante "Codifico - Desarrollador
+Desarrollador" no es de Quick Apply. Se omite.
+2025-03-20 04:57:38 [32minfo[39m: --------------------------------------------------
+2025-03-20 04:57:38 [32minfo[39m: Abriendo vacante: WeiBook - Sr. Full Stack Developer (Node.js/React/TypeScript)
+Sr. Full Stack Developer (Node.js/React/TypeScript) (ID: 4183087708)
+2025-03-20 04:57:38 [32minfo[39m: Vacante "WeiBook - Sr. Full Stack Developer (Node.js/React/TypeScript)
+Sr. Full Stack Developer (Node.js/React/TypeScript)" no es de Quick Apply. Se omite.
+2025-03-20 04:57:38 [32minfo[39m: --------------------------------------------------
+2025-03-20 04:57:38 [32minfo[39m: Abriendo vacante: Luable - MejorCDT (YC S21) - Desarrollador Móvil Flutter
+Desarrollador Móvil Flutter (ID: 4181158944)
+2025-03-20 04:57:38 [32minfo[39m: Vacante "Luable - MejorCDT (YC S21) - Desarrollador Móvil Flutter
+Desarrollador Móvil Flutter" no es de Quick Apply. Se omite.
+2025-03-20 04:57:38 [32minfo[39m: --------------------------------------------------
+2025-03-20 04:57:38 [32minfo[39m: Abriendo vacante: NTT DATA Europe & Latam - Desarrollador(a) Frontend Mobile Junior
+Desarrollador(a) Frontend Mobile Junior with verification (ID: 4185650982)
+2025-03-20 04:57:38 [32minfo[39m: Vacante "NTT DATA Europe & Latam - Desarrollador(a) Frontend Mobile Junior
+Desarrollador(a) Frontend Mobile Junior with verification" no es de Quick Apply. Se omite.
+2025-03-20 04:57:38 [32minfo[39m: --------------------------------------------------
+2025-03-20 04:57:38 [32minfo[39m: Abriendo vacante: Confidencial - Programador full stack
+Programador full stack (ID: 4181926538)
+2025-03-20 04:57:38 [32minfo[39m: Vacante "Confidencial - Programador full stack
+Programador full stack" no es de Quick Apply. Se omite.
+2025-03-20 04:57:38 [32minfo[39m: --------------------------------------------------
+2025-03-20 04:57:38 [32minfo[39m: Abriendo vacante: INDI Staffing Services - React Developer - Remote
+React Developer - Remote (ID: 4188232397)
+2025-03-20 04:57:38 [32minfo[39m: Vacante "INDI Staffing Services - React Developer - Remote
+React Developer - Remote" no es de Quick Apply. Se omite.
+2025-03-20 04:57:38 [32minfo[39m: --------------------------------------------------
+2025-03-20 04:57:38 [32minfo[39m: Abriendo vacante: Complemento360Colombia - Desarrollador Front End React + Next.JS
+Desarrollador Front End React + Next.JS (ID: 4181189207)
+2025-03-20 04:57:38 [32minfo[39m: Vacante "Complemento360Colombia - Desarrollador Front End React + Next.JS
+Desarrollador Front End React + Next.JS" no es de Quick Apply. Se omite.
+2025-03-20 04:57:38 [32minfo[39m: === FINALIZO EL PROCESO DE BÚSQUEDA DE VACANTES ===
+2025-03-20 04:57:38 [32minfo[39m: Proceso de postulación finalizado.
+2025-03-20 05:07:35 [32minfo[39m: Iniciando bot con URL: https://www.linkedin.com/jobs/search/?currentJobId=4183935829&distance=50&geoId=102361989&keywords=Desarrollador&origin=JOBS_HOME_KEYWORD_HISTORY&refresh=true
+2025-03-20 05:07:35 [32minfo[39m: Cookies cargadas desde archivo.
+2025-03-20 05:07:35 [32minfo[39m: Aplicando retraso aleatorio de 881 ms.
+2025-03-20 05:07:39 [32minfo[39m: Usuario ya autenticado.
+2025-03-20 05:07:39 [32minfo[39m: Cookies guardadas en archivo.
+2025-03-20 05:07:40 [32minfo[39m: JobListModule inicializado.
+2025-03-20 05:07:40 [32minfo[39m: === INICIO DEL FLUJO DE BÚSQUEDA DE VACANTES ===
+2025-03-20 05:07:40 [32minfo[39m: Navegando a la URL de búsqueda: https://www.linkedin.com/jobs/search/?currentJobId=4183935829&distance=50&geoId=102361989&keywords=Desarrollador&origin=JOBS_HOME_KEYWORD_HISTORY&refresh=true
+2025-03-20 05:07:40 [32minfo[39m: loadJobList: Navegando a la URL: https://www.linkedin.com/jobs/search/?currentJobId=4183935829&distance=50&geoId=102361989&keywords=Desarrollador&origin=JOBS_HOME_KEYWORD_HISTORY&refresh=true
+2025-03-20 05:07:41 [32minfo[39m: loadJobList: Esperando a que aparezcan elementos 'li.scaffold-layout__list-item'...
+2025-03-20 05:07:42 [32minfo[39m: loadJobList: Página cargada correctamente con los elementos de vacantes.
+2025-03-20 05:07:42 [32minfo[39m: loadAllJobs: Iniciando lazy loading de vacantes...
+2025-03-20 05:07:42 [32minfo[39m: loadAllJobs: Vacantes cargadas inicialmente: 7
+2025-03-20 05:07:42 [32minfo[39m: loadAllJobs: Se encontró que currentCount (7) es mayor que previousCount (0). Realizando scroll...
+2025-03-20 05:07:44 [32minfo[39m: loadAllJobs: Vacantes cargadas tras scroll: 25
+2025-03-20 05:07:44 [32minfo[39m: loadAllJobs: Se encontró que currentCount (25) es mayor que previousCount (7). Realizando scroll...
+2025-03-20 05:07:46 [32minfo[39m: loadAllJobs: Vacantes cargadas tras scroll: 25
+2025-03-20 05:07:46 [32minfo[39m: loadAllJobs: Lazy loading completado. No se cargaron más vacantes.
+2025-03-20 05:07:46 [32minfo[39m: Buscando vacantes disponibles...
+2025-03-20 05:07:46 [32minfo[39m: getJobs: Iniciando extracción de vacantes...
+2025-03-20 05:07:46 [32minfo[39m: getJobs: Se extrajeron 7 vacantes.
+2025-03-20 05:07:46 [32minfo[39m: Total de vacantes encontradas: 7
+2025-03-20 05:07:46 [32minfo[39m: --------------------------------------------------
+2025-03-20 05:07:46 [32minfo[39m: Abriendo vacante: Codifico - Desarrollador
+Desarrollador (ID: 4183935829)
+2025-03-20 05:07:46 [32minfo[39m: Vacante "Codifico - Desarrollador
+Desarrollador" no es de Quick Apply. Se omite.
+2025-03-20 05:07:46 [32minfo[39m: --------------------------------------------------
+2025-03-20 05:07:46 [32minfo[39m: Abriendo vacante: WeiBook - Sr. Full Stack Developer (Node.js/React/TypeScript)
+Sr. Full Stack Developer (Node.js/React/TypeScript) (ID: 4183087708)
+2025-03-20 05:07:46 [32minfo[39m: Vacante "WeiBook - Sr. Full Stack Developer (Node.js/React/TypeScript)
+Sr. Full Stack Developer (Node.js/React/TypeScript)" no es de Quick Apply. Se omite.
+2025-03-20 05:07:46 [32minfo[39m: --------------------------------------------------
+2025-03-20 05:07:46 [32minfo[39m: Abriendo vacante: NTT DATA Europe & Latam - Desarrollador(a) Frontend Mobile Junior
+Desarrollador(a) Frontend Mobile Junior with verification (ID: 4185650982)
+2025-03-20 05:07:46 [32minfo[39m: Vacante "NTT DATA Europe & Latam - Desarrollador(a) Frontend Mobile Junior
+Desarrollador(a) Frontend Mobile Junior with verification" no es de Quick Apply. Se omite.
+2025-03-20 05:07:46 [32minfo[39m: --------------------------------------------------
+2025-03-20 05:07:46 [32minfo[39m: Abriendo vacante: Luable - MejorCDT (YC S21) - Desarrollador Móvil Flutter
+Desarrollador Móvil Flutter (ID: 4181158944)
+2025-03-20 05:07:46 [32minfo[39m: Vacante "Luable - MejorCDT (YC S21) - Desarrollador Móvil Flutter
+Desarrollador Móvil Flutter" no es de Quick Apply. Se omite.
+2025-03-20 05:07:46 [32minfo[39m: --------------------------------------------------
+2025-03-20 05:07:46 [32minfo[39m: Abriendo vacante: AXA Partners - Analista Marketing Digital
+Analista Marketing Digital with verification (ID: 4189292909)
+2025-03-20 05:07:46 [32minfo[39m: Vacante "AXA Partners - Analista Marketing Digital
+Analista Marketing Digital with verification" no es de Quick Apply. Se omite.
+2025-03-20 05:07:46 [32minfo[39m: --------------------------------------------------
+2025-03-20 05:07:46 [32minfo[39m: Abriendo vacante: Confidencial - Programador full stack
+Programador full stack (ID: 4181926538)
+2025-03-20 05:07:46 [32minfo[39m: Vacante "Confidencial - Programador full stack
+Programador full stack" no es de Quick Apply. Se omite.
+2025-03-20 05:07:46 [32minfo[39m: --------------------------------------------------
+2025-03-20 05:07:46 [32minfo[39m: Abriendo vacante: INDI Staffing Services - React Developer - Remote
+React Developer - Remote (ID: 4188232397)
+2025-03-20 05:07:46 [32minfo[39m: Vacante "INDI Staffing Services - React Developer - Remote
+React Developer - Remote" no es de Quick Apply. Se omite.
+2025-03-20 05:07:46 [32minfo[39m: === FINALIZO EL PROCESO DE BÚSQUEDA DE VACANTES ===
+2025-03-20 05:07:46 [32minfo[39m: Proceso de postulación finalizado.
+2025-03-20 05:11:00 [32minfo[39m: Iniciando bot con URL: https://www.linkedin.com/jobs/search/?currentJobId=4183935829&distance=50&geoId=102361989&keywords=Desarrollador&origin=JOBS_HOME_KEYWORD_HISTORY&refresh=true
+2025-03-20 05:11:00 [32minfo[39m: Cookies cargadas desde archivo.
+2025-03-20 05:11:00 [32minfo[39m: Aplicando retraso aleatorio de 578 ms.
+2025-03-20 05:11:03 [32minfo[39m: Usuario ya autenticado.
+2025-03-20 05:11:03 [32minfo[39m: Cookies guardadas en archivo.
+2025-03-20 05:11:04 [32minfo[39m: JobListModule inicializado.
+2025-03-20 05:11:04 [32minfo[39m: === INICIO DEL FLUJO DE BÚSQUEDA DE VACANTES ===
+2025-03-20 05:11:04 [32minfo[39m: Navegando a la URL de búsqueda: https://www.linkedin.com/jobs/search/?currentJobId=4183935829&distance=50&geoId=102361989&keywords=Desarrollador&origin=JOBS_HOME_KEYWORD_HISTORY&refresh=true
+2025-03-20 05:11:04 [32minfo[39m: loadJobList: Navegando a la URL: https://www.linkedin.com/jobs/search/?currentJobId=4183935829&distance=50&geoId=102361989&keywords=Desarrollador&origin=JOBS_HOME_KEYWORD_HISTORY&refresh=true
+2025-03-20 05:11:05 [32minfo[39m: loadJobList: Esperando a que aparezcan elementos 'li.scaffold-layout__list-item'...
+2025-03-20 05:11:06 [32minfo[39m: loadJobList: Página cargada correctamente con los elementos de vacantes.
+2025-03-20 05:11:06 [32minfo[39m: loadAllJobs: Iniciando lazy loading de vacantes...
+2025-03-20 05:11:07 [32minfo[39m: loadAllJobs: Vacantes cargadas inicialmente: 25
+2025-03-20 05:11:07 [32minfo[39m: loadAllJobs: Se encontró que currentCount (25) es mayor que previousCount (0). Realizando scroll...
+2025-03-20 05:11:09 [32minfo[39m: loadAllJobs: Vacantes cargadas tras scroll: 25
+2025-03-20 05:11:09 [32minfo[39m: loadAllJobs: Lazy loading completado. No se cargaron más vacantes.
+2025-03-20 05:11:09 [32minfo[39m: Buscando vacantes disponibles...
+2025-03-20 05:11:09 [32minfo[39m: getJobs: Iniciando extracción de vacantes...
+2025-03-20 05:11:09 [32minfo[39m: getJobs: Se extrajeron 7 vacantes.
+2025-03-20 05:11:09 [32minfo[39m: Total de vacantes encontradas: 7
+2025-03-20 05:11:09 [32minfo[39m: --------------------------------------------------
+2025-03-20 05:11:09 [32minfo[39m: Abriendo vacante: Codifico - Desarrollador
+Desarrollador (ID: 4183935829)
+2025-03-20 05:11:09 [32minfo[39m: Vacante "Codifico - Desarrollador
+Desarrollador" no es de Quick Apply. Se omite.
+2025-03-20 05:11:09 [32minfo[39m: --------------------------------------------------
+2025-03-20 05:11:09 [32minfo[39m: Abriendo vacante: WeiBook - Sr. Full Stack Developer (Node.js/React/TypeScript)
+Sr. Full Stack Developer (Node.js/React/TypeScript) (ID: 4183087708)
+2025-03-20 05:11:09 [32minfo[39m: Haciendo click en la vacante usando selector: li[data-occludable-job-id="4183087708"]
+2025-03-20 05:11:10 [32minfo[39m: Esperando a que se cargue el detalle de la vacante...
+2025-03-20 05:11:10 [32minfo[39m: Abriendo modal de Quick Apply...
+2025-03-20 05:11:10 [32minfo[39m: Botón "Solicitud sencilla" clickeado, esperando apertura del modal...
+2025-03-20 05:11:10 [32minfo[39m: Modal de "Solicitud sencilla" abierto.
+2025-03-20 05:11:10 [32minfo[39m: Modal abierto. Iniciando llenado del formulario multi-step...
+2025-03-20 05:11:10 [32minfo[39m: === INICIO DEL LLENADO MULTI-STEP DEL FORMULARIO ===
+2025-03-20 05:11:10 [32minfo[39m: Se detectó el modal de Easy Apply.
+2025-03-20 05:11:10 [32minfo[39m: [Step 1] Tipo detectado: DONE
+2025-03-20 05:11:10 [33mwarn[39m: No se detecta un step definido. Verificando si el modal sigue abierto...
+2025-03-20 05:11:10 [32minfo[39m: El modal sigue abierto, esperando y reintentando...
+2025-03-20 05:11:12 [32minfo[39m: [Step 1] Tipo detectado: DONE
+2025-03-20 05:11:12 [32minfo[39m: El mismo step se ha detectado 1 veces consecutivas.
+2025-03-20 05:11:12 [33mwarn[39m: No se detecta un step definido. Verificando si el modal sigue abierto...
+2025-03-20 05:11:12 [32minfo[39m: El modal sigue abierto, esperando y reintentando...
+2025-03-20 05:11:13 [32minfo[39m: [Step 1] Tipo detectado: DONE
+2025-03-20 05:11:13 [32minfo[39m: El mismo step se ha detectado 2 veces consecutivas.
+2025-03-20 05:11:13 [33mwarn[39m: No se detecta un step definido. Verificando si el modal sigue abierto...
+2025-03-20 05:11:13 [32minfo[39m: El modal sigue abierto, esperando y reintentando...
+2025-03-20 05:11:15 [32minfo[39m: [Step 1] Tipo detectado: DONE
+2025-03-20 05:11:15 [32minfo[39m: El mismo step se ha detectado 3 veces consecutivas.
+2025-03-20 05:11:15 [33mwarn[39m: El mismo step se ha repetido 3 veces consecutivas. Se asume bloqueo. Cerrando modal...
+2025-03-20 05:11:15 [32minfo[39m: Esperando a que aparezca el botón 'Descartar' en el modal de confirmación...
+2025-03-20 05:11:15 [32minfo[39m: Haciendo clic en el botón 'Descartar' para cerrar el primer modal de confirmación...
+2025-03-20 05:11:25 [33mwarn[39m: No se pudo cerrar el modal de confirmación: page.waitForSelector: Timeout 10000ms exceeded.
+Call log:
+[2m  - waiting for locator('.jobs-easy-apply-modal') to be detached[22m
+[2m    24 × locator resolved to visible <div size="large" role="dialog" tabindex="-1" data-test-modal="" aria-labelledby="jobs-apply-header" class="artdeco-modal artdeco-modal--layer-default jobs-easy-apply-modal">…</div>[22m
+
+2025-03-20 05:11:28 [32minfo[39m: Haciendo click en la vacante usando selector: li[data-occludable-job-id="4183087708"]
+2025-03-20 05:12:01 [32minfo[39m: Haciendo click en la vacante usando selector: li[data-occludable-job-id="4183087708"]
+2025-03-20 05:12:09 [32minfo[39m: Esperando a que se cargue el detalle de la vacante...
+2025-03-20 05:12:09 [32minfo[39m: Abriendo modal de Quick Apply...
+2025-03-20 05:12:09 [32minfo[39m: Botón "Solicitud sencilla" clickeado, esperando apertura del modal...
+2025-03-20 05:12:09 [32minfo[39m: Modal de "Solicitud sencilla" abierto.
+2025-03-20 05:12:09 [32minfo[39m: Modal abierto. Iniciando llenado del formulario multi-step...
+2025-03-20 05:12:09 [32minfo[39m: === INICIO DEL LLENADO MULTI-STEP DEL FORMULARIO ===
+2025-03-20 05:12:09 [32minfo[39m: Se detectó el modal de Easy Apply.
+2025-03-20 05:12:09 [32minfo[39m: [Step 1] Tipo detectado: DONE
+2025-03-20 05:12:09 [33mwarn[39m: No se detecta un step definido. Verificando si el modal sigue abierto...
+2025-03-20 05:12:09 [32minfo[39m: El modal sigue abierto, esperando y reintentando...
+2025-03-20 05:12:11 [32minfo[39m: [Step 1] Tipo detectado: DONE
+2025-03-20 05:12:11 [32minfo[39m: El mismo step se ha detectado 1 veces consecutivas.
+2025-03-20 05:12:11 [33mwarn[39m: No se detecta un step definido. Verificando si el modal sigue abierto...
+2025-03-20 05:12:11 [32minfo[39m: El modal sigue abierto, esperando y reintentando...
+2025-03-20 05:12:15 [32minfo[39m: Haciendo click en la vacante usando selector: li[data-occludable-job-id="4183087708"]
+2025-03-20 05:12:15 [31merror[39m: Error en FlowController: page.click: Target page, context or browser has been closed
+2025-03-20 05:12:15 [31merror[39m: Error en main.js: page.click: Target page, context or browser has been closed
+2025-03-20 05:12:53 [32minfo[39m: Iniciando bot con URL: https://www.linkedin.com/jobs/search/?currentJobId=4183935829&distance=50&geoId=102361989&keywords=Desarrollador&origin=JOBS_HOME_KEYWORD_HISTORY&refresh=true
+2025-03-20 05:12:54 [32minfo[39m: Cookies cargadas desde archivo.
+2025-03-20 05:12:54 [32minfo[39m: Aplicando retraso aleatorio de 932 ms.
+2025-03-20 05:12:58 [32minfo[39m: Usuario ya autenticado.
+2025-03-20 05:12:58 [32minfo[39m: Cookies guardadas en archivo.
+2025-03-20 05:12:58 [32minfo[39m: JobListModule inicializado.
+2025-03-20 05:12:58 [32minfo[39m: === INICIO DEL FLUJO DE BÚSQUEDA DE VACANTES ===
+2025-03-20 05:12:58 [32minfo[39m: Navegando a la URL de búsqueda: https://www.linkedin.com/jobs/search/?currentJobId=4183935829&distance=50&geoId=102361989&keywords=Desarrollador&origin=JOBS_HOME_KEYWORD_HISTORY&refresh=true
+2025-03-20 05:12:58 [32minfo[39m: loadJobList: Navegando a la URL: https://www.linkedin.com/jobs/search/?currentJobId=4183935829&distance=50&geoId=102361989&keywords=Desarrollador&origin=JOBS_HOME_KEYWORD_HISTORY&refresh=true
+2025-03-20 05:13:00 [32minfo[39m: loadJobList: Esperando a que aparezcan elementos 'li.scaffold-layout__list-item'...
+2025-03-20 05:13:01 [32minfo[39m: loadJobList: Página cargada correctamente con los elementos de vacantes.
+2025-03-20 05:13:01 [32minfo[39m: loadAllJobs: Iniciando lazy loading de vacantes...
+2025-03-20 05:13:02 [32minfo[39m: loadAllJobs: Vacantes cargadas inicialmente: 25
+2025-03-20 05:13:02 [32minfo[39m: loadAllJobs: Se encontró que currentCount (25) es mayor que previousCount (0). Realizando scroll...
+2025-03-20 05:13:04 [32minfo[39m: loadAllJobs: Vacantes cargadas tras scroll: 25
+2025-03-20 05:13:04 [32minfo[39m: loadAllJobs: Lazy loading completado. No se cargaron más vacantes.
+2025-03-20 05:13:04 [32minfo[39m: Buscando vacantes disponibles...
+2025-03-20 05:13:04 [32minfo[39m: getJobs: Iniciando extracción de vacantes...
+2025-03-20 05:13:04 [32minfo[39m: getJobs: Se extrajeron 7 vacantes.
+2025-03-20 05:13:04 [32minfo[39m: Total de vacantes encontradas: 7
+2025-03-20 05:13:04 [32minfo[39m: --------------------------------------------------
+2025-03-20 05:13:04 [32minfo[39m: Abriendo vacante: Codifico - Desarrollador
+Desarrollador (ID: 4183935829)
+2025-03-20 05:13:04 [32minfo[39m: Vacante "Codifico - Desarrollador
+Desarrollador" no es de Quick Apply. Se omite.
+2025-03-20 05:13:04 [32minfo[39m: --------------------------------------------------
+2025-03-20 05:13:04 [32minfo[39m: Abriendo vacante: WeiBook - Sr. Full Stack Developer (Node.js/React/TypeScript)
+Sr. Full Stack Developer (Node.js/React/TypeScript) (ID: 4183087708)
+2025-03-20 05:13:04 [32minfo[39m: Haciendo click en la vacante usando selector: li[data-occludable-job-id="4183087708"]
+2025-03-20 05:13:04 [32minfo[39m: Esperando a que se cargue el detalle de la vacante...
+2025-03-20 05:13:04 [32minfo[39m: Abriendo modal de Quick Apply...
+2025-03-20 05:13:05 [32minfo[39m: Botón "Solicitud sencilla" clickeado, esperando apertura del modal...
+2025-03-20 05:13:05 [32minfo[39m: Modal de "Solicitud sencilla" abierto.
+2025-03-20 05:13:05 [32minfo[39m: Modal abierto. Iniciando llenado del formulario multi-step...
+2025-03-20 05:13:05 [32minfo[39m: === INICIO DEL LLENADO MULTI-STEP DEL FORMULARIO ===
+2025-03-20 05:13:05 [32minfo[39m: Se detectó el modal de Easy Apply.
+2025-03-20 05:13:05 [32minfo[39m: [Step 1] Tipo detectado: DONE
+2025-03-20 05:13:05 [33mwarn[39m: No se detecta un step definido. Verificando si el modal sigue abierto...
+2025-03-20 05:13:05 [32minfo[39m: El modal sigue abierto, esperando y reintentando...
+2025-03-20 05:13:06 [32minfo[39m: [Step 1] Tipo detectado: DONE
+2025-03-20 05:13:06 [32minfo[39m: El mismo step se ha detectado 1 veces consecutivas.
+2025-03-20 05:13:06 [33mwarn[39m: No se detecta un step definido. Verificando si el modal sigue abierto...
+2025-03-20 05:13:06 [32minfo[39m: El modal sigue abierto, esperando y reintentando...
+2025-03-20 05:13:08 [32minfo[39m: [Step 1] Tipo detectado: DONE
+2025-03-20 05:13:08 [32minfo[39m: El mismo step se ha detectado 2 veces consecutivas.
+2025-03-20 05:13:08 [33mwarn[39m: No se detecta un step definido. Verificando si el modal sigue abierto...
+2025-03-20 05:13:08 [32minfo[39m: El modal sigue abierto, esperando y reintentando...
+2025-03-20 05:13:10 [32minfo[39m: [Step 1] Tipo detectado: DONE
+2025-03-20 05:13:10 [32minfo[39m: El mismo step se ha detectado 3 veces consecutivas.
+2025-03-20 05:13:10 [33mwarn[39m: El mismo step se ha repetido 3 veces consecutivas. Se asume bloqueo. Cerrando modal...
+2025-03-20 05:13:10 [32minfo[39m: Esperando a que aparezca el botón 'Descartar' en el modal de confirmación...
+2025-03-20 05:13:10 [32minfo[39m: Haciendo clic en el botón 'Descartar' para cerrar el primer modal de confirmación...
+2025-03-20 05:13:15 [33mwarn[39m: No se pudo cerrar el modal de confirmación: page.waitForSelector: Target page, context or browser has been closed
+Call log:
+[2m  - waiting for locator('.jobs-easy-apply-modal') to be detached[22m
+[2m    15 × locator resolved to visible <div size="large" role="dialog" tabindex="-1" data-test-modal="" aria-labelledby="jobs-apply-header" class="artdeco-modal artdeco-modal--layer-default jobs-easy-apply-modal">…</div>[22m
+
+2025-03-20 05:13:18 [32minfo[39m: Haciendo click en la vacante usando selector: li[data-occludable-job-id="4183087708"]
+2025-03-20 05:13:21 [32minfo[39m: Haciendo click en la vacante usando selector: li[data-occludable-job-id="4183087708"]
+2025-03-20 05:13:24 [32minfo[39m: Haciendo click en la vacante usando selector: li[data-occludable-job-id="4183087708"]
+2025-03-20 05:13:24 [31merror[39m: Error en FlowController: page.click: Target page, context or browser has been closed
+2025-03-20 05:13:24 [31merror[39m: Error en main.js: page.click: Target page, context or browser has been closed
+2025-03-20 05:18:04 [32minfo[39m: Iniciando bot con URL: https://www.linkedin.com/jobs/search/?currentJobId=4183935829&distance=50&geoId=102361989&keywords=Desarrollador&origin=JOBS_HOME_KEYWORD_HISTORY&refresh=true
+2025-03-20 05:18:05 [32minfo[39m: Cookies cargadas desde archivo.
+2025-03-20 05:18:05 [32minfo[39m: Aplicando retraso aleatorio de 911 ms.
+2025-03-20 05:18:35 [32minfo[39m: Usuario ya autenticado.
+2025-03-20 05:18:35 [32minfo[39m: Cookies guardadas en archivo.
+2025-03-20 05:18:36 [32minfo[39m: JobListModule inicializado.
+2025-03-20 05:18:36 [32minfo[39m: === INICIO DEL FLUJO DE BÚSQUEDA DE VACANTES ===
+2025-03-20 05:18:36 [32minfo[39m: Navegando a la URL de búsqueda: https://www.linkedin.com/jobs/search/?currentJobId=4183935829&distance=50&geoId=102361989&keywords=Desarrollador&origin=JOBS_HOME_KEYWORD_HISTORY&refresh=true
+2025-03-20 05:18:36 [32minfo[39m: loadJobList: Navegando a la URL: https://www.linkedin.com/jobs/search/?currentJobId=4183935829&distance=50&geoId=102361989&keywords=Desarrollador&origin=JOBS_HOME_KEYWORD_HISTORY&refresh=true
+2025-03-20 05:18:37 [32minfo[39m: loadJobList: Esperando a que aparezcan elementos 'li.scaffold-layout__list-item'...
+2025-03-20 05:18:39 [32minfo[39m: loadJobList: Página cargada correctamente con los elementos de vacantes.
+2025-03-20 05:18:39 [32minfo[39m: loadAllJobs: Iniciando lazy loading de vacantes...
+2025-03-20 05:18:39 [32minfo[39m: loadAllJobs: Vacantes cargadas inicialmente: 25
+2025-03-20 05:18:39 [32minfo[39m: loadAllJobs: Se encontró que currentCount (25) es mayor que previousCount (0). Realizando scroll...
+2025-03-20 05:18:41 [32minfo[39m: loadAllJobs: Vacantes cargadas tras scroll: 25
+2025-03-20 05:18:41 [32minfo[39m: loadAllJobs: Lazy loading completado. No se cargaron más vacantes.
+2025-03-20 05:18:41 [32minfo[39m: Buscando vacantes disponibles...
+2025-03-20 05:18:41 [32minfo[39m: getJobs: Iniciando extracción de vacantes...
+2025-03-20 05:18:41 [32minfo[39m: getJobs: Se extrajeron 7 vacantes.
+2025-03-20 05:18:41 [32minfo[39m: Total de vacantes encontradas: 7
+2025-03-20 05:18:41 [32minfo[39m: --------------------------------------------------
+2025-03-20 05:18:41 [32minfo[39m: Abriendo vacante: WeiBook - Sr. Full Stack Developer (Node.js/React/TypeScript)
+Sr. Full Stack Developer (Node.js/React/TypeScript) (ID: 4183087708)
+2025-03-20 05:18:41 [32minfo[39m: Haciendo click en la vacante usando selector: li[data-occludable-job-id="4183087708"]
+2025-03-20 05:18:41 [32minfo[39m: Esperando a que se cargue el detalle de la vacante...
+2025-03-20 05:18:42 [32minfo[39m: Abriendo modal de Quick Apply...
+2025-03-20 05:18:42 [32minfo[39m: Botón "Solicitud sencilla" clickeado, esperando apertura del modal...
+2025-03-20 05:18:42 [32minfo[39m: Modal de "Solicitud sencilla" abierto.
+2025-03-20 05:18:42 [32minfo[39m: Modal abierto. Iniciando llenado del formulario multi-step...
+2025-03-20 05:18:42 [32minfo[39m: === INICIO DEL LLENADO MULTI-STEP DEL FORMULARIO ===
+2025-03-20 05:18:42 [32minfo[39m: Se detectó el modal de Easy Apply.
+2025-03-20 05:18:42 [32minfo[39m: [Step 1] Tipo detectado: DONE
+2025-03-20 05:18:42 [33mwarn[39m: No se detecta un step definido. Verificando si el modal sigue abierto...
+2025-03-20 05:18:42 [32minfo[39m: El modal sigue abierto, esperando y reintentando...
+2025-03-20 05:18:44 [32minfo[39m: [Step 1] Tipo detectado: DONE
+2025-03-20 05:18:44 [32minfo[39m: El mismo step se ha detectado 1 veces consecutivas.
+2025-03-20 05:18:44 [33mwarn[39m: No se detecta un step definido. Verificando si el modal sigue abierto...
+2025-03-20 05:18:44 [32minfo[39m: El modal sigue abierto, esperando y reintentando...
+2025-03-20 05:18:45 [32minfo[39m: [Step 1] Tipo detectado: DONE
+2025-03-20 05:18:45 [32minfo[39m: El mismo step se ha detectado 2 veces consecutivas.
+2025-03-20 05:18:45 [33mwarn[39m: No se detecta un step definido. Verificando si el modal sigue abierto...
+2025-03-20 05:18:45 [32minfo[39m: El modal sigue abierto, esperando y reintentando...
+2025-03-20 05:18:47 [32minfo[39m: [Step 1] Tipo detectado: DONE
+2025-03-20 05:18:47 [32minfo[39m: El mismo step se ha detectado 3 veces consecutivas.
+2025-03-20 05:18:47 [33mwarn[39m: El mismo step se ha repetido 3 veces consecutivas. Se asume bloqueo. Cerrando modal...
+2025-03-20 05:18:47 [32minfo[39m: Esperando a que aparezca el botón 'Descartar' en el modal de confirmación...
+2025-03-20 05:18:47 [32minfo[39m: Haciendo clic en el botón 'Descartar' para cerrar el primer modal de confirmación...
+2025-03-20 05:18:57 [33mwarn[39m: No se pudo cerrar el modal de confirmación: page.waitForSelector: Timeout 10000ms exceeded.
+Call log:
+[2m  - waiting for locator('.jobs-easy-apply-modal') to be detached[22m
+[2m    24 × locator resolved to visible <div size="large" role="dialog" tabindex="-1" data-test-modal="" aria-labelledby="jobs-apply-header" class="artdeco-modal artdeco-modal--layer-default jobs-easy-apply-modal">…</div>[22m
+
+2025-03-20 05:19:00 [32minfo[39m: Haciendo click en la vacante usando selector: li[data-occludable-job-id="4183087708"]
+2025-03-20 05:19:13 [32minfo[39m: Esperando a que se cargue el detalle de la vacante...
+2025-03-20 05:19:13 [32minfo[39m: Abriendo modal de Quick Apply...
+2025-03-20 05:19:13 [32minfo[39m: Botón "Solicitud sencilla" clickeado, esperando apertura del modal...
+2025-03-20 05:19:13 [32minfo[39m: Modal de "Solicitud sencilla" abierto.
+2025-03-20 05:19:13 [32minfo[39m: Modal abierto. Iniciando llenado del formulario multi-step...
+2025-03-20 05:19:13 [32minfo[39m: === INICIO DEL LLENADO MULTI-STEP DEL FORMULARIO ===
+2025-03-20 05:19:13 [32minfo[39m: Se detectó el modal de Easy Apply.
+2025-03-20 05:19:13 [32minfo[39m: [Step 1] Tipo detectado: DONE
+2025-03-20 05:19:13 [33mwarn[39m: No se detecta un step definido. Verificando si el modal sigue abierto...
+2025-03-20 05:19:13 [32minfo[39m: El modal sigue abierto, esperando y reintentando...
+2025-03-20 05:19:15 [32minfo[39m: [Step 1] Tipo detectado: DONE
+2025-03-20 05:19:15 [32minfo[39m: El mismo step se ha detectado 1 veces consecutivas.
+2025-03-20 05:19:15 [33mwarn[39m: No se detecta un step definido. Verificando si el modal sigue abierto...
+2025-03-20 05:19:15 [32minfo[39m: El modal sigue abierto, esperando y reintentando...
+2025-03-20 05:19:16 [32minfo[39m: [Step 1] Tipo detectado: DONE
+2025-03-20 05:19:16 [32minfo[39m: El mismo step se ha detectado 2 veces consecutivas.
+2025-03-20 05:19:16 [33mwarn[39m: No se detecta un step definido. Verificando si el modal sigue abierto...
+2025-03-20 05:19:16 [32minfo[39m: El modal sigue abierto, esperando y reintentando...
+2025-03-20 05:19:18 [32minfo[39m: [Step 1] Tipo detectado: DONE
+2025-03-20 05:19:18 [32minfo[39m: El mismo step se ha detectado 3 veces consecutivas.
+2025-03-20 05:19:18 [33mwarn[39m: El mismo step se ha repetido 3 veces consecutivas. Se asume bloqueo. Cerrando modal...
+2025-03-20 05:19:18 [32minfo[39m: Esperando a que aparezca el botón 'Descartar' en el modal de confirmación...
+2025-03-20 05:19:18 [32minfo[39m: Haciendo clic en el botón 'Descartar' para cerrar el primer modal de confirmación...
+2025-03-20 05:19:28 [33mwarn[39m: No se pudo cerrar el modal de confirmación: page.waitForSelector: Timeout 10000ms exceeded.
+Call log:
+[2m  - waiting for locator('.jobs-easy-apply-modal') to be detached[22m
+[2m    24 × locator resolved to visible <div size="large" role="dialog" tabindex="-1" data-test-modal="" aria-labelledby="jobs-apply-header" class="artdeco-modal artdeco-modal--layer-default jobs-easy-apply-modal">…</div>[22m
+
+2025-03-20 05:19:31 [32minfo[39m: Haciendo click en la vacante usando selector: li[data-occludable-job-id="4183087708"]
+2025-03-20 05:19:50 [32minfo[39m: Haciendo click en la vacante usando selector: li[data-occludable-job-id="4183087708"]
+2025-03-20 05:19:50 [31merror[39m: Error en FlowController: page.click: Target page, context or browser has been closed
+2025-03-20 05:19:50 [31merror[39m: Error en main.js: page.click: Target page, context or browser has been closed
+2025-03-20 05:22:34 [32minfo[39m: Iniciando bot con URL: https://www.linkedin.com/jobs/search/?currentJobId=4183935829&distance=50&geoId=102361989&keywords=Desarrollador&origin=JOBS_HOME_KEYWORD_HISTORY&refresh=true
+2025-03-20 05:22:35 [32minfo[39m: Cookies cargadas desde archivo.
+2025-03-20 05:22:35 [32minfo[39m: Aplicando retraso aleatorio de 1278 ms.
+2025-03-20 05:22:48 [32minfo[39m: Usuario ya autenticado.
+2025-03-20 05:22:48 [32minfo[39m: Cookies guardadas en archivo.
+2025-03-20 05:22:52 [32minfo[39m: JobListModule inicializado.
+2025-03-20 05:22:52 [32minfo[39m: === INICIO DEL FLUJO DE BÚSQUEDA DE VACANTES ===
+2025-03-20 05:22:52 [32minfo[39m: Navegando a la URL de búsqueda: https://www.linkedin.com/jobs/search/?currentJobId=4183935829&distance=50&geoId=102361989&keywords=Desarrollador&origin=JOBS_HOME_KEYWORD_HISTORY&refresh=true
+2025-03-20 05:22:52 [32minfo[39m: loadJobList: Navegando a la URL: https://www.linkedin.com/jobs/search/?currentJobId=4183935829&distance=50&geoId=102361989&keywords=Desarrollador&origin=JOBS_HOME_KEYWORD_HISTORY&refresh=true
+2025-03-20 05:23:00 [32minfo[39m: loadJobList: Esperando a que aparezcan elementos 'li.scaffold-layout__list-item'...
+2025-03-20 05:23:01 [32minfo[39m: loadJobList: Página cargada correctamente con los elementos de vacantes.
+2025-03-20 05:23:01 [32minfo[39m: loadAllJobs: Iniciando lazy loading de vacantes...
+2025-03-20 05:23:48 [32minfo[39m: loadAllJobs: Vacantes cargadas inicialmente: 25
+2025-03-20 05:23:48 [32minfo[39m: loadAllJobs: Se encontró que currentCount (25) es mayor que previousCount (0). Realizando scroll...
+2025-03-20 05:24:03 [32minfo[39m: loadAllJobs: Vacantes cargadas tras scroll: 25
+2025-03-20 05:24:03 [32minfo[39m: loadAllJobs: Lazy loading completado. No se cargaron más vacantes.
+2025-03-20 05:24:03 [32minfo[39m: Buscando vacantes disponibles...
+2025-03-20 05:24:03 [32minfo[39m: getJobs: Iniciando extracción de vacantes...
+2025-03-20 05:24:07 [32minfo[39m: getJobs: Se extrajeron 7 vacantes.
+2025-03-20 05:24:07 [32minfo[39m: Total de vacantes encontradas: 7
+2025-03-20 05:24:07 [32minfo[39m: --------------------------------------------------
+2025-03-20 05:24:07 [32minfo[39m: Abriendo vacante: WeiBook - Sr. Full Stack Developer (Node.js/React/TypeScript)
+Sr. Full Stack Developer (Node.js/React/TypeScript) (ID: 4183087708)
+2025-03-20 05:24:07 [32minfo[39m: Haciendo click en la vacante usando selector: li[data-occludable-job-id="4183087708"]
+2025-03-20 05:24:13 [32minfo[39m: Esperando a que se cargue el detalle de la vacante...
+2025-03-20 05:24:13 [32minfo[39m: Abriendo modal de Quick Apply...
+2025-03-20 05:24:21 [32minfo[39m: Botón "Solicitud sencilla" clickeado, esperando apertura del modal...
+2025-03-20 05:24:21 [32minfo[39m: Modal de "Solicitud sencilla" abierto.
+2025-03-20 05:24:21 [32minfo[39m: Modal abierto. Iniciando llenado del formulario multi-step...
+2025-03-20 05:24:21 [32minfo[39m: === INICIO DEL LLENADO MULTI-STEP DEL FORMULARIO ===
+2025-03-20 05:24:21 [32minfo[39m: Se detectó el modal de Easy Apply.
+2025-03-20 05:25:12 [32minfo[39m: [Step 1] Tipo detectado: DONE
+2025-03-20 05:25:12 [33mwarn[39m: No se detecta un step definido. Verificando si el modal sigue abierto...
+2025-03-20 05:25:13 [32minfo[39m: El modal sigue abierto, esperando y reintentando...
+2025-03-20 05:33:03 [32minfo[39m: Iniciando bot con URL: https://www.linkedin.com/jobs/search/?currentJobId=4183935829&distance=50&geoId=102361989&keywords=Desarrollador&origin=JOBS_HOME_KEYWORD_HISTORY&refresh=true
+2025-03-20 05:33:05 [32minfo[39m: Cookies cargadas desde archivo.
+2025-03-20 05:33:05 [32minfo[39m: Aplicando retraso aleatorio de 964 ms.
+2025-03-20 05:33:22 [32minfo[39m: Usuario ya autenticado.
+2025-03-20 05:33:22 [32minfo[39m: Cookies guardadas en archivo.
+2025-03-20 05:33:23 [32minfo[39m: JobListModule inicializado.
+2025-03-20 05:33:23 [32minfo[39m: === INICIO DEL FLUJO DE BÚSQUEDA DE VACANTES ===
+2025-03-20 05:33:23 [32minfo[39m: Navegando a la URL de búsqueda: https://www.linkedin.com/jobs/search/?currentJobId=4183935829&distance=50&geoId=102361989&keywords=Desarrollador&origin=JOBS_HOME_KEYWORD_HISTORY&refresh=true
+2025-03-20 05:33:23 [32minfo[39m: loadJobList: Navegando a la URL: https://www.linkedin.com/jobs/search/?currentJobId=4183935829&distance=50&geoId=102361989&keywords=Desarrollador&origin=JOBS_HOME_KEYWORD_HISTORY&refresh=true
+2025-03-20 05:33:29 [32minfo[39m: loadJobList: Esperando a que aparezcan elementos 'li.scaffold-layout__list-item'...
+2025-03-20 05:33:31 [32minfo[39m: loadJobList: Página cargada correctamente con los elementos de vacantes.
+2025-03-20 05:33:31 [32minfo[39m: loadAllJobs: Iniciando lazy loading de vacantes...
+2025-03-20 05:33:38 [32minfo[39m: loadAllJobs: Vacantes cargadas inicialmente: 25
+2025-03-20 05:33:38 [32minfo[39m: loadAllJobs: Se encontró que currentCount (25) es mayor que previousCount (0). Realizando scroll...
+2025-03-20 05:33:50 [32minfo[39m: loadAllJobs: Vacantes cargadas tras scroll: 25
+2025-03-20 05:33:50 [32minfo[39m: loadAllJobs: Lazy loading completado. No se cargaron más vacantes.
+2025-03-20 05:33:50 [32minfo[39m: Buscando vacantes disponibles...
+2025-03-20 05:33:50 [32minfo[39m: getJobs: Iniciando extracción de vacantes...
+2025-03-20 05:33:56 [32minfo[39m: getJobs: Se extrajeron 7 vacantes.
+2025-03-20 05:33:56 [32minfo[39m: Total de vacantes encontradas: 7
+2025-03-20 05:33:56 [32minfo[39m: --------------------------------------------------
+2025-03-20 05:33:56 [32minfo[39m: Abriendo vacante: WeiBook - Sr. Full Stack Developer (Node.js/React/TypeScript)
+Sr. Full Stack Developer (Node.js/React/TypeScript) (ID: 4183087708)
+2025-03-20 05:33:56 [32minfo[39m: Haciendo click en la vacante usando selector: li[data-occludable-job-id="4183087708"]
+2025-03-20 05:33:59 [32minfo[39m: Esperando a que se cargue el detalle de la vacante...
+2025-03-20 05:34:00 [32minfo[39m: Abriendo modal de Quick Apply...
+2025-03-20 05:34:03 [32minfo[39m: Botón "Solicitud sencilla" clickeado, esperando apertura del modal...
+2025-03-20 05:34:03 [32minfo[39m: Modal de "Solicitud sencilla" abierto.
+2025-03-20 05:34:03 [32minfo[39m: Modal abierto. Iniciando llenado del formulario multi-step...
+2025-03-20 05:34:03 [32minfo[39m: === INICIO DEL LLENADO MULTI-STEP DEL FORMULARIO ===
+2025-03-20 05:34:03 [32minfo[39m: Se detectó el modal de Easy Apply.
+2025-03-20 05:34:14 [32minfo[39m: [Step 1] Tipo detectado: DONE
+2025-03-20 05:34:14 [33mwarn[39m: No se detecta un step definido. Verificando si el modal sigue abierto...
+2025-03-20 05:34:14 [32minfo[39m: El modal sigue abierto, esperando y reintentando...
+2025-03-20 05:34:29 [32minfo[39m: [Step 1] Tipo detectado: DONE
+2025-03-20 05:34:29 [32minfo[39m: El mismo step se ha detectado 1 veces consecutivas.
+2025-03-20 05:34:29 [33mwarn[39m: No se detecta un step definido. Verificando si el modal sigue abierto...
+2025-03-20 05:34:29 [32minfo[39m: El modal sigue abierto, esperando y reintentando...
+2025-03-20 05:45:08 [32minfo[39m: Iniciando bot con URL: https://www.linkedin.com/jobs/search/?currentJobId=4183935829&distance=50&geoId=102361989&keywords=Desarrollador&origin=JOBS_HOME_KEYWORD_HISTORY&refresh=true
+2025-03-20 05:45:10 [32minfo[39m: Cookies cargadas desde archivo.
+2025-03-20 05:45:10 [32minfo[39m: Aplicando retraso aleatorio de 805 ms.
+2025-03-20 05:45:29 [32minfo[39m: Usuario ya autenticado.
+2025-03-20 05:45:29 [32minfo[39m: Cookies guardadas en archivo.
+2025-03-20 05:45:31 [32minfo[39m: JobListModule inicializado.
+2025-03-20 05:45:31 [32minfo[39m: === INICIO DEL FLUJO DE BÚSQUEDA DE VACANTES ===
+2025-03-20 05:45:31 [32minfo[39m: Navegando a la URL de búsqueda: https://www.linkedin.com/jobs/search/?currentJobId=4183935829&distance=50&geoId=102361989&keywords=Desarrollador&origin=JOBS_HOME_KEYWORD_HISTORY&refresh=true
+2025-03-20 05:45:31 [32minfo[39m: loadJobList: Navegando a la URL: https://www.linkedin.com/jobs/search/?currentJobId=4183935829&distance=50&geoId=102361989&keywords=Desarrollador&origin=JOBS_HOME_KEYWORD_HISTORY&refresh=true
+2025-03-20 05:45:36 [32minfo[39m: loadJobList: Esperando a que aparezcan elementos 'li.scaffold-layout__list-item'...
+2025-03-20 05:45:37 [32minfo[39m: loadJobList: Página cargada correctamente con los elementos de vacantes.
+2025-03-20 05:45:37 [32minfo[39m: loadAllJobs: Iniciando lazy loading de vacantes...
+2025-03-20 05:45:40 [32minfo[39m: loadAllJobs: Vacantes cargadas inicialmente: 25
+2025-03-20 05:45:40 [32minfo[39m: loadAllJobs: Se encontró que currentCount (25) es mayor que previousCount (0). Realizando scroll...
+2025-03-20 05:46:02 [32minfo[39m: loadAllJobs: Vacantes cargadas tras scroll: 25
+2025-03-20 05:46:02 [32minfo[39m: loadAllJobs: Lazy loading completado. No se cargaron más vacantes.
+2025-03-20 05:46:02 [32minfo[39m: Buscando vacantes disponibles...
+2025-03-20 05:46:02 [32minfo[39m: getJobs: Iniciando extracción de vacantes...
+2025-03-20 05:46:05 [32minfo[39m: getJobs: Se extrajeron 7 vacantes.
+2025-03-20 05:46:05 [32minfo[39m: Total de vacantes encontradas: 7
+2025-03-20 05:46:05 [32minfo[39m: --------------------------------------------------
+2025-03-20 05:46:05 [32minfo[39m: Abriendo vacante: WeiBook - Sr. Full Stack Developer (Node.js/React/TypeScript)
+Sr. Full Stack Developer (Node.js/React/TypeScript) (ID: 4183087708)
+2025-03-20 05:46:05 [32minfo[39m: Haciendo click en la vacante usando selector: li[data-occludable-job-id="4183087708"]
+2025-03-20 05:46:06 [32minfo[39m: Esperando a que se cargue el detalle de la vacante...
+2025-03-20 05:46:07 [32minfo[39m: Abriendo modal de Quick Apply...
+2025-03-20 05:46:10 [32minfo[39m: Botón "Solicitud sencilla" clickeado, esperando apertura del modal...
+2025-03-20 05:46:10 [32minfo[39m: Modal de "Solicitud sencilla" abierto.
+2025-03-20 05:46:10 [32minfo[39m: Modal abierto. Iniciando llenado del formulario multi-step...
+2025-03-20 05:46:10 [32minfo[39m: === INICIO DEL LLENADO MULTI-STEP DEL FORMULARIO ===
+2025-03-20 05:46:10 [32minfo[39m: Se detectó el modal de Easy Apply.
+2025-03-20 05:46:18 [32minfo[39m: [Step 1] Tipo detectado: DONE
+2025-03-20 05:46:18 [33mwarn[39m: No se detecta un step definido. Verificando si el modal sigue abierto...
+2025-03-20 05:46:18 [32minfo[39m: El modal sigue abierto, esperando y reintentando...
+2025-03-20 05:46:42 [32minfo[39m: [Step 1] Tipo detectado: DONE
+2025-03-20 05:46:42 [32minfo[39m: El mismo step se ha detectado 1 veces consecutivas.
+2025-03-20 05:46:42 [33mwarn[39m: No se detecta un step definido. Verificando si el modal sigue abierto...
+2025-03-20 05:46:42 [32minfo[39m: El modal sigue abierto, esperando y reintentando...
+2025-03-20 05:47:52 [32minfo[39m: [Step 1] Tipo detectado: REGULAR
+2025-03-20 05:47:52 [32minfo[39m: Step 'Regular' detectado. Se procederá a rellenar los campos.
+2025-03-20 05:47:54 [32minfo[39m: Se encontraron 4 campos para llenar en este step.
+2025-03-20 05:47:54 [32minfo[39m: [Input] Llenando campo: "Aspiración salarial en USD?"
+2025-03-20 05:47:54 [32minfo[39m: Generando respuesta de DeepSeek...
+2025-03-20 05:47:54 [32minfo[39m: Enviando solicitud a DeepSeek...
+2025-03-20 05:47:54 [31merror[39m: Error al generar respuesta desde DeepSeek: Invalid URL
+2025-03-20 05:47:54 [31merror[39m: [Input] Error generando respuesta para "Aspiración salarial en USD?": Invalid URL
+2025-03-20 05:47:59 [32minfo[39m: [Input] Campo "Aspiración salarial en USD?" completado.
+2025-03-20 05:48:00 [32minfo[39m: [Input] Llenando campo: "Años de experiencia en Backend?"
+2025-03-20 05:48:00 [32minfo[39m: Generando respuesta de DeepSeek...
+2025-03-20 05:48:00 [32minfo[39m: Enviando solicitud a DeepSeek...
+2025-03-20 05:48:00 [31merror[39m: Error al generar respuesta desde DeepSeek: Invalid URL
+2025-03-20 05:48:00 [31merror[39m: [Input] Error generando respuesta para "Años de experiencia en Backend?": Invalid URL
+2025-03-20 05:48:16 [32minfo[39m: [Input] Campo "Años de experiencia en Backend?" completado.
+2025-03-20 05:50:46 [32minfo[39m: Iniciando bot con URL: https://www.linkedin.com/jobs/search/?currentJobId=4183935829&distance=50&geoId=102361989&keywords=Desarrollador&origin=JOBS_HOME_KEYWORD_HISTORY&refresh=true
+2025-03-20 05:50:47 [32minfo[39m: Cookies cargadas desde archivo.
+2025-03-20 05:50:48 [32minfo[39m: Aplicando retraso aleatorio de 1198 ms.
+2025-03-20 05:50:59 [32minfo[39m: Usuario ya autenticado.
+2025-03-20 05:50:59 [32minfo[39m: Cookies guardadas en archivo.
+2025-03-20 05:51:02 [32minfo[39m: JobListModule inicializado.
+2025-03-20 05:51:02 [32minfo[39m: === INICIO DEL FLUJO DE BÚSQUEDA DE VACANTES ===
+2025-03-20 05:51:02 [32minfo[39m: Navegando a la URL de búsqueda: https://www.linkedin.com/jobs/search/?currentJobId=4183935829&distance=50&geoId=102361989&keywords=Desarrollador&origin=JOBS_HOME_KEYWORD_HISTORY&refresh=true
+2025-03-20 05:51:02 [32minfo[39m: loadJobList: Navegando a la URL: https://www.linkedin.com/jobs/search/?currentJobId=4183935829&distance=50&geoId=102361989&keywords=Desarrollador&origin=JOBS_HOME_KEYWORD_HISTORY&refresh=true
+2025-03-20 05:51:06 [32minfo[39m: loadJobList: Esperando a que aparezcan elementos 'li.scaffold-layout__list-item'...
+2025-03-20 05:51:07 [32minfo[39m: loadJobList: Página cargada correctamente con los elementos de vacantes.
+2025-03-20 05:51:07 [32minfo[39m: loadAllJobs: Iniciando lazy loading de vacantes...
+2025-03-20 05:51:11 [32minfo[39m: loadAllJobs: Vacantes cargadas inicialmente: 25
+2025-03-20 05:51:11 [32minfo[39m: loadAllJobs: Se encontró que currentCount (25) es mayor que previousCount (0). Realizando scroll...
+2025-03-20 05:51:34 [32minfo[39m: loadAllJobs: Vacantes cargadas tras scroll: 25
+2025-03-20 05:51:34 [32minfo[39m: loadAllJobs: Lazy loading completado. No se cargaron más vacantes.
+2025-03-20 05:51:34 [32minfo[39m: Buscando vacantes disponibles...
+2025-03-20 05:51:34 [32minfo[39m: getJobs: Iniciando extracción de vacantes...
+2025-03-20 05:51:38 [32minfo[39m: getJobs: Se extrajeron 7 vacantes.
+2025-03-20 05:51:38 [32minfo[39m: Total de vacantes encontradas: 7
+2025-03-20 05:51:38 [32minfo[39m: --------------------------------------------------
+2025-03-20 05:51:38 [32minfo[39m: Abriendo vacante: WeiBook - Sr. Full Stack Developer (Node.js/React/TypeScript)
+Sr. Full Stack Developer (Node.js/React/TypeScript) (ID: 4183087708)
+2025-03-20 05:51:38 [32minfo[39m: Haciendo click en la vacante usando selector: li[data-occludable-job-id="4183087708"]
+2025-03-20 05:51:40 [32minfo[39m: Esperando a que se cargue el detalle de la vacante...
+2025-03-20 05:51:40 [32minfo[39m: Abriendo modal de Quick Apply...
+2025-03-20 05:51:44 [32minfo[39m: Botón "Solicitud sencilla" clickeado, esperando apertura del modal...
+2025-03-20 05:51:44 [32minfo[39m: Modal de "Solicitud sencilla" abierto.
+2025-03-20 05:51:44 [32minfo[39m: Modal abierto. Iniciando llenado del formulario multi-step...
+2025-03-20 05:51:44 [32minfo[39m: === INICIO DEL LLENADO MULTI-STEP DEL FORMULARIO ===
+2025-03-20 05:51:44 [32minfo[39m: Se detectó el modal de Easy Apply.
+2025-03-20 05:51:51 [32minfo[39m: [Step 1] Tipo detectado: DONE
+2025-03-20 05:51:51 [33mwarn[39m: No se detecta un step definido. Verificando si el modal sigue abierto...
+2025-03-20 05:51:51 [32minfo[39m: El modal sigue abierto, esperando y reintentando...
+2025-03-20 05:52:08 [32minfo[39m: [Step 1] Tipo detectado: REGULAR
+2025-03-20 05:52:08 [32minfo[39m: Step 'Regular' detectado. Se procederá a rellenar los campos.
+2025-03-20 05:52:09 [32minfo[39m: Se encontraron 4 campos para llenar en este step.
+2025-03-20 05:52:09 [32minfo[39m: [Input] Llenando campo: "Aspiración salarial en USD?"
+2025-03-20 05:52:09 [32minfo[39m: Generando respuesta de DeepSeek...
+2025-03-20 05:52:09 [32minfo[39m: Enviando solicitud a DeepSeek...
+2025-03-20 05:52:09 [31merror[39m: Error al generar respuesta desde DeepSeek: Invalid URL
+2025-03-20 05:52:09 [31merror[39m: [Input] Error generando respuesta para "Aspiración salarial en USD?": Invalid URL
+2025-03-20 05:53:23 [32minfo[39m: Iniciando bot con URL: https://www.linkedin.com/jobs/search/?currentJobId=4183935829&distance=50&geoId=102361989&keywords=Desarrollador&origin=JOBS_HOME_KEYWORD_HISTORY&refresh=true
+2025-03-20 05:53:24 [32minfo[39m: Cookies cargadas desde archivo.
+2025-03-20 05:53:24 [32minfo[39m: Aplicando retraso aleatorio de 1042 ms.
+2025-03-20 05:53:36 [32minfo[39m: Usuario ya autenticado.
+2025-03-20 05:53:36 [32minfo[39m: Cookies guardadas en archivo.
+2025-03-20 05:53:38 [32minfo[39m: JobListModule inicializado.
+2025-03-20 05:53:38 [32minfo[39m: === INICIO DEL FLUJO DE BÚSQUEDA DE VACANTES ===
+2025-03-20 05:53:38 [32minfo[39m: Navegando a la URL de búsqueda: https://www.linkedin.com/jobs/search/?currentJobId=4183935829&distance=50&geoId=102361989&keywords=Desarrollador&origin=JOBS_HOME_KEYWORD_HISTORY&refresh=true
+2025-03-20 05:53:38 [32minfo[39m: loadJobList: Navegando a la URL: https://www.linkedin.com/jobs/search/?currentJobId=4183935829&distance=50&geoId=102361989&keywords=Desarrollador&origin=JOBS_HOME_KEYWORD_HISTORY&refresh=true
+2025-03-20 05:53:43 [32minfo[39m: loadJobList: Esperando a que aparezcan elementos 'li.scaffold-layout__list-item'...
+2025-03-20 05:53:43 [32minfo[39m: loadJobList: Página cargada correctamente con los elementos de vacantes.
+2025-03-20 05:53:43 [32minfo[39m: loadAllJobs: Iniciando lazy loading de vacantes...
+2025-03-20 05:53:45 [32minfo[39m: loadAllJobs: Vacantes cargadas inicialmente: 25
+2025-03-20 05:53:45 [32minfo[39m: loadAllJobs: Se encontró que currentCount (25) es mayor que previousCount (0). Realizando scroll...
+2025-03-20 05:53:53 [32minfo[39m: loadAllJobs: Vacantes cargadas tras scroll: 25
+2025-03-20 05:53:53 [32minfo[39m: loadAllJobs: Lazy loading completado. No se cargaron más vacantes.
+2025-03-20 05:53:53 [32minfo[39m: Buscando vacantes disponibles...
+2025-03-20 05:53:53 [32minfo[39m: getJobs: Iniciando extracción de vacantes...
+2025-03-20 05:53:57 [32minfo[39m: getJobs: Se extrajeron 7 vacantes.
+2025-03-20 05:53:57 [32minfo[39m: Total de vacantes encontradas: 7
+2025-03-20 05:53:57 [32minfo[39m: --------------------------------------------------
+2025-03-20 05:53:57 [32minfo[39m: Abriendo vacante: WeiBook - Sr. Full Stack Developer (Node.js/React/TypeScript)
+Sr. Full Stack Developer (Node.js/React/TypeScript) (ID: 4183087708)
+2025-03-20 05:53:57 [32minfo[39m: Haciendo click en la vacante usando selector: li[data-occludable-job-id="4183087708"]
+2025-03-20 05:53:59 [32minfo[39m: Esperando a que se cargue el detalle de la vacante...
+2025-03-20 05:53:59 [32minfo[39m: Abriendo modal de Quick Apply...
+2025-03-20 05:54:02 [32minfo[39m: Botón "Solicitud sencilla" clickeado, esperando apertura del modal...
+2025-03-20 05:54:02 [32minfo[39m: Modal de "Solicitud sencilla" abierto.
+2025-03-20 05:54:02 [32minfo[39m: Modal abierto. Iniciando llenado del formulario multi-step...
+2025-03-20 05:54:02 [32minfo[39m: === INICIO DEL LLENADO MULTI-STEP DEL FORMULARIO ===
+2025-03-20 05:54:02 [32minfo[39m: Se detectó el modal de Easy Apply.
+2025-03-20 05:54:09 [32minfo[39m: [Step 1] Tipo detectado: REGULAR
+2025-03-20 05:54:09 [32minfo[39m: Step 'Regular' detectado. Se procederá a rellenar los campos.
+2025-03-20 05:54:11 [32minfo[39m: Se encontraron 4 campos para llenar en este step.
+2025-03-20 05:54:11 [32minfo[39m: [Input] Llenando campo: "Aspiración salarial en USD?"
+2025-03-20 05:54:11 [32minfo[39m: Generando respuesta de DeepSeek...
+2025-03-20 05:54:11 [32minfo[39m: Enviando solicitud a DeepSeek...
+2025-03-20 05:54:11 [31merror[39m: Error al generar respuesta desde DeepSeek: Invalid URL
+2025-03-20 05:54:11 [31merror[39m: [Input] Error generando respuesta para "Aspiración salarial en USD?": Invalid URL
+2025-03-20 05:55:25 [32minfo[39m: Iniciando bot con URL: https://www.linkedin.com/jobs/search/?currentJobId=4183935829&distance=50&geoId=102361989&keywords=Desarrollador&origin=JOBS_HOME_KEYWORD_HISTORY&refresh=true
+2025-03-20 05:55:25 [32minfo[39m: Cookies cargadas desde archivo.
+2025-03-20 05:55:26 [32minfo[39m: Aplicando retraso aleatorio de 1315 ms.
+2025-03-20 05:55:36 [32minfo[39m: Usuario ya autenticado.
+2025-03-20 05:55:36 [32minfo[39m: Cookies guardadas en archivo.
+2025-03-20 05:55:56 [32minfo[39m: Iniciando bot con URL: https://www.linkedin.com/jobs/search/?currentJobId=4183935829&distance=50&geoId=102361989&keywords=Desarrollador&origin=JOBS_HOME_KEYWORD_HISTORY&refresh=true
+2025-03-20 05:55:57 [32minfo[39m: Cookies cargadas desde archivo.
+2025-03-20 05:55:57 [32minfo[39m: Aplicando retraso aleatorio de 657 ms.
+2025-03-20 05:56:05 [32minfo[39m: Usuario ya autenticado.
+2025-03-20 05:56:05 [32minfo[39m: Cookies guardadas en archivo.
+2025-03-20 05:56:07 [32minfo[39m: JobListModule inicializado.
+2025-03-20 05:56:07 [32minfo[39m: === INICIO DEL FLUJO DE BÚSQUEDA DE VACANTES ===
+2025-03-20 05:56:07 [32minfo[39m: Navegando a la URL de búsqueda: https://www.linkedin.com/jobs/search/?currentJobId=4183935829&distance=50&geoId=102361989&keywords=Desarrollador&origin=JOBS_HOME_KEYWORD_HISTORY&refresh=true
+2025-03-20 05:56:07 [32minfo[39m: loadJobList: Navegando a la URL: https://www.linkedin.com/jobs/search/?currentJobId=4183935829&distance=50&geoId=102361989&keywords=Desarrollador&origin=JOBS_HOME_KEYWORD_HISTORY&refresh=true
+2025-03-20 05:56:10 [32minfo[39m: loadJobList: Esperando a que aparezcan elementos 'li.scaffold-layout__list-item'...
+2025-03-20 05:56:12 [32minfo[39m: loadJobList: Página cargada correctamente con los elementos de vacantes.
+2025-03-20 05:56:12 [32minfo[39m: loadAllJobs: Iniciando lazy loading de vacantes...
+2025-03-20 05:56:13 [32minfo[39m: loadAllJobs: Vacantes cargadas inicialmente: 25
+2025-03-20 05:56:13 [32minfo[39m: loadAllJobs: Se encontró que currentCount (25) es mayor que previousCount (0). Realizando scroll...
+2025-03-20 05:56:21 [32minfo[39m: loadAllJobs: Vacantes cargadas tras scroll: 25
+2025-03-20 05:56:21 [32minfo[39m: loadAllJobs: Lazy loading completado. No se cargaron más vacantes.
+2025-03-20 05:56:21 [32minfo[39m: Buscando vacantes disponibles...
+2025-03-20 05:56:21 [32minfo[39m: getJobs: Iniciando extracción de vacantes...
+2025-03-20 05:56:23 [32minfo[39m: getJobs: Se extrajeron 7 vacantes.
+2025-03-20 05:56:23 [32minfo[39m: Total de vacantes encontradas: 7
+2025-03-20 05:56:23 [32minfo[39m: --------------------------------------------------
+2025-03-20 05:56:23 [32minfo[39m: Abriendo vacante: WeiBook - Sr. Full Stack Developer (Node.js/React/TypeScript)
+Sr. Full Stack Developer (Node.js/React/TypeScript) (ID: 4183087708)
+2025-03-20 05:56:23 [32minfo[39m: Haciendo click en la vacante usando selector: li[data-occludable-job-id="4183087708"]
+2025-03-20 05:56:25 [32minfo[39m: Esperando a que se cargue el detalle de la vacante...
+2025-03-20 05:56:25 [32minfo[39m: Abriendo modal de Quick Apply...
+2025-03-20 05:56:28 [32minfo[39m: Botón "Solicitud sencilla" clickeado, esperando apertura del modal...
+2025-03-20 05:56:28 [32minfo[39m: Modal de "Solicitud sencilla" abierto.
+2025-03-20 05:56:28 [32minfo[39m: Modal abierto. Iniciando llenado del formulario multi-step...
+2025-03-20 05:56:28 [32minfo[39m: === INICIO DEL LLENADO MULTI-STEP DEL FORMULARIO ===
+2025-03-20 05:56:28 [32minfo[39m: Se detectó el modal de Easy Apply.
+2025-03-20 05:56:38 [32minfo[39m: [Step 1] Tipo detectado: REGULAR
+2025-03-20 05:56:38 [32minfo[39m: Step 'Regular' detectado. Se procederá a rellenar los campos.
+2025-03-20 05:56:54 [32minfo[39m: Se encontraron 4 campos para llenar en este step.
+2025-03-20 05:56:54 [32minfo[39m: [Input] Llenando campo: "Aspiración salarial en USD?"
+2025-03-20 05:56:54 [32minfo[39m: Generando respuesta de DeepSeek...
+2025-03-20 05:56:54 [32minfo[39m: Enviando solicitud a DeepSeek...
+2025-03-20 05:56:54 [32minfo[39m: undefined/chat/completions
+2025-03-20 05:56:54 [31merror[39m: Error al generar respuesta desde DeepSeek: Invalid URL
+2025-03-20 05:56:54 [31merror[39m: [Input] Error generando respuesta para "Aspiración salarial en USD?": Invalid URL
+2025-03-20 05:57:21 [32minfo[39m: Iniciando bot con URL: https://www.linkedin.com/jobs/search/?currentJobId=4183935829&distance=50&geoId=102361989&keywords=Desarrollador&origin=JOBS_HOME_KEYWORD_HISTORY&refresh=true
+2025-03-20 05:57:22 [32minfo[39m: Cookies cargadas desde archivo.
+2025-03-20 05:57:22 [32minfo[39m: Aplicando retraso aleatorio de 1189 ms.
+2025-03-20 05:57:52 [32minfo[39m: Iniciando bot con URL: https://www.linkedin.com/jobs/search/?currentJobId=4183935829&distance=50&geoId=102361989&keywords=Desarrollador&origin=JOBS_HOME_KEYWORD_HISTORY&refresh=true
+2025-03-20 05:57:53 [32minfo[39m: Cookies cargadas desde archivo.
+2025-03-20 05:57:53 [32minfo[39m: Aplicando retraso aleatorio de 1275 ms.
+2025-03-20 06:00:42 [32minfo[39m: [object Object]
+2025-03-20 06:00:42 [32minfo[39m: Iniciando bot con URL: https://www.linkedin.com/jobs/search/?currentJobId=4183935829&distance=50&geoId=102361989&keywords=Desarrollador&origin=JOBS_HOME_KEYWORD_HISTORY&refresh=true
+2025-03-20 06:00:43 [32minfo[39m: Cookies cargadas desde archivo.
+2025-03-20 06:00:43 [32minfo[39m: Aplicando retraso aleatorio de 1234 ms.
+2025-03-20 06:01:03 [32minfo[39m: Usuario ya autenticado.
+2025-03-20 06:01:03 [32minfo[39m: Cookies guardadas en archivo.
+2025-03-20 06:01:05 [32minfo[39m: JobListModule inicializado.
+2025-03-20 06:01:05 [32minfo[39m: === INICIO DEL FLUJO DE BÚSQUEDA DE VACANTES ===
+2025-03-20 06:01:05 [32minfo[39m: Navegando a la URL de búsqueda: https://www.linkedin.com/jobs/search/?currentJobId=4183935829&distance=50&geoId=102361989&keywords=Desarrollador&origin=JOBS_HOME_KEYWORD_HISTORY&refresh=true
+2025-03-20 06:01:05 [32minfo[39m: loadJobList: Navegando a la URL: https://www.linkedin.com/jobs/search/?currentJobId=4183935829&distance=50&geoId=102361989&keywords=Desarrollador&origin=JOBS_HOME_KEYWORD_HISTORY&refresh=true
+2025-03-20 06:01:10 [32minfo[39m: loadJobList: Esperando a que aparezcan elementos 'li.scaffold-layout__list-item'...
+2025-03-20 06:01:11 [32minfo[39m: loadJobList: Página cargada correctamente con los elementos de vacantes.
+2025-03-20 06:01:11 [32minfo[39m: loadAllJobs: Iniciando lazy loading de vacantes...
+2025-03-20 06:01:13 [32minfo[39m: loadAllJobs: Vacantes cargadas inicialmente: 25
+2025-03-20 06:01:13 [32minfo[39m: loadAllJobs: Se encontró que currentCount (25) es mayor que previousCount (0). Realizando scroll...
+2025-03-20 06:01:20 [32minfo[39m: loadAllJobs: Vacantes cargadas tras scroll: 25
+2025-03-20 06:01:20 [32minfo[39m: loadAllJobs: Lazy loading completado. No se cargaron más vacantes.
+2025-03-20 06:01:20 [32minfo[39m: Buscando vacantes disponibles...
+2025-03-20 06:01:20 [32minfo[39m: getJobs: Iniciando extracción de vacantes...
+2025-03-20 06:01:23 [32minfo[39m: getJobs: Se extrajeron 7 vacantes.
+2025-03-20 06:01:23 [32minfo[39m: Total de vacantes encontradas: 7
+2025-03-20 06:01:23 [32minfo[39m: --------------------------------------------------
+2025-03-20 06:01:23 [32minfo[39m: Abriendo vacante: WeiBook - Sr. Full Stack Developer (Node.js/React/TypeScript)
+Sr. Full Stack Developer (Node.js/React/TypeScript) (ID: 4183087708)
+2025-03-20 06:01:23 [32minfo[39m: Haciendo click en la vacante usando selector: li[data-occludable-job-id="4183087708"]
+2025-03-20 06:01:25 [32minfo[39m: Esperando a que se cargue el detalle de la vacante...
+2025-03-20 06:01:26 [32minfo[39m: Abriendo modal de Quick Apply...
+2025-03-20 06:01:28 [32minfo[39m: Botón "Solicitud sencilla" clickeado, esperando apertura del modal...
+2025-03-20 06:01:28 [32minfo[39m: Modal de "Solicitud sencilla" abierto.
+2025-03-20 06:01:28 [32minfo[39m: Modal abierto. Iniciando llenado del formulario multi-step...
+2025-03-20 06:01:28 [32minfo[39m: === INICIO DEL LLENADO MULTI-STEP DEL FORMULARIO ===
+2025-03-20 06:01:28 [32minfo[39m: Se detectó el modal de Easy Apply.
+2025-03-20 06:01:39 [32minfo[39m: [Step 1] Tipo detectado: REGULAR
+2025-03-20 06:01:39 [32minfo[39m: Step 'Regular' detectado. Se procederá a rellenar los campos.
+2025-03-20 06:01:41 [32minfo[39m: Se encontraron 4 campos para llenar en este step.
+2025-03-20 06:01:41 [32minfo[39m: [Input] Llenando campo: "Aspiración salarial en USD?"
+2025-03-20 06:01:41 [32minfo[39m: Generando respuesta de DeepSeek...
+2025-03-20 06:01:41 [32minfo[39m: Enviando solicitud a DeepSeek...
+2025-03-20 06:01:41 [32minfo[39m: https://api.deepseek.com//chat/completions
+2025-03-20 06:01:58 [32minfo[39m: Respuesta obtenida de DeepSeek.
+2025-03-20 06:01:58 [32minfo[39m: [Input] Respuesta generada: Dada mi experiencia de más de 10 años en desarrollo de software, con habilidades avanzadas en tecnologías como JavaScript, Node.js, React, Angular, Java, Spring Boot, NestJs y ExpressJs, mi aspiración salarial se sitúa en un rango de **$80,000 a $120,000 USD anuales**, dependiendo del alcance del rol, la ubicación y los beneficios adicionales que ofrezca la empresa. Este rango refleja mi nivel de seniority, la complejidad de los proyectos que puedo liderar y el valor que aporto a los equipos de desarrollo. 
+
+¿Te gustaría discutir más sobre el rol o las expectativas? 😊
+2025-03-20 06:03:12 [32minfo[39m: [Input] Campo "Aspiración salarial en USD?" completado.
+2025-03-20 06:03:14 [32minfo[39m: [Input] Llenando campo: "Años de experiencia en Backend?"
+2025-03-20 06:03:14 [32minfo[39m: Generando respuesta de DeepSeek...
+2025-03-20 06:03:14 [32minfo[39m: Enviando solicitud a DeepSeek...
+2025-03-20 06:03:14 [32minfo[39m: https://api.deepseek.com//chat/completions
+2025-03-20 06:03:26 [32minfo[39m: Respuesta obtenida de DeepSeek.
+2025-03-20 06:03:26 [32minfo[39m: [Input] Respuesta generada: Aspiración salarial: Dependiendo del nivel de responsabilidad, complejidad del proyecto y ubicación, mi aspiración salarial ronda entre **$80,000 y $120,000 anuales** (puede variar según beneficios y modalidad de trabajo).  
+
+Años de experiencia en Backend: **Más de 10 años**, principalmente con tecnologías como Node.js, Java (Spring Boot), NestJS y Express.js. He liderado equipos, diseñado arquitecturas escalables y trabajado en proyectos de alta demanda.  
+
+¿Necesitas más detalles? 😊
+2025-03-20 08:28:54 [32minfo[39m: Haciendo click en la vacante usando selector: li[data-occludable-job-id="4183087708"]
+2025-03-20 08:28:57 [32minfo[39m: Haciendo click en la vacante usando selector: li[data-occludable-job-id="4183087708"]
+2025-03-20 08:29:00 [32minfo[39m: Haciendo click en la vacante usando selector: li[data-occludable-job-id="4183087708"]
+2025-03-20 08:29:00 [31merror[39m: Error en FlowController: page.click: Target page, context or browser has been closed
+2025-03-20 08:29:00 [31merror[39m: Error en main.js: page.click: Target page, context or browser has been closed
+2025-03-21 08:55:22 [32minfo[39m: [object Object]
+2025-03-21 08:55:22 [32minfo[39m: Iniciando bot con URL: https://www.linkedin.com/jobs/search/?currentJobId=4183935829&distance=50&geoId=102361989&keywords=Desarrollador&origin=JOBS_HOME_KEYWORD_HISTORY&refresh=true
+2025-03-21 08:55:23 [32minfo[39m: Cookies cargadas desde archivo.
+2025-03-21 08:55:23 [32minfo[39m: Aplicando retraso aleatorio de 1411 ms.
+2025-03-21 08:55:39 [32minfo[39m: Usuario ya autenticado.
+2025-03-21 08:55:39 [32minfo[39m: Cookies guardadas en archivo.
+2025-03-21 08:55:42 [32minfo[39m: JobListModule inicializado.
+2025-03-21 08:55:42 [32minfo[39m: === INICIO DEL FLUJO DE BÚSQUEDA DE VACANTES ===
+2025-03-21 08:55:42 [32minfo[39m: Navegando a la URL de búsqueda: https://www.linkedin.com/jobs/search/?currentJobId=4183935829&distance=50&geoId=102361989&keywords=Desarrollador&origin=JOBS_HOME_KEYWORD_HISTORY&refresh=true
+2025-03-21 08:55:42 [32minfo[39m: loadJobList: Navegando a la URL: https://www.linkedin.com/jobs/search/?currentJobId=4183935829&distance=50&geoId=102361989&keywords=Desarrollador&origin=JOBS_HOME_KEYWORD_HISTORY&refresh=true
+2025-03-21 08:55:45 [32minfo[39m: loadJobList: Esperando a que aparezcan elementos 'li.scaffold-layout__list-item'...
+2025-03-21 08:55:47 [32minfo[39m: loadJobList: Página cargada correctamente con los elementos de vacantes.
+2025-03-21 08:55:47 [32minfo[39m: Buscando vacantes disponibles...
+2025-03-21 08:55:47 [32minfo[39m: getJobs: Iniciando extracción de vacantes...
+2025-03-21 08:55:49 [32minfo[39m: getJobs: Se extrajeron 7 vacantes.
+2025-03-21 08:55:49 [32minfo[39m: Total de vacantes encontradas: 7
+2025-03-21 08:55:49 [32minfo[39m: --------------------------------------------------
+2025-03-21 08:55:49 [32minfo[39m: Abriendo vacante: Softtek - Full Stack Angular SR
+Full Stack Angular SR with verification
+2025-03-21 08:55:49 [32minfo[39m: Haciendo click en la vacante usando selector: li[data-occludable-job-id="4179157035"]
+2025-03-21 08:55:51 [32minfo[39m: Esperando a que se cargue el detalle de la vacante...
+2025-03-21 08:55:51 [32minfo[39m: Abriendo modal de Quick Apply...
+2025-03-21 08:55:54 [32minfo[39m: Botón "Solicitud sencilla" clickeado, esperando apertura del modal...
+2025-03-21 08:55:54 [32minfo[39m: Modal de "Solicitud sencilla" abierto.
+2025-03-21 08:55:54 [32minfo[39m: Modal abierto. Iniciando llenado del formulario multi-step...
+2025-03-21 08:55:54 [32minfo[39m: === INICIO DEL LLENADO MULTI-STEP DEL FORMULARIO ===
+2025-03-21 08:56:03 [32minfo[39m: [Step 1] Tipo detectado: DONE
+2025-03-21 08:56:03 [32minfo[39m: No se detecta un step definido (DONE). Finalizando llenado del formulario.
+2025-03-21 08:56:03 [32minfo[39m: === FINALIZÓ EL PROCESO MULTI-STEP PARA ESTA VACANTE ===
+2025-03-21 08:56:03 [32minfo[39m: Vacante procesada. Esperando 2 segundos antes de continuar con la siguiente vacante...
+2025-03-21 08:56:05 [32minfo[39m: --------------------------------------------------
+2025-03-21 08:56:05 [32minfo[39m: Abriendo vacante: NTT DATA Europe & Latam - Desarrollador(a) Frontend Mobile Junior
+Desarrollador(a) Frontend Mobile Junior with verification
+2025-03-21 08:56:05 [32minfo[39m: Haciendo click en la vacante usando selector: li[data-occludable-job-id="4185650982"]
+2025-03-21 08:56:27 [32minfo[39m: Haciendo click en la vacante usando selector: li[data-occludable-job-id="4185650982"]
+2025-03-21 08:56:30 [32minfo[39m: Haciendo click en la vacante usando selector: li[data-occludable-job-id="4185650982"]
+2025-03-21 08:56:33 [32minfo[39m: Haciendo click en la vacante usando selector: li[data-occludable-job-id="4185650982"]
+2025-03-21 08:56:33 [31merror[39m: Error en FlowController: page.click: Target page, context or browser has been closed
+2025-03-21 08:56:33 [31merror[39m: Error en main.js: page.click: Target page, context or browser has been closed
+2025-03-21 08:56:51 [32minfo[39m: [object Object]
+2025-03-21 08:56:51 [32minfo[39m: Iniciando bot con URL: https://www.linkedin.com/jobs/search/?currentJobId=4183935829&distance=50&geoId=102361989&keywords=Desarrollador&origin=JOBS_HOME_KEYWORD_HISTORY&refresh=true
+2025-03-21 08:56:52 [32minfo[39m: Cookies cargadas desde archivo.
+2025-03-21 08:56:52 [32minfo[39m: Aplicando retraso aleatorio de 1144 ms.
+2025-03-21 08:56:59 [31merror[39m: Error al verificar autenticación: page.goto: Target page, context or browser has been closed
+Call log:
+[2m  - navigating to "https://www.linkedin.com/feed/", waiting until "domcontentloaded"[22m
+
+2025-03-21 08:56:59 [31merror[39m: Error en main.js: page.goto: Target page, context or browser has been closed
+Call log:
+[2m  - navigating to "https://www.linkedin.com/feed/", waiting until "domcontentloaded"[22m
+
+2025-03-25 09:15:13 [32minfo[39m: [object Object]
+2025-03-25 09:15:13 [32minfo[39m: Iniciando bot con URL: https://www.linkedin.com/jobs/search/?currentJobId=4192883727&distance=50&geoId=102361989&keywords=Desarrollador&origin=JOBS_HOME_KEYWORD_HISTORY&refresh=true
+2025-03-25 09:15:15 [32minfo[39m: Cookies cargadas desde archivo.
+2025-03-25 09:15:15 [32minfo[39m: Aplicando retraso aleatorio de 1492 ms.
+2025-03-25 09:16:28 [32minfo[39m: Usuario ya autenticado.
+2025-03-25 09:16:28 [32minfo[39m: Cookies guardadas en archivo.
+2025-03-25 09:16:30 [32minfo[39m: JobListModule inicializado.
+2025-03-25 09:16:30 [32minfo[39m: === INICIO DEL FLUJO DE BÚSQUEDA DE VACANTES ===
+2025-03-25 09:16:30 [32minfo[39m: Navegando a la URL de búsqueda: https://www.linkedin.com/jobs/search/?currentJobId=4192883727&distance=50&geoId=102361989&keywords=Desarrollador&origin=JOBS_HOME_KEYWORD_HISTORY&refresh=true
+2025-03-25 09:16:30 [32minfo[39m: loadJobList: Navegando a la URL: https://www.linkedin.com/jobs/search/?currentJobId=4192883727&distance=50&geoId=102361989&keywords=Desarrollador&origin=JOBS_HOME_KEYWORD_HISTORY&refresh=true
+2025-03-25 09:16:38 [32minfo[39m: loadJobList: Esperando a que aparezcan elementos 'li.scaffold-layout__list-item'...
+2025-03-25 09:16:39 [32minfo[39m: loadJobList: Página cargada correctamente con los elementos de vacantes.
+2025-03-25 09:16:39 [32minfo[39m: loadAllJobs: Iniciando lazy loading de vacantes...
+2025-03-25 09:17:25 [32minfo[39m: loadAllJobs: Vacantes cargadas inicialmente: 25
+2025-03-25 09:17:25 [32minfo[39m: loadAllJobs: Se encontró que currentCount (25) es mayor que previousCount (0). Realizando scroll...
+2025-03-25 09:17:31 [32minfo[39m: loadAllJobs: Vacantes cargadas tras scroll: 25
+2025-03-25 09:17:31 [32minfo[39m: loadAllJobs: Lazy loading completado. No se cargaron más vacantes.
+2025-03-25 09:17:31 [32minfo[39m: Buscando vacantes disponibles...
+2025-03-25 09:17:31 [32minfo[39m: getJobs: Iniciando extracción de vacantes...
+2025-03-25 09:17:33 [32minfo[39m: getJobs: Se extrajeron 7 vacantes.
+2025-03-25 09:17:33 [32minfo[39m: Total de vacantes encontradas: 7
+2025-03-25 09:17:33 [32minfo[39m: --------------------------------------------------
+2025-03-25 09:17:33 [32minfo[39m: Abriendo vacante: Softtek - Full Stack Angular SR
+Full Stack Angular SR with verification (ID: 4179157035)
+2025-03-25 09:17:33 [32minfo[39m: Haciendo click en la vacante usando selector: li[data-occludable-job-id="4179157035"]
+2025-03-25 09:17:36 [32minfo[39m: Esperando a que se cargue el detalle de la vacante...
+2025-03-25 09:17:36 [32minfo[39m: Abriendo modal de Quick Apply...
+2025-03-25 09:17:39 [32minfo[39m: Botón "Solicitud sencilla" clickeado, esperando apertura del modal...
+2025-03-25 09:17:39 [32minfo[39m: Modal de "Solicitud sencilla" abierto.
+2025-03-25 09:17:39 [32minfo[39m: Modal abierto. Iniciando llenado del formulario multi-step...
+2025-03-25 09:17:39 [32minfo[39m: === INICIO DEL LLENADO MULTI-STEP DEL FORMULARIO ===
+2025-03-25 09:17:39 [32minfo[39m: Se detectó el modal de Easy Apply.
+2025-03-25 09:19:49 [32minfo[39m: [Step 1] Tipo detectado: DONE
+2025-03-25 09:19:49 [33mwarn[39m: No se detecta un step definido. Verificando si el modal sigue abierto...
+2025-03-25 09:19:49 [32minfo[39m: El modal sigue abierto, esperando y reintentando...
+2025-03-25 09:20:19 [32minfo[39m: [Step 1] Tipo detectado: DONE
+2025-03-25 09:20:19 [32minfo[39m: El mismo step se ha detectado 1 veces consecutivas.
+2025-03-25 09:20:19 [33mwarn[39m: No se detecta un step definido. Verificando si el modal sigue abierto...
+2025-03-25 09:20:19 [32minfo[39m: El modal sigue abierto, esperando y reintentando...
+2025-03-25 09:20:39 [32minfo[39m: [Step 1] Tipo detectado: DONE
+2025-03-25 09:20:39 [32minfo[39m: El mismo step se ha detectado 2 veces consecutivas.
+2025-03-25 09:20:39 [33mwarn[39m: No se detecta un step definido. Verificando si el modal sigue abierto...
+2025-03-25 09:20:39 [32minfo[39m: El modal sigue abierto, esperando y reintentando...
+2025-03-25 15:42:01 [32minfo[39m: [object Object]
+2025-03-25 15:42:01 [32minfo[39m: Iniciando bot con URL: https://www.linkedin.com/jobs/search/?currentJobId=4192883727&distance=50&geoId=102361989&keywords=Desarrollador&origin=JOBS_HOME_KEYWORD_HISTORY&refresh=true
+2025-03-25 15:42:03 [32minfo[39m: Cookies cargadas desde archivo.
+2025-03-25 15:42:03 [32minfo[39m: Aplicando retraso aleatorio de 1384 ms.
+2025-03-25 15:49:20 [32minfo[39m: [object Object]
+2025-03-25 15:49:20 [32minfo[39m: Iniciando bot con URL: https://www.linkedin.com/jobs/search/?currentJobId=4192883727&distance=50&geoId=102361989&keywords=Desarrollador&origin=JOBS_HOME_KEYWORD_HISTORY&refresh=true
+2025-03-25 15:49:21 [32minfo[39m: Cookies cargadas desde archivo.
+2025-03-25 15:49:21 [32minfo[39m: Aplicando retraso aleatorio de 1457 ms.
+2025-03-25 15:49:32 [31merror[39m: Error al verificar autenticación: page.goto: Target page, context or browser has been closed
+Call log:
+[2m  - navigating to "https://www.linkedin.com/feed/", waiting until "domcontentloaded"[22m
+
+2025-03-25 15:49:32 [31merror[39m: Error en main.js: page.goto: Target page, context or browser has been closed
+Call log:
+[2m  - navigating to "https://www.linkedin.com/feed/", waiting until "domcontentloaded"[22m
+
+2025-03-25 15:53:07 [32minfo[39m: [object Object]
+2025-03-25 15:53:07 [32minfo[39m: Iniciando bot con URL: https://www.linkedin.com/jobs/search/?currentJobId=4192883727&distance=50&geoId=102361989&keywords=Desarrollador&origin=JOBS_HOME_KEYWORD_HISTORY&refresh=true
+2025-03-25 15:53:08 [32minfo[39m: Cookies cargadas desde archivo.
+2025-03-25 15:53:08 [32minfo[39m: Aplicando retraso aleatorio de 539 ms.
+2025-03-25 16:13:18 [32minfo[39m: [object Object]
+2025-03-25 16:13:18 [32minfo[39m: Iniciando bot con URL: https://www.linkedin.com/jobs/search/?currentJobId=4192883727&distance=50&geoId=102361989&keywords=Desarrollador&origin=JOBS_HOME_KEYWORD_HISTORY&refresh=true
+2025-03-25 16:13:19 [32minfo[39m: Cookies cargadas desde archivo.
+2025-03-25 16:13:19 [32minfo[39m: Aplicando retraso aleatorio de 678 ms.
+2025-03-25 16:13:39 [32minfo[39m: Usuario ya autenticado.
+2025-03-25 16:13:39 [32minfo[39m: Cookies guardadas en archivo.
+2025-03-25 16:13:41 [32minfo[39m: JobListModule inicializado.
+2025-03-25 16:13:41 [32minfo[39m: === INICIO DEL FLUJO DE BÚSQUEDA DE VACANTES ===
+2025-03-25 16:13:41 [32minfo[39m: Navegando a la URL de búsqueda: https://www.linkedin.com/jobs/search/?currentJobId=4192883727&distance=50&geoId=102361989&keywords=Desarrollador&origin=JOBS_HOME_KEYWORD_HISTORY&refresh=true
+2025-03-25 16:13:41 [32minfo[39m: loadJobList: Navegando a la URL: https://www.linkedin.com/jobs/search/?currentJobId=4192883727&distance=50&geoId=102361989&keywords=Desarrollador&origin=JOBS_HOME_KEYWORD_HISTORY&refresh=true
+2025-03-25 16:13:44 [32minfo[39m: loadJobList: Esperando a que aparezcan elementos 'li.scaffold-layout__list-item'...
+2025-03-25 16:13:45 [32minfo[39m: loadJobList: Página cargada correctamente con los elementos de vacantes.
+2025-03-25 16:13:45 [32minfo[39m: loadAllJobs: Iniciando lazy loading de vacantes...
+2025-03-25 16:13:47 [32minfo[39m: loadAllJobs: Vacantes cargadas inicialmente: 25
+2025-03-25 16:13:47 [32minfo[39m: loadAllJobs: Se encontró que currentCount (25) es mayor que previousCount (0). Realizando scroll...
+2025-03-25 16:13:53 [32minfo[39m: loadAllJobs: Vacantes cargadas tras scroll: 25
+2025-03-25 16:13:53 [32minfo[39m: loadAllJobs: Lazy loading completado. No se cargaron más vacantes.
+2025-03-25 16:13:53 [32minfo[39m: Buscando vacantes disponibles...
+2025-03-25 16:13:53 [32minfo[39m: getJobs: Iniciando extracción de vacantes...
+2025-03-25 16:13:55 [32minfo[39m: getJobs: Se extrajeron 7 vacantes.
+2025-03-25 16:13:55 [32minfo[39m: Total de vacantes encontradas: 7
+2025-03-25 16:13:55 [32minfo[39m: --------------------------------------------------
+2025-03-25 16:13:55 [32minfo[39m: Abriendo vacante: Softtek - Full Stack Angular SR
+Full Stack Angular SR with verification (ID: 4179157035)
+2025-03-25 16:13:55 [32minfo[39m: Vacante "Softtek - Full Stack Angular SR
+Full Stack Angular SR with verification" no es de Quick Apply. Se omite.
+2025-03-25 16:13:55 [32minfo[39m: --------------------------------------------------
+2025-03-25 16:13:55 [32minfo[39m: Abriendo vacante: Ceiba Software - Dev senior NodeJS Bilingüe
+Dev senior NodeJS Bilingüe with verification (ID: 4193522051)
+2025-03-25 16:13:55 [32minfo[39m: Haciendo click en la vacante usando selector: li[data-occludable-job-id="4193522051"]
+2025-03-25 16:13:57 [32minfo[39m: Esperando a que se cargue el detalle de la vacante...
+2025-03-25 16:13:58 [32minfo[39m: Abriendo modal de Quick Apply...
+2025-03-25 16:13:59 [32minfo[39m: Botón "Solicitud sencilla" clickeado, esperando apertura del modal...
+2025-03-25 16:13:59 [32minfo[39m: Modal de "Solicitud sencilla" abierto.
+2025-03-25 16:13:59 [32minfo[39m: Modal abierto. Iniciando llenado del formulario multi-step...
+2025-03-25 16:13:59 [32minfo[39m: === INICIO DEL LLENADO MULTI-STEP DEL FORMULARIO ===
+2025-03-25 16:13:59 [32minfo[39m: Se detectó el modal de Easy Apply.
+2025-03-25 16:14:02 [32minfo[39m: [Step 1] Tipo detectado: CONTACT_INFO
+2025-03-25 16:14:02 [32minfo[39m: Step 'Contact Info' detectado; se hace clic en 'Siguiente'.
+2025-03-25 16:14:04 [32minfo[39m: Intentando hacer clic en el botón 'Siguiente' o 'Revisar' dentro del modal...
+2025-03-25 16:14:04 [32minfo[39m: Buscando botón de avance usando el selector: button[data-live-test-easy-apply-review-button], button[data-easy-apply-next-button]
+2025-03-25 16:14:04 [32minfo[39m: Desplazando el botón de avance dentro del modal al centro del viewport...
+2025-03-25 16:14:07 [32minfo[39m: Haciendo clic en el botón de avance...
+2025-03-25 16:14:11 [32minfo[39m: El contenido del formulario cambió tras hacer clic en 'Siguiente'.
+2025-03-25 16:14:25 [32minfo[39m: [Step 2] Tipo detectado: DONE
+2025-03-25 16:14:25 [33mwarn[39m: No se detecta un step definido (DONE). Finalizando llenado del formulario.
+2025-03-25 16:14:25 [32minfo[39m: === FINALIZÓ EL PROCESO MULTI-STEP PARA ESTA VACANTE ===
+2025-03-25 16:14:25 [32minfo[39m: Verificando que no quede ningún modal abierto antes de continuar...
+2025-03-25 16:14:35 [33mwarn[39m: Se detectó un modal abierto. Intentando forzar su cierre...
+2025-03-25 16:14:48 [32minfo[39m: Haciendo click en la vacante usando selector: li[data-occludable-job-id="4193522051"]
+2025-03-25 16:14:51 [32minfo[39m: Haciendo click en la vacante usando selector: li[data-occludable-job-id="4193522051"]
+2025-03-25 16:14:54 [32minfo[39m: Haciendo click en la vacante usando selector: li[data-occludable-job-id="4193522051"]
+2025-03-25 16:14:54 [31merror[39m: Error en FlowController: page.click: Target page, context or browser has been closed
+2025-03-25 16:14:54 [31merror[39m: Error en main.js: page.click: Target page, context or browser has been closed
+2025-03-26 08:14:18 [32minfo[39m: [object Object]
+2025-03-26 08:14:18 [32minfo[39m: Iniciando bot con URL: https://www.linkedin.com/jobs/search/?currentJobId=4192883727&distance=50&geoId=102361989&keywords=Desarrollador&origin=JOBS_HOME_KEYWORD_HISTORY&refresh=true
+2025-03-26 08:14:20 [32minfo[39m: Cookies cargadas desde archivo.
+2025-03-26 08:14:20 [32minfo[39m: Aplicando retraso aleatorio de 769 ms.
+2025-03-26 08:14:41 [32minfo[39m: Usuario ya autenticado.
+2025-03-26 08:14:41 [32minfo[39m: Cookies guardadas en archivo.
+2025-03-26 08:14:45 [32minfo[39m: JobListModule inicializado.
+2025-03-26 08:14:45 [32minfo[39m: === INICIO DEL FLUJO DE BÚSQUEDA DE VACANTES ===
+2025-03-26 08:14:45 [32minfo[39m: Navegando a la URL de búsqueda: https://www.linkedin.com/jobs/search/?currentJobId=4192883727&distance=50&geoId=102361989&keywords=Desarrollador&origin=JOBS_HOME_KEYWORD_HISTORY&refresh=true
+2025-03-26 08:14:45 [32minfo[39m: loadJobList: Navegando a la URL: https://www.linkedin.com/jobs/search/?currentJobId=4192883727&distance=50&geoId=102361989&keywords=Desarrollador&origin=JOBS_HOME_KEYWORD_HISTORY&refresh=true
+2025-03-26 08:14:52 [32minfo[39m: loadJobList: Esperando a que aparezcan elementos 'li.scaffold-layout__list-item'...
+2025-03-26 08:14:53 [32minfo[39m: loadJobList: Página cargada correctamente con los elementos de vacantes.
+2025-03-26 08:14:53 [32minfo[39m: loadAllJobs: Iniciando lazy loading de vacantes...
+2025-03-26 08:14:56 [32minfo[39m: loadAllJobs: Vacantes cargadas inicialmente: 25
+2025-03-26 08:14:56 [32minfo[39m: loadAllJobs: Se encontró que currentCount (25) es mayor que previousCount (0). Realizando scroll...
+2025-03-26 08:15:04 [32minfo[39m: loadAllJobs: Vacantes cargadas tras scroll: 25
+2025-03-26 08:15:04 [32minfo[39m: loadAllJobs: Lazy loading completado. No se cargaron más vacantes.
+2025-03-26 08:15:04 [32minfo[39m: Buscando vacantes disponibles...
+2025-03-26 08:15:04 [32minfo[39m: getJobs: Iniciando extracción de vacantes...
+2025-03-26 08:15:07 [32minfo[39m: getJobs: Se extrajeron 7 vacantes.
+2025-03-26 08:15:07 [32minfo[39m: Total de vacantes encontradas: 7
+2025-03-26 08:15:07 [32minfo[39m: --------------------------------------------------
+2025-03-26 08:15:07 [32minfo[39m: Abriendo vacante: Atlas Bench - Senior JavaScript Developer
+Senior JavaScript Developer (ID: 4190416261)
+2025-03-26 08:15:07 [32minfo[39m: Haciendo click en la vacante usando selector: li[data-occludable-job-id="4190416261"]
+2025-03-26 08:15:09 [32minfo[39m: Esperando a que se cargue el detalle de la vacante...
+2025-03-26 08:15:10 [32minfo[39m: Abriendo modal de Quick Apply...
+2025-03-26 08:15:12 [32minfo[39m: Botón "Solicitud sencilla" clickeado, esperando apertura del modal...
+2025-03-26 08:15:12 [32minfo[39m: Modal de "Solicitud sencilla" abierto.
+2025-03-26 08:15:12 [32minfo[39m: Modal abierto. Iniciando llenado del formulario multi-step...
+2025-03-26 08:15:12 [32minfo[39m: === INICIO DEL LLENADO MULTI-STEP DEL FORMULARIO ===
+2025-03-26 08:15:12 [32minfo[39m: Se detectó el modal de Easy Apply.
+2025-03-26 08:15:14 [32minfo[39m: [Step 1] Tipo detectado: CONTACT_INFO
+2025-03-26 08:15:14 [32minfo[39m: Step 'Contact Info' detectado; pulsando 'Siguiente'.
+2025-03-26 08:15:16 [32minfo[39m: Intentando hacer clic en el botón 'Siguiente' o 'Revisar' dentro del modal...
+2025-03-26 08:15:16 [32minfo[39m: Buscando botón de avance usando el selector: button[data-live-test-easy-apply-review-button], button[data-easy-apply-next-button]
+2025-03-26 08:15:17 [32minfo[39m: Desplazando el botón de avance dentro del modal al centro del viewport...
+2025-03-26 08:15:19 [32minfo[39m: Haciendo clic en el botón de avance...
+2025-03-26 08:15:23 [32minfo[39m: El contenido del formulario cambió tras hacer clic en 'Siguiente'.
+2025-03-26 08:15:43 [32minfo[39m: [Step 2] Tipo detectado: RESUME
+2025-03-26 08:15:43 [32minfo[39m: Step 'Resume' detectado; se omite y se hace clic en 'Siguiente'.
+2025-03-26 08:15:46 [32minfo[39m: Intentando hacer clic en el botón 'Siguiente' o 'Revisar' dentro del modal...
+2025-03-26 08:15:46 [32minfo[39m: Buscando botón de avance usando el selector: button[data-live-test-easy-apply-review-button], button[data-easy-apply-next-button]
+2025-03-26 08:15:46 [32minfo[39m: Desplazando el botón de avance dentro del modal al centro del viewport...
+2025-03-26 08:15:47 [32minfo[39m: Haciendo clic en el botón de avance...
+2025-03-26 08:35:02 [32minfo[39m: [object Object]
+2025-03-26 08:35:02 [32minfo[39m: Iniciando bot con URL: https://www.linkedin.com/jobs/search/?currentJobId=4192883727&distance=50&geoId=102361989&keywords=Desarrollador&origin=JOBS_HOME_KEYWORD_HISTORY&refresh=true
+2025-03-26 08:35:04 [32minfo[39m: Cookies cargadas desde archivo.
+2025-03-26 08:35:04 [32minfo[39m: Aplicando retraso aleatorio de 1206 ms.
+2025-03-26 08:36:06 [32minfo[39m: Usuario ya autenticado.
+2025-03-26 08:36:06 [32minfo[39m: Cookies guardadas en archivo.
+2025-03-26 08:36:09 [32minfo[39m: JobListModule inicializado.
+2025-03-26 08:36:09 [32minfo[39m: === INICIO DEL FLUJO DE BÚSQUEDA DE VACANTES ===
+2025-03-26 08:36:09 [32minfo[39m: Navegando a la URL de búsqueda: https://www.linkedin.com/jobs/search/?currentJobId=4192883727&distance=50&geoId=102361989&keywords=Desarrollador&origin=JOBS_HOME_KEYWORD_HISTORY&refresh=true
+2025-03-26 08:36:09 [32minfo[39m: loadJobList: Navegando a la URL: https://www.linkedin.com/jobs/search/?currentJobId=4192883727&distance=50&geoId=102361989&keywords=Desarrollador&origin=JOBS_HOME_KEYWORD_HISTORY&refresh=true
+2025-03-26 08:36:13 [32minfo[39m: loadJobList: Esperando a que aparezcan elementos 'li.scaffold-layout__list-item'...
+2025-03-26 08:36:16 [32minfo[39m: loadJobList: Página cargada correctamente con los elementos de vacantes.
+2025-03-26 08:36:16 [32minfo[39m: loadAllJobs: Iniciando lazy loading de vacantes...
+2025-03-26 08:36:18 [32minfo[39m: loadAllJobs: Vacantes cargadas inicialmente: 25
+2025-03-26 08:36:18 [32minfo[39m: loadAllJobs: Se encontró que currentCount (25) es mayor que previousCount (0). Realizando scroll...
+2025-03-26 08:36:25 [32minfo[39m: loadAllJobs: Vacantes cargadas tras scroll: 25
+2025-03-26 08:36:25 [32minfo[39m: loadAllJobs: Lazy loading completado. No se cargaron más vacantes.
+2025-03-26 08:36:25 [32minfo[39m: Buscando vacantes disponibles...
+2025-03-26 08:36:25 [32minfo[39m: getJobs: Iniciando extracción de vacantes...
+2025-03-26 08:36:27 [32minfo[39m: getJobs: Se extrajeron 7 vacantes.
+2025-03-26 08:36:27 [32minfo[39m: Total de vacantes encontradas: 7
+2025-03-26 08:36:27 [32minfo[39m: --------------------------------------------------
+2025-03-26 08:36:27 [32minfo[39m: Abriendo vacante: Atlas Bench - Senior JavaScript Developer
+Senior JavaScript Developer (ID: 4190416261)
+2025-03-26 08:36:27 [32minfo[39m: Haciendo click en la vacante usando selector: li[data-occludable-job-id="4190416261"]
+2025-03-26 08:36:29 [32minfo[39m: Esperando a que se cargue el detalle de la vacante...
+2025-03-26 08:36:30 [32minfo[39m: Abriendo modal de Quick Apply...
+2025-03-26 08:36:34 [32minfo[39m: Botón "Solicitud sencilla" clickeado, esperando apertura del modal...
+2025-03-26 08:36:34 [32minfo[39m: Modal de "Solicitud sencilla" abierto.
+2025-03-26 08:36:34 [32minfo[39m: Modal abierto. Iniciando llenado del formulario multi-step...
+2025-03-26 08:36:34 [32minfo[39m: === INICIO DEL LLENADO MULTI-STEP DEL FORMULARIO ===
+2025-03-26 08:36:34 [32minfo[39m: Se detectó el modal de Easy Apply.
+2025-03-26 08:36:37 [32minfo[39m: [Step 1] Tipo detectado: CONTACT_INFO
+2025-03-26 08:36:37 [32minfo[39m: Step 'Contact Info' detectado; pulsando 'Siguiente'.
+2025-03-26 08:36:38 [32minfo[39m: Intentando hacer clic en el botón 'Siguiente' o 'Revisar' dentro del modal...
+2025-03-26 08:36:38 [32minfo[39m: Buscando botón de avance usando el selector: button[data-live-test-easy-apply-review-button], button[data-easy-apply-next-button]
+2025-03-26 08:36:39 [32minfo[39m: Desplazando el botón de avance dentro del modal al centro del viewport...
+2025-03-26 08:36:41 [32minfo[39m: Haciendo clic en el botón de avance...
+2025-03-26 08:36:49 [32minfo[39m: El contenido del formulario cambió tras hacer clic en 'Siguiente'.
+2025-03-26 08:38:13 [32minfo[39m: [Step 2] Tipo detectado: RESUME
+2025-03-26 08:38:13 [32minfo[39m: Step 'Resume' detectado; se omite y se hace clic en 'Siguiente'.
+2025-03-26 08:38:15 [32minfo[39m: Intentando hacer clic en el botón 'Siguiente' o 'Revisar' dentro del modal...
+2025-03-26 08:38:15 [32minfo[39m: Buscando botón de avance usando el selector: button[data-live-test-easy-apply-review-button], button[data-easy-apply-next-button]
+2025-03-26 08:38:15 [32minfo[39m: Desplazando el botón de avance dentro del modal al centro del viewport...
+2025-03-26 08:38:17 [32minfo[39m: Haciendo clic en el botón de avance...
+2025-03-26 08:38:23 [32minfo[39m: El contenido del formulario cambió tras hacer clic en 'Siguiente'.
+2025-03-26 08:49:35 [32minfo[39m: [Step 3] Tipo detectado: REGULAR
+2025-03-26 08:49:35 [32minfo[39m: Step 'Regular' detectado. Se procederá a rellenar los campos.
+2025-03-26 08:49:51 [32minfo[39m: Se encontraron 16 campos para llenar en este step.
+2025-03-26 08:49:51 [32minfo[39m: [Input] Procesando campo de tipo "radio" con label: "Yes"
+2025-03-26 08:49:51 [32minfo[39m: [Input] Enviando prompt a Deepseek: Por favor, selecciona una de las siguientes opciones para el siguiente campo (radio): "Yes". Opciones: Yes, No. Responde solo con una opción exacta.
+2025-03-26 08:49:51 [32minfo[39m: Generando respuesta de DeepSeek...
+2025-03-26 08:49:51 [32minfo[39m: Enviando solicitud a DeepSeek...
+2025-03-26 08:49:51 [32minfo[39m: https://api.deepseek.com//chat/completions
+2025-03-26 08:49:56 [32minfo[39m: Respuesta obtenida de DeepSeek.
+2025-03-26 08:49:56 [32minfo[39m: [Input] Respuesta generada: Yes
+2025-03-26 08:49:56 [32minfo[39m: [Input] Seleccionando en el grupo de radio "Yes" la opción: Yes
+2025-03-26 08:49:59 [32minfo[39m: Haciendo click en la vacante usando selector: li[data-occludable-job-id="4190416261"]
+2025-03-26 09:22:36 [32minfo[39m: [object Object]
+2025-03-26 09:22:36 [32minfo[39m: Iniciando bot con URL: https://www.linkedin.com/jobs/search/?currentJobId=4192883727&distance=50&geoId=102361989&keywords=Desarrollador&origin=JOBS_HOME_KEYWORD_HISTORY&refresh=true
+2025-03-26 09:22:37 [32minfo[39m: Cookies cargadas desde archivo.
+2025-03-26 09:22:37 [32minfo[39m: Aplicando retraso aleatorio de 880 ms.
+2025-03-26 09:22:49 [32minfo[39m: Usuario ya autenticado.
+2025-03-26 09:22:49 [32minfo[39m: Cookies guardadas en archivo.
+2025-03-26 09:22:54 [32minfo[39m: JobListModule inicializado.
+2025-03-26 09:22:54 [32minfo[39m: === INICIO DEL FLUJO DE BÚSQUEDA DE VACANTES ===
+2025-03-26 09:22:54 [32minfo[39m: Navegando a la URL de búsqueda: https://www.linkedin.com/jobs/search/?currentJobId=4192883727&distance=50&geoId=102361989&keywords=Desarrollador&origin=JOBS_HOME_KEYWORD_HISTORY&refresh=true
+2025-03-26 09:22:54 [32minfo[39m: loadJobList: Navegando a la URL: https://www.linkedin.com/jobs/search/?currentJobId=4192883727&distance=50&geoId=102361989&keywords=Desarrollador&origin=JOBS_HOME_KEYWORD_HISTORY&refresh=true
+2025-03-26 09:23:00 [32minfo[39m: loadJobList: Esperando a que aparezcan elementos 'li.scaffold-layout__list-item'...
+2025-03-26 09:23:02 [32minfo[39m: loadJobList: Página cargada correctamente con los elementos de vacantes.
+2025-03-26 09:23:02 [32minfo[39m: loadAllJobs: Iniciando lazy loading de vacantes...
+2025-03-26 09:23:04 [32minfo[39m: loadAllJobs: Vacantes cargadas inicialmente: 25
+2025-03-26 09:23:04 [32minfo[39m: loadAllJobs: Se encontró que currentCount (25) es mayor que previousCount (0). Realizando scroll...
+2025-03-26 09:23:10 [32minfo[39m: loadAllJobs: Vacantes cargadas tras scroll: 25
+2025-03-26 09:23:10 [32minfo[39m: loadAllJobs: Lazy loading completado. No se cargaron más vacantes.
+2025-03-26 09:23:10 [32minfo[39m: Buscando vacantes disponibles...
+2025-03-26 09:23:10 [32minfo[39m: getJobs: Iniciando extracción de vacantes...
+2025-03-26 09:23:11 [32minfo[39m: getJobs: Se extrajeron 7 vacantes.
+2025-03-26 09:23:11 [32minfo[39m: Total de vacantes encontradas: 7
+2025-03-26 09:23:11 [32minfo[39m: --------------------------------------------------
+2025-03-26 09:23:11 [32minfo[39m: Abriendo vacante: Atlas Bench - Senior JavaScript Developer
+Senior JavaScript Developer (ID: 4190416261)
+2025-03-26 09:23:11 [32minfo[39m: Haciendo click en la vacante usando selector: li[data-occludable-job-id="4190416261"]
+2025-03-26 09:23:13 [32minfo[39m: Esperando a que se cargue el detalle de la vacante...
+2025-03-26 09:23:14 [32minfo[39m: Abriendo modal de Quick Apply...
+2025-03-26 09:23:17 [32minfo[39m: Botón "Solicitud sencilla" clickeado, esperando apertura del modal...
+2025-03-26 09:23:17 [32minfo[39m: Modal de "Solicitud sencilla" abierto.
+2025-03-26 09:23:17 [32minfo[39m: Modal abierto. Iniciando llenado del formulario multi-step...
+2025-03-26 09:23:17 [32minfo[39m: === INICIO DEL LLENADO MULTI-STEP DEL FORMULARIO ===
+2025-03-26 09:23:17 [32minfo[39m: Se detectó el modal de Easy Apply.
+2025-03-26 09:23:19 [32minfo[39m: [Step 1] Tipo detectado: CONTACT_INFO
+2025-03-26 09:23:19 [32minfo[39m: Step 'Contact Info' detectado; pulsando 'Siguiente'.
+2025-03-26 09:23:21 [32minfo[39m: Intentando hacer clic en el botón 'Siguiente' o 'Revisar' dentro del modal...
+2025-03-26 09:23:21 [32minfo[39m: Buscando botón de avance usando el selector: button[data-live-test-easy-apply-review-button], button[data-easy-apply-next-button]
+2025-03-26 09:23:21 [32minfo[39m: Desplazando el botón de avance dentro del modal al centro del viewport...
+2025-03-26 09:23:22 [32minfo[39m: Haciendo clic en el botón de avance...
+2025-03-26 09:23:26 [32minfo[39m: El contenido del formulario cambió tras hacer clic en 'Siguiente'.
+2025-03-26 09:23:33 [32minfo[39m: [Step 2] Tipo detectado: RESUME
+2025-03-26 09:23:33 [32minfo[39m: Step 'Resume' detectado; se omite y se hace clic en 'Siguiente'.
+2025-03-26 09:23:35 [32minfo[39m: Intentando hacer clic en el botón 'Siguiente' o 'Revisar' dentro del modal...
+2025-03-26 09:23:35 [32minfo[39m: Buscando botón de avance usando el selector: button[data-live-test-easy-apply-review-button], button[data-easy-apply-next-button]
+2025-03-26 09:23:35 [32minfo[39m: Desplazando el botón de avance dentro del modal al centro del viewport...
+2025-03-26 09:23:37 [32minfo[39m: Haciendo clic en el botón de avance...
+2025-03-26 09:24:57 [32minfo[39m: El contenido del formulario cambió tras hacer clic en 'Siguiente'.
+2025-03-26 09:25:13 [32minfo[39m: [Step 3] Tipo detectado: REGULAR
+2025-03-26 09:25:13 [32minfo[39m: Step 'Regular' detectado. Se procederá a rellenar los campos.
+2025-03-26 09:25:13 [32minfo[39m: Iniciando llenado de campos del formulario en este step...
+2025-03-26 09:25:17 [32minfo[39m: Campos de texto encontrados: 4
+2025-03-26 09:25:21 [32minfo[39m: Campos de select encontrados: 2
+2025-03-26 09:25:23 [32minfo[39m: Campos de radio encontrados: 2
+2025-03-26 09:25:23 [32minfo[39m: [Text] Llenando campo: "How many years of work experience do you have with Cloud Computing?"
+2025-03-26 09:25:23 [32minfo[39m: Generando respuesta de DeepSeek...
+2025-03-26 09:25:23 [32minfo[39m: Enviando solicitud a DeepSeek...
+2025-03-26 09:25:23 [32minfo[39m: https://api.deepseek.com//chat/completions
+2025-03-26 09:25:36 [32minfo[39m: Respuesta obtenida de DeepSeek.
+2025-03-26 09:25:36 [32minfo[39m: [Text] Respuesta generada: I have **5+ years of hands-on experience** with **Cloud Computing**, primarily in **AWS** (Amazon Web Services) and **Google Cloud Platform (GCP)**.  
+
+### **Key Cloud Experience Includes:**  
+✔ **AWS** (EC2, S3, Lambda, API Gateway, RDS, DynamoDB, CloudFormation, IAM)  
+✔ **GCP** (Compute Engine, Cloud Functions, Firebase, Cloud Storage, BigQuery)  
+✔ **Serverless Architectures** (AWS Lambda, API Gateway, GCP Cloud Functions)  
+✔ **CI/CD Pipelines** (AWS CodePipeline, GitHub Actions, Jenkins)  
+✔ **Containerization & Orchestration** (Docker, Kubernetes, AWS ECS)  
+
+While my strongest expertise is in **backend & full-stack development**, I’ve successfully deployed and scaled multiple cloud-native applications. Would be happy to dive deeper into specifics if needed! 🚀
+2025-03-26 09:26:54 [32minfo[39m: [Text] Campo "How many years of work experience do you have with Cloud Computing?" completado con: I have **5+ years of hands-on experience** with **Cloud Computing**, primarily in **AWS** (Amazon Web Services) and **Google Cloud Platform (GCP)**.  
+
+### **Key Cloud Experience Includes:**  
+✔ **AWS** (EC2, S3, Lambda, API Gateway, RDS, DynamoDB, CloudFormation, IAM)  
+✔ **GCP** (Compute Engine, Cloud Functions, Firebase, Cloud Storage, BigQuery)  
+✔ **Serverless Architectures** (AWS Lambda, API Gateway, GCP Cloud Functions)  
+✔ **CI/CD Pipelines** (AWS CodePipeline, GitHub Actions, Jenkins)  
+✔ **Containerization & Orchestration** (Docker, Kubernetes, AWS ECS)  
+
+While my strongest expertise is in **backend & full-stack development**, I’ve successfully deployed and scaled multiple cloud-native applications. Would be happy to dive deeper into specifics if needed! 🚀
+2025-03-26 09:27:02 [32minfo[39m: [Text] Llenando campo: "How many years of work experience do you have with Docker Products?"
+2025-03-26 09:27:02 [32minfo[39m: Generando respuesta de DeepSeek...
+2025-03-26 09:27:02 [32minfo[39m: Enviando solicitud a DeepSeek...
+2025-03-26 09:27:02 [32minfo[39m: https://api.deepseek.com//chat/completions
+2025-03-26 09:27:13 [32minfo[39m: Respuesta obtenida de DeepSeek.
+2025-03-26 09:27:13 [32minfo[39m: [Text] Respuesta generada: With **Cloud Computing**, I have **5+ years** of hands-on experience across AWS, Azure, and GCP—covering infrastructure, serverless architectures, CI/CD pipelines, and cloud-native development.  
+
+For **Docker & Containerization**, I have **4+ years** of expertise in containerized deployments, orchestration with Kubernetes, and optimizing Docker workflows for scalable microservices.  
+
+Would you like details on specific cloud services or Docker use cases? Happy to elaborate. 🚀
+2025-03-26 09:27:55 [32minfo[39m: [Text] Campo "How many years of work experience do you have with Docker Products?" completado con: With **Cloud Computing**, I have **5+ years** of hands-on experience across AWS, Azure, and GCP—covering infrastructure, serverless architectures, CI/CD pipelines, and cloud-native development.  
+
+For **Docker & Containerization**, I have **4+ years** of expertise in containerized deployments, orchestration with Kubernetes, and optimizing Docker workflows for scalable microservices.  
+
+Would you like details on specific cloud services or Docker use cases? Happy to elaborate. 🚀
+2025-03-26 09:28:00 [32minfo[39m: [Text] Llenando campo: "How many minutes from Chapinero are you?"
+2025-03-26 09:28:00 [32minfo[39m: Generando respuesta de DeepSeek...
+2025-03-26 09:28:00 [32minfo[39m: Enviando solicitud a DeepSeek...
+2025-03-26 09:28:00 [32minfo[39m: https://api.deepseek.com//chat/completions
+2025-03-26 09:28:11 [32minfo[39m: Respuesta obtenida de DeepSeek.
+2025-03-26 09:28:11 [32minfo[39m: [Text] Respuesta generada: Here's my response as a senior software engineer:  
+
+1. **Cloud Computing Experience**: 5+ years working with AWS, Azure, and GCP—deploying scalable applications, managing serverless architectures, and optimizing cloud costs.  
+
+2. **Docker & Containerization**: 6+ years using Docker, Kubernetes, and orchestration tools for CI/CD pipelines and microservices.  
+
+3. **Location**: Can't answer that—I'm a virtual professional! But if you're in Bogotá and need tech insights, happy to help remotely.  
+
+Let me know if you'd like deeper details on cloud or DevOps best practices. 🚀
+2025-03-26 09:29:02 [32minfo[39m: [Text] Campo "How many minutes from Chapinero are you?" completado con: Here's my response as a senior software engineer:  
+
+1. **Cloud Computing Experience**: 5+ years working with AWS, Azure, and GCP—deploying scalable applications, managing serverless architectures, and optimizing cloud costs.  
+
+2. **Docker & Containerization**: 6+ years using Docker, Kubernetes, and orchestration tools for CI/CD pipelines and microservices.  
+
+3. **Location**: Can't answer that—I'm a virtual professional! But if you're in Bogotá and need tech insights, happy to help remotely.  
+
+Let me know if you'd like deeper details on cloud or DevOps best practices. 🚀
+2025-03-26 09:30:28 [32minfo[39m: [Text] Llenando campo: "How many years of experience do you have with project management tools such as Jira and Confluence"
+2025-03-26 09:30:28 [32minfo[39m: Generando respuesta de DeepSeek...
+2025-03-26 09:30:28 [32minfo[39m: Enviando solicitud a DeepSeek...
+2025-03-26 09:30:28 [32minfo[39m: https://api.deepseek.com//chat/completions
+2025-03-26 09:30:37 [32minfo[39m: Respuesta obtenida de DeepSeek.
+2025-03-26 09:30:37 [32minfo[39m: [Text] Respuesta generada: Here are concise answers to your questions:  
+
+1. **Cloud Computing**: 5+ years of experience (AWS, Azure, and GCP).  
+2. **Docker Products**: 4+ years of experience (containers, Kubernetes, and orchestration).  
+3. **Minutes from Chapinero**: Approximately 15-20 minutes (depending on exact location).  
+4. **Project Management Tools (Jira/Confluence)**: 6+ years of experience.  
+
+Let me know if you'd like further details!
+2025-03-26 09:30:38 [32minfo[39m: [object Object]
+2025-03-26 09:30:38 [32minfo[39m: Iniciando bot con URL: https://www.linkedin.com/jobs/search/?currentJobId=4192883727&distance=50&geoId=102361989&keywords=Desarrollador&origin=JOBS_HOME_KEYWORD_HISTORY&refresh=true
+2025-03-26 09:30:39 [32minfo[39m: Cookies cargadas desde archivo.
+2025-03-26 09:30:39 [32minfo[39m: Aplicando retraso aleatorio de 1416 ms.
+2025-03-26 09:30:53 [32minfo[39m: Usuario ya autenticado.
+2025-03-26 09:30:53 [32minfo[39m: Cookies guardadas en archivo.
+2025-03-26 09:30:54 [32minfo[39m: JobListModule inicializado.
+2025-03-26 09:30:54 [32minfo[39m: === INICIO DEL FLUJO DE BÚSQUEDA DE VACANTES ===
+2025-03-26 09:30:54 [32minfo[39m: Navegando a la URL de búsqueda: https://www.linkedin.com/jobs/search/?currentJobId=4192883727&distance=50&geoId=102361989&keywords=Desarrollador&origin=JOBS_HOME_KEYWORD_HISTORY&refresh=true
+2025-03-26 09:30:54 [32minfo[39m: loadJobList: Navegando a la URL: https://www.linkedin.com/jobs/search/?currentJobId=4192883727&distance=50&geoId=102361989&keywords=Desarrollador&origin=JOBS_HOME_KEYWORD_HISTORY&refresh=true
+2025-03-26 09:30:56 [32minfo[39m: loadJobList: Esperando a que aparezcan elementos 'li.scaffold-layout__list-item'...
+2025-03-26 09:31:01 [32minfo[39m: loadJobList: Página cargada correctamente con los elementos de vacantes.
+2025-03-26 09:31:01 [32minfo[39m: loadAllJobs: Iniciando lazy loading de vacantes...
+2025-03-26 09:31:01 [32minfo[39m: loadAllJobs: Vacantes cargadas inicialmente: 25
+2025-03-26 09:31:01 [32minfo[39m: loadAllJobs: Se encontró que currentCount (25) es mayor que previousCount (0). Realizando scroll...
+2025-03-26 09:31:04 [32minfo[39m: loadAllJobs: Vacantes cargadas tras scroll: 25
+2025-03-26 09:31:04 [32minfo[39m: loadAllJobs: Lazy loading completado. No se cargaron más vacantes.
+2025-03-26 09:31:04 [32minfo[39m: Buscando vacantes disponibles...
+2025-03-26 09:31:04 [32minfo[39m: getJobs: Iniciando extracción de vacantes...
+2025-03-26 09:31:04 [32minfo[39m: getJobs: Se extrajeron 7 vacantes.
+2025-03-26 09:31:04 [32minfo[39m: Total de vacantes encontradas: 7
+2025-03-26 09:31:04 [32minfo[39m: --------------------------------------------------
+2025-03-26 09:31:04 [32minfo[39m: Abriendo vacante: Atlas Bench - Senior JavaScript Developer
+Senior JavaScript Developer (ID: 4190416261)
+2025-03-26 09:31:04 [32minfo[39m: Vacante "Atlas Bench - Senior JavaScript Developer
+Senior JavaScript Developer" no es de Quick Apply. Se omite.
+2025-03-26 09:31:04 [32minfo[39m: --------------------------------------------------
+2025-03-26 09:31:04 [32minfo[39m: Abriendo vacante: WeiBook - Sr. Full Stack Developer (Node.js/React/TypeScript)
+Sr. Full Stack Developer (Node.js/React/TypeScript) (ID: 4183087708)
+2025-03-26 09:31:04 [32minfo[39m: Haciendo click en la vacante usando selector: li[data-occludable-job-id="4183087708"]
+2025-03-26 09:31:04 [32minfo[39m: Esperando a que se cargue el detalle de la vacante...
+2025-03-26 09:31:05 [32minfo[39m: Abriendo modal de Quick Apply...
+2025-03-26 09:31:07 [32minfo[39m: Botón "Solicitud sencilla" clickeado, esperando apertura del modal...
+2025-03-26 09:31:07 [32minfo[39m: Modal de "Solicitud sencilla" abierto.
+2025-03-26 09:31:07 [32minfo[39m: Modal abierto. Iniciando llenado del formulario multi-step...
+2025-03-26 09:31:07 [32minfo[39m: === INICIO DEL LLENADO MULTI-STEP DEL FORMULARIO ===
+2025-03-26 09:31:07 [32minfo[39m: Se detectó el modal de Easy Apply.
+2025-03-26 09:31:07 [32minfo[39m: [Step 1] Tipo detectado: CONTACT_INFO
+2025-03-26 09:31:07 [32minfo[39m: Step 'Contact Info' detectado; pulsando 'Siguiente'.
+2025-03-26 09:31:07 [32minfo[39m: Intentando hacer clic en el botón 'Siguiente' o 'Revisar' dentro del modal...
+2025-03-26 09:31:07 [32minfo[39m: Buscando botón de avance usando el selector: button[data-live-test-easy-apply-review-button], button[data-easy-apply-next-button]
+2025-03-26 09:31:07 [32minfo[39m: Desplazando el botón de avance dentro del modal al centro del viewport...
+2025-03-26 09:31:07 [32minfo[39m: Haciendo clic en el botón de avance...
+2025-03-26 09:31:07 [32minfo[39m: El contenido del formulario cambió tras hacer clic en 'Siguiente'.
+2025-03-26 09:31:09 [32minfo[39m: [Step 2] Tipo detectado: CURRICULUM
+2025-03-26 09:31:09 [32minfo[39m: Step 'Currículum' detectado; no se requiere acción. Pulsando 'Siguiente'.
+2025-03-26 09:31:09 [32minfo[39m: Intentando hacer clic en el botón 'Siguiente' o 'Revisar' dentro del modal...
+2025-03-26 09:31:09 [32minfo[39m: Buscando botón de avance usando el selector: button[data-live-test-easy-apply-review-button], button[data-easy-apply-next-button]
+2025-03-26 09:31:09 [32minfo[39m: Desplazando el botón de avance dentro del modal al centro del viewport...
+2025-03-26 09:31:09 [32minfo[39m: Haciendo clic en el botón de avance...
+2025-03-26 09:31:09 [32minfo[39m: El contenido del formulario cambió tras hacer clic en 'Siguiente'.
+2025-03-26 09:31:10 [32minfo[39m: [Step 3] Tipo detectado: REGULAR
+2025-03-26 09:31:10 [32minfo[39m: Step 'Regular' detectado. Se procederá a rellenar los campos.
+2025-03-26 09:31:10 [32minfo[39m: Iniciando llenado de campos del formulario en este step...
+2025-03-26 09:31:10 [32minfo[39m: Campos de texto encontrados: 4
+2025-03-26 09:31:10 [32minfo[39m: Campos de select encontrados: 1
+2025-03-26 09:31:10 [32minfo[39m: Campos de radio encontrados: 0
+2025-03-26 09:31:10 [32minfo[39m: [Text] Llenando campo: "Aspiración salarial en USD?"
+2025-03-26 09:31:10 [32minfo[39m: Generando respuesta de DeepSeek...
+2025-03-26 09:31:10 [32minfo[39m: Enviando solicitud a DeepSeek...
+2025-03-26 09:31:10 [32minfo[39m: https://api.deepseek.com//chat/completions
+2025-03-26 09:31:23 [32minfo[39m: Respuesta obtenida de DeepSeek.
+2025-03-26 09:31:23 [32minfo[39m: [Text] Respuesta generada: Depende del rol, seniority y ubicación, pero para posiciones senior/lead en tecnologías como JavaScript/Node/React con mi experiencia (10+ años), el rango suele ser:  
+
+- **Remoto para LATAM:** $5k - $9k/mes  
+- **Remoto para EE.UU./Europa:** $8k - $14k/mes  
+- **Híbrido/Presencial (Bogotá/CDMX/Buenos Aires):** $4k - $7k/mes  
+
+¿Qué tipo de posición estás evaluando? Podría ajustar la expectativa según detalles del proyecto y beneficios adicionales (equity, bonus, etc.).  
+
+*Nota: Valoro proyectos desafiantes y equipos sólidos tanto como la compensación.* 💻
+2025-03-26 09:32:07 [32minfo[39m: [Text] Campo "Aspiración salarial en USD?" completado con: Depende del rol, seniority y ubicación, pero para posiciones senior/lead en tecnologías como JavaScript/Node/React con mi experiencia (10+ años), el rango suele ser:  
+
+- **Remoto para LATAM:** $5k - $9k/mes  
+- **Remoto para EE.UU./Europa:** $8k - $14k/mes  
+- **Híbrido/Presencial (Bogotá/CDMX/Buenos Aires):** $4k - $7k/mes  
+
+¿Qué tipo de posición estás evaluando? Podría ajustar la expectativa según detalles del proyecto y beneficios adicionales (equity, bonus, etc.).  
+
+*Nota: Valoro proyectos desafiantes y equipos sólidos tanto como la compensación.* 💻
+2025-03-26 09:32:07 [32minfo[39m: [Text] Llenando campo: "Años de experiencia en Backend?"
+2025-03-26 09:32:07 [32minfo[39m: Generando respuesta de DeepSeek...
+2025-03-26 09:32:07 [32minfo[39m: Enviando solicitud a DeepSeek...
+2025-03-26 09:32:07 [32minfo[39m: https://api.deepseek.com//chat/completions
+2025-03-26 09:32:20 [32minfo[39m: Respuesta obtenida de DeepSeek.
+2025-03-26 09:32:20 [32minfo[39m: [Text] Respuesta generada: **Aspiración salarial:**  
+Depende del proyecto y ubicación, pero en general:  
+- **Remoto (Latam/US/Europa):** $6,000 – $12,000/mes (según stack, seniority y complejidad).  
+- **Híbrido/Presencial (Latam):** $4,500 – $9,000/mes.  
+
+**Experiencia en Backend:**  
++10 años con:  
+- **JavaScript/Node.js** (Express, NestJS).  
+- **Java** (Spring Boot).  
+- Bases de datos (SQL/NoSQL), arquitecturas escalables (microservicios, serverless), AWS/GCP, y DevOps básico.  
+
+¿Buscas algo específico? Puedo ajustar detalles según el rol.
+2025-03-26 09:33:00 [32minfo[39m: [Text] Campo "Años de experiencia en Backend?" completado con: **Aspiración salarial:**  
+Depende del proyecto y ubicación, pero en general:  
+- **Remoto (Latam/US/Europa):** $6,000 – $12,000/mes (según stack, seniority y complejidad).  
+- **Híbrido/Presencial (Latam):** $4,500 – $9,000/mes.  
+
+**Experiencia en Backend:**  
++10 años con:  
+- **JavaScript/Node.js** (Express, NestJS).  
+- **Java** (Spring Boot).  
+- Bases de datos (SQL/NoSQL), arquitecturas escalables (microservicios, serverless), AWS/GCP, y DevOps básico.  
+
+¿Buscas algo específico? Puedo ajustar detalles según el rol.
+2025-03-26 09:33:00 [32minfo[39m: [Text] Llenando campo: "¿Tienes experiencia en microservicios?"
+2025-03-26 09:33:00 [32minfo[39m: Generando respuesta de DeepSeek...
+2025-03-26 09:33:00 [32minfo[39m: Enviando solicitud a DeepSeek...
+2025-03-26 09:33:00 [32minfo[39m: https://api.deepseek.com//chat/completions
+2025-03-26 09:33:13 [32minfo[39m: Respuesta obtenida de DeepSeek.
+2025-03-26 09:33:13 [32minfo[39m: [Text] Respuesta generada: **Aspiración salarial:**  
+Depende del proyecto y ubicación, pero en general **$60K–$90K anuales** (remoto) o **$80K–$120K+** (EE.UU./Canadá). Para contratos, **$40–$70/hora**.  
+
+**Experiencia en Backend:**  
++10 años con **Node.js, Java (Spring Boot), NestJS, Express**.  
+
+**Microservicios:**  
+Sí, con **arquitecturas distribuidas, Docker, Kubernetes, mensajería (RabbitMQ/Kafka), APIs REST/gRPC, y bases de datos distribuidas**.  
+
+*¿Buscas algo específico?*
+2025-03-26 09:52:53 [32minfo[39m: [object Object]
+2025-03-26 09:52:53 [32minfo[39m: Iniciando bot con URL: https://www.linkedin.com/jobs/search/?currentJobId=4192883727&distance=50&geoId=102361989&keywords=Desarrollador&origin=JOBS_HOME_KEYWORD_HISTORY&refresh=true
+2025-03-26 09:52:54 [32minfo[39m: Cookies cargadas desde archivo.
+2025-03-26 09:52:55 [32minfo[39m: Aplicando retraso aleatorio de 1087 ms.
+2025-03-26 09:53:08 [32minfo[39m: Usuario ya autenticado.
+2025-03-26 09:53:08 [32minfo[39m: Cookies guardadas en archivo.
+2025-03-26 09:53:10 [32minfo[39m: JobListModule inicializado.
+2025-03-26 09:53:10 [32minfo[39m: === INICIO DEL FLUJO DE BÚSQUEDA DE VACANTES ===
+2025-03-26 09:53:10 [32minfo[39m: Navegando a la URL de búsqueda: https://www.linkedin.com/jobs/search/?currentJobId=4192883727&distance=50&geoId=102361989&keywords=Desarrollador&origin=JOBS_HOME_KEYWORD_HISTORY&refresh=true
+2025-03-26 09:53:10 [32minfo[39m: loadJobList: Navegando a la URL: https://www.linkedin.com/jobs/search/?currentJobId=4192883727&distance=50&geoId=102361989&keywords=Desarrollador&origin=JOBS_HOME_KEYWORD_HISTORY&refresh=true
+2025-03-26 09:53:19 [32minfo[39m: loadJobList: Esperando a que aparezcan elementos 'li.scaffold-layout__list-item'...
+2025-03-26 09:53:23 [32minfo[39m: loadJobList: Página cargada correctamente con los elementos de vacantes.
+2025-03-26 09:53:23 [32minfo[39m: loadAllJobs: Iniciando lazy loading de vacantes...
+2025-03-26 09:53:25 [32minfo[39m: loadAllJobs: Vacantes cargadas inicialmente: 25
+2025-03-26 09:53:25 [32minfo[39m: loadAllJobs: Se encontró que currentCount (25) es mayor que previousCount (0). Realizando scroll...
+2025-03-26 09:53:32 [32minfo[39m: loadAllJobs: Vacantes cargadas tras scroll: 25
+2025-03-26 09:53:32 [32minfo[39m: loadAllJobs: Lazy loading completado. No se cargaron más vacantes.
+2025-03-26 09:53:32 [32minfo[39m: Buscando vacantes disponibles...
+2025-03-26 09:53:32 [32minfo[39m: getJobs: Iniciando extracción de vacantes...
+2025-03-26 09:53:35 [32minfo[39m: getJobs: Se extrajeron 7 vacantes.
+2025-03-26 09:53:35 [32minfo[39m: Total de vacantes encontradas: 7
+2025-03-26 09:53:35 [32minfo[39m: --------------------------------------------------
+2025-03-26 09:53:35 [32minfo[39m: Abriendo vacante: Atlas Bench - Senior JavaScript Developer
+Senior JavaScript Developer (ID: 4190416261)
+2025-03-26 09:53:35 [32minfo[39m: Vacante "Atlas Bench - Senior JavaScript Developer
+Senior JavaScript Developer" no es de Quick Apply. Se omite.
+2025-03-26 09:53:35 [32minfo[39m: --------------------------------------------------
+2025-03-26 09:53:35 [32minfo[39m: Abriendo vacante: WeiBook - Sr. Full Stack Developer (Node.js/React/TypeScript)
+Sr. Full Stack Developer (Node.js/React/TypeScript) (ID: 4183087708)
+2025-03-26 09:53:35 [32minfo[39m: Haciendo click en la vacante usando selector: li[data-occludable-job-id="4183087708"]
+2025-03-26 09:53:37 [32minfo[39m: Esperando a que se cargue el detalle de la vacante...
+2025-03-26 09:53:38 [32minfo[39m: Abriendo modal de Quick Apply...
+2025-03-26 09:53:41 [32minfo[39m: Botón "Solicitud sencilla" clickeado, esperando apertura del modal...
+2025-03-26 09:53:41 [32minfo[39m: Modal de "Solicitud sencilla" abierto.
+2025-03-26 09:53:41 [32minfo[39m: Modal abierto. Iniciando llenado del formulario multi-step...
+2025-03-26 09:53:41 [32minfo[39m: === INICIO DEL LLENADO MULTI-STEP DEL FORMULARIO ===
+2025-03-26 09:53:41 [32minfo[39m: Se detectó el modal de Easy Apply.
+2025-03-26 09:53:43 [32minfo[39m: [Step 1] Tipo detectado: CONTACT_INFO
+2025-03-26 09:53:43 [32minfo[39m: Step 'Contact Info' detectado; pulsando 'Siguiente'.
+2025-03-26 09:53:45 [32minfo[39m: Intentando hacer clic en el botón 'Siguiente' o 'Revisar' dentro del modal...
+2025-03-26 09:53:45 [32minfo[39m: Buscando botón de avance usando el selector: button[data-live-test-easy-apply-review-button], button[data-easy-apply-next-button]
+2025-03-26 09:53:45 [32minfo[39m: Desplazando el botón de avance dentro del modal al centro del viewport...
+2025-03-26 09:53:47 [32minfo[39m: Haciendo clic en el botón de avance...
+2025-03-26 09:53:53 [32minfo[39m: El contenido del formulario cambió tras hacer clic en 'Siguiente'.
+2025-03-26 09:54:01 [32minfo[39m: [Step 2] Tipo detectado: CURRICULUM
+2025-03-26 09:54:01 [32minfo[39m: Step 'Currículum' detectado; no se requiere acción. Pulsando 'Siguiente'.
+2025-03-26 09:54:03 [32minfo[39m: Intentando hacer clic en el botón 'Siguiente' o 'Revisar' dentro del modal...
+2025-03-26 09:54:03 [32minfo[39m: Buscando botón de avance usando el selector: button[data-live-test-easy-apply-review-button], button[data-easy-apply-next-button]
+2025-03-26 09:54:03 [32minfo[39m: Desplazando el botón de avance dentro del modal al centro del viewport...
+2025-03-26 09:54:04 [32minfo[39m: Haciendo clic en el botón de avance...
+2025-03-26 09:54:11 [32minfo[39m: El contenido del formulario cambió tras hacer clic en 'Siguiente'.
+2025-03-26 09:57:13 [32minfo[39m: [Step 3] Tipo detectado: REGULAR
+2025-03-26 09:57:13 [32minfo[39m: Step 'Regular' detectado. Se procederá a rellenar los campos.
+2025-03-26 09:57:16 [32minfo[39m: Se encontraron 4 campos de texto para llenar en este step.
+2025-03-26 09:57:16 [32minfo[39m: [Text] Procesando campo: "Aspiración salarial en USD?"
+2025-03-26 09:57:16 [32minfo[39m: [Text] Intento 1 para el campo "Aspiración salarial en USD?"
+2025-03-26 09:57:16 [32minfo[39m: [Text] Realizando falso llenado con "a" para provocar mensaje de error...
+2025-03-26 09:57:28 [32minfo[39m: [Text] Mensaje de error detectado: "Introduce un número de decimal mayor que 0.0"
+2025-03-26 09:57:28 [32minfo[39m: [Text] Enviando prompt a Deepseek: "Aspiración salarial en USD?. Restricciones: Introduce un número de decimal mayor que 0.0. Por favor, responde únicamente con un valor que cumpla estas condiciones."
+2025-03-26 09:57:28 [32minfo[39m: Generando respuesta de DeepSeek...
+2025-03-26 09:57:28 [32minfo[39m: Enviando solicitud a DeepSeek...
+2025-03-26 09:57:28 [32minfo[39m: https://api.deepseek.com//chat/completions
+2025-03-26 09:57:34 [32minfo[39m: Respuesta obtenida de DeepSeek.
+2025-03-26 09:57:34 [32minfo[39m: [Text] Respuesta generada: "120000.5"
+2025-03-26 09:57:40 [32minfo[39m: [Text] Campo "Aspiración salarial en USD?" completado con: "120000.5"
+2025-03-26 09:57:46 [32minfo[39m: [Text] Procesando campo: "Años de experiencia en Backend?"
+2025-03-26 09:57:46 [32minfo[39m: [Text] Intento 1 para el campo "Años de experiencia en Backend?"
+2025-03-26 09:57:46 [32minfo[39m: [Text] Realizando falso llenado con "a" para provocar mensaje de error...
+2025-03-26 09:57:57 [32minfo[39m: [Text] Mensaje de error detectado: "Introduce un número de decimal mayor que 0.0"
+2025-03-26 09:57:57 [32minfo[39m: [Text] Enviando prompt a Deepseek: "Años de experiencia en Backend?. Restricciones: Introduce un número de decimal mayor que 0.0. Por favor, responde únicamente con un valor que cumpla estas condiciones."
+2025-03-26 09:57:57 [32minfo[39m: Generando respuesta de DeepSeek...
+2025-03-26 09:57:57 [32minfo[39m: Enviando solicitud a DeepSeek...
+2025-03-26 09:57:57 [32minfo[39m: https://api.deepseek.com//chat/completions
+2025-03-26 09:58:03 [32minfo[39m: Respuesta obtenida de DeepSeek.
+2025-03-26 09:58:03 [32minfo[39m: [Text] Respuesta generada: "1. 8500.5  
+2. 10.5"
+2025-03-26 09:58:10 [32minfo[39m: [Text] Campo "Años de experiencia en Backend?" completado con: "1. 8500.5  
+2. 10.5"
+2025-03-26 09:58:16 [33mwarn[39m: [Text] El mensaje de error sigue presente en el campo "Años de experiencia en Backend?". Se reintentará.
+2025-03-26 09:58:16 [32minfo[39m: [Text] Intento 2 para el campo "Años de experiencia en Backend?"
+2025-03-26 09:58:16 [32minfo[39m: [Text] Realizando falso llenado con "a" para provocar mensaje de error...
+2025-03-26 09:58:25 [32minfo[39m: [Text] Mensaje de error detectado: "Introduce un número de decimal mayor que 0.0"
+2025-03-26 09:58:25 [32minfo[39m: [Text] Enviando prompt a Deepseek: "Años de experiencia en Backend?. Restricciones: Introduce un número de decimal mayor que 0.0. Por favor, responde únicamente con un valor que cumpla estas condiciones."
+2025-03-26 09:58:25 [32minfo[39m: Generando respuesta de DeepSeek...
+2025-03-26 09:58:25 [32minfo[39m: Enviando solicitud a DeepSeek...
+2025-03-26 09:58:25 [32minfo[39m: https://api.deepseek.com//chat/completions
+2025-03-26 09:58:31 [32minfo[39m: Respuesta obtenida de DeepSeek.
+2025-03-26 09:58:31 [32minfo[39m: [Text] Respuesta generada: "1. 8500.5  
+2. 8.5  
+3. 8.5"
+2025-03-26 09:58:39 [32minfo[39m: [Text] Campo "Años de experiencia en Backend?" completado con: "1. 8500.5  
+2. 8.5  
+3. 8.5"
+2025-03-26 09:58:45 [33mwarn[39m: [Text] El mensaje de error sigue presente en el campo "Años de experiencia en Backend?". Se reintentará.
+2025-03-26 09:58:45 [32minfo[39m: [Text] Intento 3 para el campo "Años de experiencia en Backend?"
+2025-03-26 09:58:45 [32minfo[39m: [Text] Realizando falso llenado con "a" para provocar mensaje de error...
+2025-03-26 09:58:58 [32minfo[39m: [Text] Mensaje de error detectado: "Introduce un número de decimal mayor que 0.0"
+2025-03-26 09:58:58 [32minfo[39m: [Text] Enviando prompt a Deepseek: "Años de experiencia en Backend?. Restricciones: Introduce un número de decimal mayor que 0.0. Por favor, responde únicamente con un valor que cumpla estas condiciones."
+2025-03-26 09:58:58 [32minfo[39m: Generando respuesta de DeepSeek...
+2025-03-26 09:58:58 [32minfo[39m: Enviando solicitud a DeepSeek...
+2025-03-26 09:58:58 [32minfo[39m: https://api.deepseek.com//chat/completions
+2025-03-26 09:59:04 [32minfo[39m: Respuesta obtenida de DeepSeek.
+2025-03-26 09:59:04 [32minfo[39m: [Text] Respuesta generada: "8500.5  
+
+8.5  
+
+8.5  
+
+8.5"
+2025-03-26 09:59:11 [32minfo[39m: [Text] Campo "Años de experiencia en Backend?" completado con: "8500.5  
+
+8.5  
+
+8.5  
+
+8.5"
+2025-03-26 09:59:30 [33mwarn[39m: [Text] El mensaje de error sigue presente en el campo "Años de experiencia en Backend?". Se reintentará.
+2025-03-26 09:59:30 [31merror[39m: [Text] No se pudo obtener una respuesta válida para el campo "Años de experiencia en Backend?" tras 3 intentos. Cerrando modal y pasando a la siguiente vacante.
+2025-03-26 09:59:30 [32minfo[39m: Esperando a que aparezca el botón 'Descartar' en el modal de confirmación...
+2025-03-26 09:59:30 [32minfo[39m: Desplazando el botón 'Descartar' dentro del modal al centro del viewport...
+2025-03-26 09:59:30 [32minfo[39m: Haciendo clic en el botón 'Descartar' para cerrar el modal de confirmación...
+2025-03-26 09:59:30 [32minfo[39m: Esperando a que el modal se cierre completamente...
+2025-03-26 09:59:40 [33mwarn[39m: No se pudo cerrar el modal de confirmación: page.waitForSelector: Timeout 10000ms exceeded.
+Call log:
+[2m  - waiting for locator('.jobs-easy-apply-modal') to be detached[22m
+[2m    24 × locator resolved to visible <div size="large" role="dialog" tabindex="-1" data-test-modal="" aria-labelledby="jobs-apply-header" class="artdeco-modal artdeco-modal--layer-default jobs-easy-apply-modal">…</div>[22m
+
+2025-03-26 09:59:43 [32minfo[39m: Haciendo click en la vacante usando selector: li[data-occludable-job-id="4183087708"]
+2025-03-26 09:59:52 [32minfo[39m: Esperando a que se cargue el detalle de la vacante...
+2025-03-26 09:59:53 [32minfo[39m: Abriendo modal de Quick Apply...
+2025-03-26 09:59:53 [32minfo[39m: Botón "Solicitud sencilla" clickeado, esperando apertura del modal...
+2025-03-26 09:59:53 [32minfo[39m: Modal de "Solicitud sencilla" abierto.
+2025-03-26 09:59:53 [32minfo[39m: Modal abierto. Iniciando llenado del formulario multi-step...
+2025-03-26 09:59:53 [32minfo[39m: === INICIO DEL LLENADO MULTI-STEP DEL FORMULARIO ===
+2025-03-26 09:59:53 [32minfo[39m: Se detectó el modal de Easy Apply.
+2025-03-26 09:59:54 [32minfo[39m: [Step 1] Tipo detectado: CONTACT_INFO
+2025-03-26 09:59:54 [32minfo[39m: Step 'Contact Info' detectado; pulsando 'Siguiente'.
+2025-03-26 09:59:54 [32minfo[39m: Intentando hacer clic en el botón 'Siguiente' o 'Revisar' dentro del modal...
+2025-03-26 09:59:54 [32minfo[39m: Buscando botón de avance usando el selector: button[data-live-test-easy-apply-review-button], button[data-easy-apply-next-button]
+2025-03-26 09:59:54 [32minfo[39m: Desplazando el botón de avance dentro del modal al centro del viewport...
+2025-03-26 09:59:54 [32minfo[39m: Haciendo clic en el botón de avance...
+2025-03-26 09:59:54 [32minfo[39m: El contenido del formulario cambió tras hacer clic en 'Siguiente'.
